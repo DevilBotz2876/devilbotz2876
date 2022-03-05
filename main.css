@@ -1,7 +1,9 @@
 ---
 
 ---
-
+body {
+  font-family: Roboto, sans-serif
+}
 img.img-responsive {
   float: left;
   margin-right: 1em;
@@ -32,6 +34,14 @@ img.img-responsive {
   position: relative;
   text-align: left;
 }
+.site-branding .main-title {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 0;
+}
+.site-branding .main-title a {
+  text-decoration: none;
+}
 
 header .main-navigation {
   position: relative;
@@ -42,8 +52,9 @@ header .main-navigation {
   color: #222;
 }
 .site-header .site-description {
+  margin: 0 0 0 4px;
   font-size: 14px;
-  color: #aaa !important;
+  color: #aaa;
 }
 #site-navigation {
   background-color: #fff;
@@ -117,10 +128,7 @@ ul {
     font-size: 20px;
     color: #fff;
 }
-.site-header .site-description {
-    font-size: 14px;
-    color: #aaa !important;
-}
+
 nav.main-navigation button.menu-toggle {
     text-align: center;
     top: 0;
@@ -577,10 +585,6 @@ h2 {
   color: #222222;
 }
 
-.site-description {
-  color: #757575;
-}
-
 .main-navigation,
 .main-navigation ul ul {
   background-color: #222222;
@@ -838,19 +842,19 @@ body:not(.no-sidebar) .entry-content .alignfull {
 /* End cached CSS */
 @media (max-width:768px) {
   
-.main-navigation .menu-toggle,
-.main-navigation .mobile-bar-items,
-.sidebar-nav-mobile:not(#sticky-placeholder) {
+  .main-navigation .menu-toggle,
+  .main-navigation .mobile-bar-items,
+  .sidebar-nav-mobile:not(#sticky-placeholder) {
     display: block;
-}
+  }
 
-.main-navigation ul,
-.gen-sidebar-nav {
+  .main-navigation ul,
+  .gen-sidebar-nav {
     display: none;
-}
+  }
 
-[class*="nav-float-"] .site-header .inside-header>* {
+  [class*="nav-float-"] .site-header .inside-header>* {
     float: none;
     clear: both;
-}
+  }
 }

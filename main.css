@@ -12,21 +12,22 @@ img.img-responsive {
 }
 .wrapper-masthead {
   position: relative;
-  background-image: url('../images/uploads/2018/01/dbtz-bkgd.png');
+  background-image: url('/images/uploads/2018/01/dbtz-bkgd.png');
   background-position: top -3px left 0;
   background-repeat: repeat-x;
   content: '';
   height: 152px;
   width: 100%;
   display: block;
-  &:before {
-    height: 198px;
-    content: url('../images/uploads/2013/11/2876banner.png');
-    position: absolute;
-    right: 0;
-    text-align: right;
-  }
 }
+.wrapper-masthead::before {
+  height: 198px;
+  content: url('/images/uploads/2013/11/2876banner.png');
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
 #masthead .inside-header {
   position: relative;
   text-align: left;

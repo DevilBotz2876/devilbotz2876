@@ -71,6 +71,7 @@ header .main-navigation {
 }
 .menu {
   background: #222;
+  max-width: 700px;
   margin-bottom: 5px;
 }
 .menu ul {
@@ -92,16 +93,16 @@ header .main-navigation {
   color: white;
 }
 
-.menu ul li:hover .submenu {
+.menu ul li:hover .sub-menu {
   display: flex;
 }
 
-.submenu {
+.sub-menu {
   display: none;
   position: relative; /* added */
 }
 
-.submenu ul {
+.sub-menu ul {
   position: absolute;
   top: 5px; /* modified; adjust; needs to match the padding of the ".menu ul li" */
   left: -5px; /* added; adjust; needs to match the padding of the ".menu ul li" (negative) */
@@ -109,7 +110,7 @@ header .main-navigation {
   flex-direction: column;
 }
 
-.submenu ul li {
+.sub-menu ul li {
   width: 100%; /* added */
   padding: 5px; /* adjust */
   white-space: nowrap; /* added */
@@ -491,9 +492,9 @@ a:active {
   color: #a50d0d;
 }
 
-body .grid-container {
+/* body .grid-container {
   max-width: 1070px;
-}
+} */
 
 .wp-block-group__inner-container {
   max-width: 1070px;

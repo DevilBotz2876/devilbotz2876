@@ -64,7 +64,8 @@ img.img-responsive {
 /* NAVBAR */
 /* sample */
 .menu, .menu * {margin: 0; padding: 0; box-sizing: border-box}
-header .main-navigation {
+header nav {
+  font-size: 14px;
   background: transparent;
   position: relative;
   top: -82px;
@@ -80,13 +81,14 @@ header .main-navigation {
   align-items: center;
 }
 .menu ul li {
-  margin: 0 5px; /* adjust */
-  padding: 5px; /* adjust */
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 50px;
 }
 
-.menu ul li:last-child {
+/* .menu ul li:last-child {
   margin-left: auto;
-}
+} */
 
 .menu ul li:hover {
   background: #999;
@@ -117,7 +119,13 @@ header .main-navigation {
   background: #3F3F3F;
   z-index: 10;
 }
-.menu a {
+.sub-menu li li:hover,
+.sub-menu li li.focus {
+  background-color: #999;
+}
+.menu a,
+.menu a:visited,
+.menu a:active {
   color: #fff;
   text-decoration: none;
 }

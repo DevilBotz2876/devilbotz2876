@@ -88,7 +88,7 @@ header .main-navigation {
   margin-left: auto;
 }
 
-.menu ul li:hover:not(:first-child) {
+.menu ul li:hover {
   background: #999;
   color: white;
 }
@@ -117,16 +117,15 @@ header .main-navigation {
   background: #3F3F3F;
   z-index: 10;
 }
+.menu a {
+  color: #fff;
+  text-decoration: none;
+}
 
 /* end sample */
 
 
 
-header .main-navigation {
-  background: transparent;
-  position: relative;
-  top: -82px;
-}
 /* .main-nav ul.menu {
   display: flex;
   max-width: 700px;

@@ -1,0 +1,13 @@
+<script type='text/javascript'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'overlayOpacity':.5,'showCloseButton':true,'margin':20,'centerOnScroll':true,'enableEscapeButton':true,'autoScale':true };
+/* YouTube */
+jQuery('a[href*="youtu.be/"],area[href*="youtu.be/"],a[href*="youtube.com/"],area[href*="youtube.com/"]').filter(function(){return this.href.match(/\/(?:youtu\.be|watch\?|embed\/)/);}).not('.nolightbox,li.nolightbox>a').addClass('fancybox-youtube');
+jQuery('a.fancybox-youtube,area.fancybox-youtube,li.fancybox-youtube a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':640,'height':360,'padding':0,'keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fs=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?youtu(?:\.be\/([^\?]+)\??|be\.com\/watch\?(.*(?=v=))v=([^&]+))(.*)/gi,"https://www.youtube.com/embed/$1$3?$2$4&autoplay=1");}}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+    
+    

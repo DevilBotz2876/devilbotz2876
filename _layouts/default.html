@@ -5,6 +5,7 @@
 
     {% include meta.html %}
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/main.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="icon" href="./images/uploads/2017/10/cropped-hi-rez-wirebot_black_on_transparent-32x32.png" sizes="32x32" />
@@ -32,11 +33,14 @@
     <header>
       {% include nav.html %}
     </header>
-    <!-- <nav>
-      <a href="{{ site.baseurl }}/">Blog</a>
-      <a href="{{ site.baseurl }}/about">About</a>
-    </nav> -->
-
+    <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="right-sidebar">
+      <div class="inside-right-sidebar">
+        <div class="textwidget custom-html-widget">
+          <iframe src="https://calendar.google.com/calendar/embed?title=Upcoming%20events&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;src=bhsrobotix2876%40gmail.com&amp;ctz=America%2FNew_York" style="border-width:0" width="220" height="300" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+    </div>
+    
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
@@ -49,5 +53,12 @@
       </div>
       {% include copyright.html %}
     </div>
+
+    <a title="Scroll back to top" aria-label="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" style="opacity:0;visibility:hidden;" data-scroll-speed="400" data-start-scroll="300"></a>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
+    <script type='text/javascript' src='http://www.bhsrobotix.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.1.0'></script>
+
   </body>
 </html>

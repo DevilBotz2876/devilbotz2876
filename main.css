@@ -64,11 +64,11 @@ img.img-responsive {
 /* NAVBAR */
 /* sample */
 .menu, .menu * {margin: 0; padding: 0; box-sizing: border-box}
-header nav {
-  font-size: 14px;
-  background: transparent;
+header {
   position: relative;
   top: -82px;
+  font-size: 14px;
+  background: transparent;
 }
 .menu {
   background: #222;
@@ -106,22 +106,22 @@ header nav {
 
 .sub-menu ul {
   position: absolute;
-  top: 5px; /* modified; adjust; needs to match the padding of the ".menu ul li" */
-  left: -5px; /* added; adjust; needs to match the padding of the ".menu ul li" (negative) */
+  top: 0px; /* modified; adjust; needs to match the padding of the ".menu ul li" */
+  left: -12px; /* added; adjust; needs to match the padding of the ".menu ul li" (negative) */
   display: flex;
   flex-direction: column;
 }
 
 .sub-menu ul li {
+  line-height: 40px;
   width: 100%; /* added */
-  padding: 5px; /* adjust */
   white-space: nowrap; /* added */
   background: #3F3F3F;
   z-index: 10;
 }
 .sub-menu li li:hover,
 .sub-menu li li.focus {
-  background-color: #999;
+  background-color: #bbb;
 }
 .menu a,
 .menu a:visited,

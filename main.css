@@ -7,6 +7,7 @@ html, body {
 body {
   font-family: Roboto, sans-serif;
   max-width: 1200px;
+  line-height: 1.3;
   margin: 0 auto;
 }
 img.img-responsive {
@@ -105,7 +106,7 @@ header {
 }
 .sub-menu ul {
   position: absolute;
-  top: 0px;
+  top: -6px;
   left: 12px;
   display: flex;
   flex-direction: column;
@@ -135,7 +136,7 @@ header {
   position: relative;
   top: -58px;
   padding-top: 2em;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 .widget-area.sidebar {
@@ -145,6 +146,9 @@ header {
 .inside-right-sidebar {
   width: 220px;
   margin: 0 auto;
+}
+header.entry-header {
+  top: 0;
 }
 .site-footer {
   clear: both;
@@ -501,7 +505,6 @@ textarea {
 }
 
 body {
-  line-height: 1.3;
 }
 
 p {

@@ -83,7 +83,7 @@ header {
 .menu ul li a {
   padding-left: 30px;
   padding-right: 30px;
-  line-height: 50px;
+  line-height: 45px;
 }
 
 .menu ul li:hover {
@@ -235,7 +235,10 @@ nav.main-navigation button.menu-toggle span {
 
 /* end MAIN NAV */
 
-
+.widget-area.sidebar {
+  float: right;
+  margin-left: 20px;
+}
 .inside-right-sidebar {
   width: 220px;
   margin: 0 auto;
@@ -357,12 +360,13 @@ h1.entry-title:after {
   content: '»';
 }
 .copyright-bar {
-  font-size: 0;
+  background-color: #222;
+  color: white;
+  font-size: 14px;
+  padding: 1em 0;
+  margin-top: 2em;
 }
-.copyright-bar:before {
-  font-size: 12px;
-  content: '© 2022 Team 2876 Devilbotz';
-}
+
 
 h4 {
   margin: 1rem 0 .7rem;

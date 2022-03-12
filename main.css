@@ -106,7 +106,7 @@ header {
 }
 .sub-menu ul {
   position: absolute;
-  top: 0px;
+  top: -6px;
   left: 12px;
   display: flex;
   flex-direction: column;

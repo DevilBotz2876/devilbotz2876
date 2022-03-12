@@ -63,7 +63,6 @@ img.img-responsive {
 
 
 /* NAVBAR */
-/* sample */
 .menu, .menu * {margin: 0; padding: 0; box-sizing: border-box}
 header {
   position: relative;
@@ -102,9 +101,8 @@ header {
 
 .sub-menu {
   display: none;
-  position: relative; /* added */
+  position: relative;
 }
-
 .sub-menu ul {
   position: absolute;
   top: 0px;
@@ -112,11 +110,10 @@ header {
   display: flex;
   flex-direction: column;
 }
-
 .sub-menu ul li {
   line-height: 40px;
-  width: 100%; /* added */
-  white-space: nowrap; /* added */
+  width: 100%;
+  white-space: nowrap;
   background: #3F3F3F;
   z-index: 10;
 }
@@ -133,6 +130,14 @@ header {
 
 /* end MAIN NAV */
 
+#main {
+  background-color: white;
+  position: relative;
+  top: -58px;
+  padding-top: 2em;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 .widget-area.sidebar {
   float: right;
   margin-left: 20px;
@@ -140,10 +145,6 @@ header {
 .inside-right-sidebar {
   width: 220px;
   margin: 0 auto;
-}
-#content.site-content::after {
-  content: none !important;
-  clear: none !important;
 }
 .site-footer {
   clear: both;
@@ -558,15 +559,6 @@ h5 {
 .main-title a,
 .main-title a:hover {
   color: #222222;
-}
-
-.navigation-search input[type="search"],
-.navigation-search input[type="search"]:active,
-.navigation-search input[type="search"]:focus
-/* .main-navigation .main-nav ul li.search-item.active>a,
-.main-navigation .menu-bar-items .search-item.active>a */ {
-  color: #ffffff;
-  background-color: #3f3f3f;
 }
 
 .separate-containers .inside-article,

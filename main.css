@@ -106,7 +106,7 @@ header {
 }
 .sub-menu ul {
   position: absolute;
-  top: -6px;
+  top: 0px;
   left: 12px;
   display: flex;
   flex-direction: column;
@@ -135,8 +135,8 @@ header {
   background-color: white;
   position: relative;
   top: -58px;
-  padding-top: 2em;
-  max-width: 1000px;
+  padding: 2em 50px 0 50px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .widget-area.sidebar {

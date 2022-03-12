@@ -28,6 +28,7 @@ img.img-responsive {
   height: 218px;
   width: 100%;
   display: block;
+  margin-bottom: 2em;
 }
 .wrapper-masthead .inside-header {
   background-image: url('./images/uploads/2013/11/2876banner.png');
@@ -106,8 +107,8 @@ header {
 
 .sub-menu ul {
   position: absolute;
-  top: 0px; /* modified; adjust; needs to match the padding of the ".menu ul li" */
-  left: -12px; /* added; adjust; needs to match the padding of the ".menu ul li" (negative) */
+  top: 0px;
+  left: 12px;
   display: flex;
   flex-direction: column;
 }
@@ -129,109 +130,6 @@ header {
   color: #fff;
   text-decoration: none;
 }
-
-/* end sample */
-
-
-
-/* .main-nav ul.menu {
-  display: flex;
-  max-width: 700px;
-  list-style-type: none;
-}
-.main-navigation li {
-  background-color: #222;
-}
-.main-navigation li:hover { 
-  background-color: #3F3F3F;
-}
-.main-nav ul li a,
-.main-navigation .mobile-bar-items a,
-menu-toggle {
-  padding-left: 20px;
-  padding-right: 20px;
-  line-height: 50px;
-  color: #fff !important
-}
-
-.menu-toggle:before {
-  background-color: #999;
-  padding: 6px;
-  border-radius: 4px;
-  border: 1px solid #666;
-  opacity: 0.5;
-}
-.main-navigation li li:hover,
-.main-navigation li li.focus {
-  background-color: #999;
-}
-
-.main-navigation .main-nav ul ul li a {
-  font-size: 14px;
-}
-
-.main-navigation,
-.main-navigation ul ul {
-  background-color: #222222;
-}
-
-.main-navigation .main-nav ul li a,
-.main-navigation .menu-toggle,
-.main-navigation .menu-bar-items {
-  color: #ffffff;
-}
-
-.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
-.main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
-.main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
-.main-navigation .menu-bar-item:hover>a,
-.main-navigation .menu-bar-item.sfHover>a {
-  color: #ffffff;
-  background-color: #222;
-}
-
-button.menu-toggle:hover,
-button.menu-toggle:focus,
-.main-navigation .mobile-bar-items a,
-.main-navigation .mobile-bar-items a:hover,
-.main-navigation .mobile-bar-items a:focus {
-  color: #ffffff;
-}
-
-.main-navigation .main-nav ul li[class*="current-menu-"]>a {
-  color: #ffffff;
-  background-color: #222;
-}
-
-.main-navigation ul ul {
-  background-color: #222;
-  display: flex;
-  flex-direction: column;
-}
-
-.main-navigation .main-nav ul ul li a {
-  color: #ffffff;
-}
-
-.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
-.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
-.main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
-  color: #ffffff;
-  background-color: #4f4f4f;
-}
-
-.main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
-  color: #ffffff;
-  background-color: #4f4f4f;
-}
-
-nav.main-navigation button.menu-toggle {
-  text-align: center;
-  top: 0;
-}
-nav.main-navigation button.menu-toggle span {
-  color: #cccccc;
-} */
 
 /* end MAIN NAV */
 
@@ -363,7 +261,7 @@ h1.entry-title:after {
   background-color: #222;
   color: white;
   font-size: 14px;
-  padding: 1em 0;
+  padding: 2em;
   margin-top: 2em;
 }
 

@@ -154,6 +154,10 @@ header {
   clear: both;
   display: block;
 }
+.ruled {
+  border-top: 1px solid #bbb;
+  padding: 1em 0;
+}
 .row-ruled {
   clear: both;
   display: block;

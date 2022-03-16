@@ -128,6 +128,7 @@ header {
 
 /* end MAIN NAV */
 
+/* LAYOUT */
 #main {
   background-color: white;
   position: relative;
@@ -144,12 +145,42 @@ header {
   width: 220px;
   margin: 0 auto;
 }
-header.entry-header {
-  top: 0;
-}
 .site-footer {
   clear: both;
 }
+.row {
+  clear: both;
+  display: block;
+}
+.row-ruled {
+  clear: both;
+  display: block;
+  border-top: 1px solid #bbb;
+  padding-top: 1em;
+}
+.col-md-3 {
+  width: 32%;
+  float: left;
+  text-align: right;
+  margin-right: 3%;
+}
+.col-md-8 {
+  width: 65%;
+  float: left;
+}
+.col-md-12 {
+  width: 100%;
+}
+.row {
+  clear: both;
+  display: block;
+}
+/* END MAIN LAYOUT STYLES */
+
+header.entry-header {
+  top: 0;
+}
+
 ul {
   list-style-position: inside;
   margin-bottom: .5rem;
@@ -187,20 +218,6 @@ ul {
 
 .site-content {
   padding: 1.5em 0 0;
-}
-.col-md-3 {
-  width: 32%;
-  float: left;
-  text-align: right;
-  margin-right: 3%;
-}
-.col-md-8 {
-  width: 65%;
-  float: left;
-}
-.row {
-  clear: both;
-  display: block;
 }
 
 blockquote > p:first-child::before {

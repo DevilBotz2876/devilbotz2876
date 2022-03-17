@@ -10,6 +10,7 @@ body {
 img.img-responsive {
   float: left;
   margin-right: 1em;
+  max-width: 100%;
 }
 .row {
   overflow: hidden;
@@ -151,17 +152,16 @@ header {
   clear: both;
 }
 .row {
-  clear: both;
   display: block;
 }
 .ruled {
-  border-top: 1px solid #bbb;
-  padding: 1em 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #bbb;
+  margin: 1.5rem 0;
 }
 .row-ruled {
-  clear: both;
   display: block;
-  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
   padding: 1em 0;
 }
 .col-md-3 {
@@ -291,11 +291,6 @@ article ul, article ol {
 }
 article li {
   margin: .5rem 0;
-}
-.ruled {
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #ccc;
-  margin: 1.5rem 0;
 }
 .with-bg .col-md-3 {
   background-color: #ebebeb;

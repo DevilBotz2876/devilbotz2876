@@ -161,6 +161,7 @@ header {
 }
 .row-ruled {
   display: block;
+  overflow: hidden;
   border-bottom: 1px solid #bbb;
   padding: 1em 0;
 }
@@ -169,6 +170,15 @@ header {
   float: left;
   text-align: right;
   margin-right: 3%;
+
+}
+.col-md-3.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.col-md-3.center img:first-child {
+  margin: 20px 0 1.5em;
 }
 .col-md-8 {
   width: 65%;
@@ -178,7 +188,7 @@ header {
   width: 100%;
 }
 .row {
-  clear: both;
+  /* clear: both; */
   display: block;
 }
 /* END MAIN LAYOUT STYLES */
@@ -286,7 +296,7 @@ h4 {
   font-weight: bold;
 }
 article ul, article ol {
-  margin-left: 1.5rem;
+  margin-left: 0.5rem;
   list-style-position: outside;
 }
 article li {

@@ -197,7 +197,6 @@ header {
 header.entry-header {
   top: 0;
 }
-
 ul {
   list-style-position: inside;
   margin-bottom: .5rem;
@@ -208,6 +207,14 @@ ul {
 }
 #content.site-content {
   padding: 10px;
+}
+
+.button-external {
+  background-color: #c4d1ef;
+  border-radius: 4px;
+  padding: 4px;
+  margin-bottom: .5em;
+  text-align: center;
 }
 #post-287 .col-md-8 h2 {
   text-align: center;

@@ -8,8 +8,8 @@ body {
   margin: 0 auto;
 }
 img.img-responsive {
-  float: left;
-  margin-right: 1em;
+  /* float: left;
+  margin-right: 1em; */
   max-width: 100%;
 }
 .row {

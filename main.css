@@ -146,6 +146,9 @@ header {
   width: 220px;
   margin: 0 auto;
 }
+article {
+  padding-bottom: 1em;
+}
 .wrapper-footer {
   position: relative;
   top: -50px;

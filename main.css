@@ -186,6 +186,9 @@ article {
 .col-md-3.center img:first-child {
   margin: 20px 0 1.5em;
 }
+.col-md-3 img {
+  max-width: 100%;
+}
 .col-md-8 {
   width: 65%;
   float: left;

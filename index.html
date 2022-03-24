@@ -2,17 +2,90 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<article id="home" class="page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+  <div class="inside-article">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <header class="entry-header" aria-label="Content">
+      <h1 class="entry-title" itemprop="headline">Home</h1>
+    </header>
 
-      <div class="entry">
-        {{ post.excerpt }}
+    <div class="entry-content" itemprop="text">
+      <!-- <div class="pjnt-border" style="font-family: , sans-serif; background-color: #af0000; border-color: #af0000;">
+        <div class="pjnt-label" style="color: #ffffff; font-size: 100%;">Latest Posts</div>
+        <div class="pjnt-box" style="background-color: #ffffff;">
+          <div class="pjnt-content" data-gap="true" data-speed="70" style="font-size: 100%;"><span class="pjnt-item"><a
+                target="_self"
+                href="http://www.bhsrobotix.com/chick-fil-a-nothing-bundt-cakes-and-regina-pizzeria/">Chick-fil-A,
+                Nothing Bundt Cakes, and Regina Pizzeria</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/interview-with-the-programming-team/">Interview with the Programming
+                Team</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/jack-coals-fired-pizza/">Jack Coal&#8217;s Fired Pizza</a></span><span
+              class="pjnt-item"><a target="_self" href="http://www.bhsrobotix.com/tavern-in-the-square/">Tavern in the
+                Square</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/a-busy-day-at-middlesex-turnpike/">A Big Thanks to Chick-fil-A and
+                Cookie Monstah</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/robot-drive-train-progress/">Robot Drive Train progress</a></span><span
+              class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/breakfast-and-lunch-provided-by-the-friendly-toast-and-la-cascias/">Breakfast
+                and Lunch &#8211; Provided by The Friendly Toast and La Cascia&#8217;s</a></span><span
+              class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/practicing-for-human-player/">Practicing for Human
+                Player</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/local-pizza-restaurants-support-the-devilbotz/">Local Pizza Restaurants
+                Support the Devilbotz</a></span><span class="pjnt-item"><a target="_self"
+                href="http://www.bhsrobotix.com/launch-prototype-progress/">Launch Prototype Progress</a></span></div>
+        </div>
+      </div> -->
+      <div class="row ruled">
+        <h1>Welcome to the DevilBotz</h1>
+        <!-- <h4>New members, register <a href="/devilbotz-new-member-registration/">HERE</a></h4> -->
+        <p>Team 2876 is a FIRST Robotics team from Burlington High School in Burlington, Massachusetts. We are known as the DevilBotz, a name we take from the Burlington High mascot, the Red Devil. We have been competing in FIRST since 2009.</p>
+        <p>None of this would have been possible without our mentors, who give us something we, as students, can never give back: time. The same goes to our sponsors, whose generosity allows continuous productivity during our six-week build season.</p>
+      </div>
+      <div class="row ruled">
+        <h1>What is FIRST?</h1>
+        <p>FIRST stands for <strong>F</strong>or <strong>I</strong>nspiration and <strong>R</strong>ecognition of <strong>S</strong>cience and <strong>T</strong>echnology. Founded by Dean Kamen in 1989, FIRST has, over the past 30+ years, generated interest in the science and technology fields in many students through its various programs, including FRC (FIRST Robotics Competition), FTC (FIRST Tech Challenge), and FLL (FIRST LEGO League).<br /><em><a href="{{site.baseurl}}/first/">Read more about FIRST</a></em>
+      </div>
+      <div class="row ruled">
+        <h1>Donate via PayPal</h1>
+        <p>It costs a minimum of $8,000 just to build the robot each year.</p>
+        <p>This Donate button will direct you to our official PayPal donation page. Thank you!</p>
+        <form action="https://www.paypal.com/donate" method="post" target="_top">
+          <input type="hidden" name="hosted_button_id" value="RAJEAEPWS5PY4" /><br />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit"
+            title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><br />
+          <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /><br />
+        </form>
+      </div>
+      
+      <div class="row ruled">
+        <h1>In the Community</h1>
+        <p>Team 2876 is active outside of FRC competitions as well. Since 2011, our team has been mentoring students in after school and summer programs in all four elementary schools in our town of Burlington, MA. As of 2016, we also started FLL (First LEGO League) teams in Burlington&#8217;s Marshall Simonds Middle School. We are also active participants in local events, such as Burlington Pride Day and the 4th of July Parade.<br />See <a href="{{site.baseurl}}/outreach/">About=>Outreach</a></p>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+      <div class="row ruled" id="sponsors-2018">
+        <h1>Our Sponsors</h1>
+        <div style="display: block; overflow: hidden;">
+          <div style="float: left">
+            <a href="{{site.baseurl}}/images/uploads/2018/03/2000px-Stanley_Black__Decker_Logo.svg_.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/03/2000px-Stanley_Black__Decker_Logo.svg_-600x100.png" alt="Stanley Black &amp; Decker logo" width="200" class="alignleft size-medium" /></a>
+          </div>
+          <div style="float: left; margin-right: 15px;">
+            <a href="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo-300x88.png" alt="MIT Lincoln Labs logo" width="200" class="alignleft size-medium" /></a>
+          </div>
+          <div style="float: left; margin-right: 15px;">
+            <a href="{{site.baseurl}}/images/uploads/2018/02/Hanscom_FCU_logo.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/Hanscom_FCU_logo-300x81.jpg" alt="Hanscom Federal Credit Union logo"
+                width="200" class="alignleft size-medium" /></a>
+          </div>
+          <div style="float: left">
+            <a href="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin-300x60.png" alt="Lockheed Martin logo" width="300" class="alignleft size-medium" /></a>
+          </div>
+          <div style="float: left">
+            <a href="{{site.baseurl}}/images/uploads/2018/03/edwardjones.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/03/edwardjones-600x224.jpg" alt="Edward Jones Investments logo" width="170" class="alignleft size-medium" /></a>
+          </div>
+        </div>
+        <p>Learn more about our generous and much-appreciated financial sponsors, how <em>you</em> can help the DevilBotz strive toward greatness, and about our tasty food sponsors, in the <a href="{{site.baseurl}}/sponsors/">Sponsor</a> section (see menu)</p>
+      </div>
+    </div>
+
+  </div>
+</article>

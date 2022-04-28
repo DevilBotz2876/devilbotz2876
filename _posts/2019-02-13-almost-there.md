@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost There!
-permalink: /posts/almost-there
+date: 2019-02-13
 ---
 By: _Ayush Shingavi_
 

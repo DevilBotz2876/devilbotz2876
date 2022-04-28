@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Almost There!
+permalink: /posts/almost-there
 ---
 By: _Ayush Shingavi_
 

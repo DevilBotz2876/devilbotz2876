@@ -1,22 +1,14 @@
 ---
 layout: default
 ---
-
-<article id="home" class="page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+<article id="home" class="page">
   <div class="inside-article">
 
     <header class="entry-header" aria-label="Content">
       <h1 class="entry-title" itemprop="headline">Home</h1>
     </header>
 
-    <div class="entry-content" itemprop="text">
-      <ul>
-        {% for post in site.posts %}
-          <li>
-            <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="entry-content">
       <div class="row ruled">
         <h1>Welcome to the DevilBotz</h1>
         <!-- <h4>New members, register <a href="/devilbotz-new-member-registration/">HERE</a></h4> -->

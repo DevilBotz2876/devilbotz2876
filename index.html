@@ -10,32 +10,13 @@ layout: default
     </header>
 
     <div class="entry-content" itemprop="text">
-      <!-- <div class="pjnt-border" style="font-family: , sans-serif; background-color: #af0000; border-color: #af0000;">
-        <div class="pjnt-label" style="color: #ffffff; font-size: 100%;">Latest Posts</div>
-        <div class="pjnt-box" style="background-color: #ffffff;">
-          <div class="pjnt-content" data-gap="true" data-speed="70" style="font-size: 100%;"><span class="pjnt-item"><a
-                target="_self"
-                href="http://www.bhsrobotix.com/chick-fil-a-nothing-bundt-cakes-and-regina-pizzeria/">Chick-fil-A,
-                Nothing Bundt Cakes, and Regina Pizzeria</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/interview-with-the-programming-team/">Interview with the Programming
-                Team</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/jack-coals-fired-pizza/">Jack Coal&#8217;s Fired Pizza</a></span><span
-              class="pjnt-item"><a target="_self" href="http://www.bhsrobotix.com/tavern-in-the-square/">Tavern in the
-                Square</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/a-busy-day-at-middlesex-turnpike/">A Big Thanks to Chick-fil-A and
-                Cookie Monstah</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/robot-drive-train-progress/">Robot Drive Train progress</a></span><span
-              class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/breakfast-and-lunch-provided-by-the-friendly-toast-and-la-cascias/">Breakfast
-                and Lunch &#8211; Provided by The Friendly Toast and La Cascia&#8217;s</a></span><span
-              class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/practicing-for-human-player/">Practicing for Human
-                Player</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/local-pizza-restaurants-support-the-devilbotz/">Local Pizza Restaurants
-                Support the Devilbotz</a></span><span class="pjnt-item"><a target="_self"
-                href="http://www.bhsrobotix.com/launch-prototype-progress/">Launch Prototype Progress</a></span></div>
-        </div>
-      </div> -->
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
       <div class="row ruled">
         <h1>Welcome to the DevilBotz</h1>
         <!-- <h4>New members, register <a href="/devilbotz-new-member-registration/">HERE</a></h4> -->

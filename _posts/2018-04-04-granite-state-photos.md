@@ -2,113 +2,112 @@
 layout: post
 title: Granite State 2018 Competition Images
 date: 2018-04-04
-category: 2018
 ---
 By: Eleanor O'Neill
 
-The team and our robot performed well at our first 2018 competition. Share the day&#8217;s moments in this gallery.
+The team and our robot performed well at our first 2018 competition. Share the day's moments in this gallery.
 
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030492-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030492" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a14-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a14" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5354-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5354" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/20180304_150229-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="20180304_150229" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5353-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5353" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5352-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5352" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5355-e1522713042863-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5355" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030511-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030511" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030510-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030510" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030506-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030506" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030509-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030509" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030504-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030504" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030508-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030508" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030503-e1522713081415-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030503" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030505-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030505" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030507-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030507" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030502-e1522712978134-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030502" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030499-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030499" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030500-e1522713112571-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030500" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030495-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030495" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030498-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030498" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030490-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030490" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030493-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030493" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030497-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030497" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030496-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030496" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030491-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030491" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030494-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030494" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030489-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030489" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030484-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030484" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030482-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030482" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030488-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030488" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030485-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030485" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030486-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030486" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030487-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030487" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030480-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="P1030480" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a56-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a56" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a60-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a60" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a58-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a58" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a57-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a57" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a55-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a55" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a54-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a54" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a53-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a53" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a52-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a52" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a51-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a51" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a46-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a46" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a50-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a50" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a48-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a48" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a47-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a47" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a45-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a45" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a41-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a41" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a42-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a42" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a40-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a40" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a39-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a39" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a38-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a38" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a30-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a30" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a34-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a34" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a36-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a36" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a33-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a33" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a35-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a35" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a37-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a37" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a32-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a32" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a31-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a31" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a29-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a29" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a28-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a28" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a27-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a27" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a26-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a26" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a20-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a20" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a19-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a19" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a25-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a25" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a15-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a15" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a16-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a16" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a22-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a22" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a21-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a21" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a12-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a12" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a13-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a13" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a10-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a10" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a11-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a11" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a6-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a6" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a7-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a7" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a8-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a8" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a3-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a3" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5389-e1522713205588-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5389" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a1-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="img_a1" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5387-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5387" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5388-e1522713243981-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5388" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5384-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5384" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5385-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5385" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5379-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5379" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5375-e1522713313600-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5375" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5382-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5382" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5376-e1522713376604-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5376" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5380-e1522713459738-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5380" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5372-e1522713497137-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5372" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5377-e1522713523105-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5377" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5371-e1522713554364-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5371" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5374-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5374" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5368-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5368" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5362-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5362" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5369-e1522714258832-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5369" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5364-e1522713672888-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5364" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5367-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5367" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5363-e1522713729551-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5363" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5357-e1522713792266-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5357" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5356-700x0.jpg" height="0" width="700" alt="" class="slider-1676 slide" title="IMG_5356" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030492-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a14-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5354-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/20180304_150229-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5353-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5352-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5355-e1522713042863-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030511-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030510-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030506-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030509-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030504-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030508-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030503-e1522713081415-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030505-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030507-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030502-e1522712978134-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030499-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030500-e1522713112571-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030495-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030498-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030490-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030493-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030497-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030496-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030491-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030494-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030489-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030484-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030482-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030488-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030485-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030486-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030487-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030480-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a56-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a60-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a58-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a57-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a55-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a54-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a53-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a52-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a51-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a46-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a50-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a48-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a47-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a45-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a41-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a42-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a40-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a39-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a38-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a30-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a34-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a36-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a33-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a35-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a37-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a32-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a31-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a29-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a28-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a27-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a26-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a20-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a19-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a25-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a15-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a16-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a22-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a21-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a12-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a13-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a10-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a11-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a6-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a7-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a8-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a3-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5389-e1522713205588-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a1-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5387-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5388-e1522713243981-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5384-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5385-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5379-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5375-e1522713313600-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5382-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5376-e1522713376604-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5380-e1522713459738-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5372-e1522713497137-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5377-e1522713523105-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5371-e1522713554364-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5374-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5368-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5362-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5369-e1522714258832-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5364-e1522713672888-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5367-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5363-e1522713729551-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5357-e1522713792266-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5356-700x0.jpg" height="0" width="700" alt="" />

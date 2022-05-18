@@ -7,10 +7,10 @@ By: Eleanor O'Neill
 
 The team and our robot performed well at our first 2018 competition. Share the day's moments in this gallery.
 
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/20180304_150229-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030492-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a14-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5354-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/20180304_150229-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5353-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5352-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5355-e1522713042863-700x0.jpg" height="0" width="700" alt="" />
@@ -35,19 +35,14 @@ The team and our robot performed well at our first 2018 competition. Share the d
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030491-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030494-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030489-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030484-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030482-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030488-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030485-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030486-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030487-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/P1030480-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a56-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a60-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a58-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a57-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a55-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a54-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a53-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a52-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a51-700x0.jpg" height="0" width="700" alt="" />
@@ -57,7 +52,6 @@ The team and our robot performed well at our first 2018 competition. Share the d
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a47-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a45-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a41-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a42-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a40-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a39-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a38-700x0.jpg" height="0" width="700" alt="" />
@@ -70,7 +64,6 @@ The team and our robot performed well at our first 2018 competition. Share the d
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a32-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a31-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a29-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a28-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a27-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a26-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/img_a20-700x0.jpg" height="0" width="700" alt="" />
@@ -98,7 +91,6 @@ The team and our robot performed well at our first 2018 competition. Share the d
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5375-e1522713313600-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5382-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5376-e1522713376604-700x0.jpg" height="0" width="700" alt="" />
-<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5380-e1522713459738-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5372-e1522713497137-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5377-e1522713523105-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5371-e1522713554364-700x0.jpg" height="0" width="700" alt="" />
@@ -111,3 +103,4 @@ The team and our robot performed well at our first 2018 competition. Share the d
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5363-e1522713729551-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5357-e1522713792266-700x0.jpg" height="0" width="700" alt="" />
 <img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5356-700x0.jpg" height="0" width="700" alt="" />
+<img data-fancybox="2018GraniteState" src="{{site.baseurl}}/images/upload/2018/03/Windham-Granite-State-2018/IMG_5380-e1522713459738-700x0.jpg" height="0" width="700" alt="" />

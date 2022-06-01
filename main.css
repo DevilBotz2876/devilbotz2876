@@ -150,6 +150,7 @@ header {
 article {
   padding-bottom: 1em;
 }
+.entry .slidshow img:not(:first-of-type) {display: none;}
 .wrapper-footer {
   position: relative;
   top: -50px;

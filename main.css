@@ -150,7 +150,12 @@ header {
 article {
   padding-bottom: 1em;
 }
-.entry .slidshow img:not(:first-of-type) {display: none;}
+.entry .slidshow img:not(:first-of-type) {
+  display: none;
+}
+.caption {
+  margin-top: 0; font-size: 80%;
+}
 .wrapper-footer {
   position: relative;
   top: -50px;

@@ -18,7 +18,7 @@ img.img-responsive {
 }
 
 /* MASTHEAD / BRANDING */
-.wrapper-masthead {
+/* .wrapper-masthead {
   position: relative;
   background-image: url('./images/uploads/2018/01/dbtz-bkgd.png');
   background-position: top -3px left 0;
@@ -56,13 +56,13 @@ img.img-responsive {
   margin: 0 0 0 4px;
   font-size: 14px;
   color: #ccc;
-}
+} */
 
 /* END BRANDING/MASTHEAD */
 
 
 /* NAVBAR */
-.menu, .menu * {margin: 0; padding: 0; box-sizing: border-box}
+/* .menu, .menu * {margin: 0; padding: 0; box-sizing: border-box}
 header {
   position: relative;
   top: -66px;
@@ -116,8 +116,8 @@ header {
   white-space: nowrap;
   background: #3F3F3F;
   z-index: 10;
-}
-.sub-menu li li:hover,
+} */
+/* .sub-menu li li:hover,
 .sub-menu li li.focus {
   background-color: #bbb;
 }
@@ -126,7 +126,7 @@ header {
 .menu a:active {
   color: #fff;
   text-decoration: none;
-}
+} */
 
 /* end MAIN NAV */
 

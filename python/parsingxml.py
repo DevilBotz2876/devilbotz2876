@@ -1,5 +1,27 @@
 import requests
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
+
+# Reading data from the xml file
+with open('sponsorship-levels/blogs.2022-11-09.xml', 'r') as f:
+	data = f.read()
+
+# Passing the data of the xml
+# file to the xml parser of
+# beautifulsoup
+data_b = BeautifulSoup(data, 'xml')
+
+# A loop for replacing the value
+# of attribute `test` to WHAT !!
+# The tag is found by the clause
+# `bs_data.find_all('child', {'name':'Frank'})`
+for tag in data_b.find_all('child', {'team':'3D CAD Workshop - How to Model Almost Anything'}):
+	tag['test'] = "WHAT !!"
+
+
+# Output the contents of the
+# modified xml file
+print(bs_data.prettify())
 
 def parseXML(xmlfile):
   

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mentors
-permalink: /mentors/
+permalink: /pages/mentors/
 ---
 <article id="post-300" class="post-300 page type-page status-publish" itemtype="https://schema.org/CreativeWork"
   itemscope>

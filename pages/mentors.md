@@ -1,15 +1,11 @@
 ---
 layout: page
 title: Mentors
-permalink: /pages/mentors/
+permalink: /pages/about/mentors/
 ---
 <article id="post-300" class="post-300 page type-page status-publish" itemtype="https://schema.org/CreativeWork"
   itemscope>
   <div class="inside-article">
-    <header class="entry-header" aria-label="Content">
-      <h1 class="entry-title" itemprop="headline">Our Mentors</h1>
-    </header>
-
     <div class="entry-content" itemprop="text">
       <div class="row row-ruled">
         <div class="col-md-3"><img class="img-responsive" src="{{ site.baseurl }}/images/mentor_khan.png" data-fancybox alt="Arshad Kahn" width="300" /></div>
@@ -41,8 +37,12 @@ permalink: /pages/mentors/
       </div>
       <h1 class="entry-title">New Mentors</h1>
       <div class="row row-ruled">
-        <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" class="image-responsive" /></a></div>
-        <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at Sanofi Genzyme Pharmaceuticals. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the Devilbotz team to teach them to work efficiently by visualizin travel around the world.</div>
+        <div class="col-md-3"></div>
+        <div>Chris Morse</div>
+      </div>
+      <div class="row row-ruled">
+        <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" style="overflow: hidden; height: 300px;" class="image-responsive" /></a></div>
+        <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at Sanofi Genzyme Pharmaceuticals. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the Devilbotz team to teach them to work efficiently by visualizing travel around the world.</div>
       </div>
       <div class="row row-ruled">
         <div class="col-md-3"></div>

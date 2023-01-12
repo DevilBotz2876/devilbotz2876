@@ -6,8 +6,8 @@ permalink: /pages/about/our-team/
 <article id="post-302" class="post-302 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
 	<div class="inside-article">			
 		<div class="entry-content" itemprop="text">
-			<div class="row">
-        <a href="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-2048x886.jpg" data-fancybox><img src="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-600x259.jpg" alt="2022 team photo" width="600" class="size-medium" /></a>
+			<div class="row" style="flex-direction: column;">
+        <p><a href="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-2048x886.jpg" data-fancybox><img src="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-600x259.jpg" alt="2022 team photo" width="600" class="img-responsive" /></a></p>
         <p><em>Top (Left to Right):</em> Alex Chang, Nathaniel Chao, Shreya Iyer, Dillan Agarwalla, Sanjith Krishnan, William Preston, Sowndaryan Jayprakash, Rohan Dutta, Abhay Verma, Parker Meyers, Malachi Riley, Ashneel Ejelenkar, Shadman Chowdhary, Rahul Gupta.<br /><em>Bottom (Left to Right):</em> Rishitha Ravi, Zohar Lavi, Shefali Bakre, Arnesh Yeola, Rishabh Bagmar, Alexavier Lock, Andrew Saliba</p>
        
         <p><img src="{{site.baseurl}}/images/uploads/2022/01/PXL_20220122_173528155.jpg" alt="Team Unmasked!" width="600" class="size-medium" data-fancybox /></p>
@@ -44,29 +44,29 @@ permalink: /pages/about/our-team/
         <h2>Our Awards and Achievements</h2>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" alt="" width="141" height="300" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2017, October</em>: The Devilbotz and our two Alliance partners won <em>First Place</em> at the 21st annual <strong>River Rage</strong> off-season competition in New Hampshire</p>
         </div>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" alt="" width="300" height="169" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2017, Spring</em>: We won a <strong>Pit Safety</strong> award</p>
         </div>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887-768x869.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887.jpg" alt="" width="265" height="300" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2017, Spring</em>: The Devilbotz were given the <strong>Team Spirit</strong> award at our second District Competition
           <p>
             <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-768x817.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-282x300.jpg" alt="" width="282" height="300" /></a>
@@ -74,29 +74,29 @@ permalink: /pages/about/our-team/
         </div>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" alt="" width="288" height="300" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2016, Spring</em>: A <strong>Team Spirit</strong> award was given to the Devilbotz at the UNH district event</p>
         </div>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" alt="" width="259" height="300" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2015, Spring</em>: We won the Granite State District event <strong>Quality</strong> award</p>
         </div>
       </div>
 
-      <div class="col-md-12 ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
         <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" alt="2010 Imagery award" width="172" height="300" /></a>
         </div>
-        <div class="col-md-8">
+        <div>
           <p><em>2010, Spring</em>: Devilbotz took home the Boston Regional <strong>Imagery</strong> award</p>
         </div>
       </div>

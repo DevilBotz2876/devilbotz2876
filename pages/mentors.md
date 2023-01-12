@@ -27,13 +27,13 @@ permalink: /pages/about/mentors/
       </div>
       <div class="row row-ruled">
         <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/uploads/2014/01/rsz_dsc_0167-300x300.jpg" data-fancybox alt="Mentor Eleanor O'Neill" width="300" /></div>
-        <div><strong>Eleanor O'Neill</strong> is a software engineer at CyberGrants. This is her sixth season mentoring for the DevilBotz. She previously mentored with BERT 133 in Maine for three years. Eleanor particularly likes the competition because "it's a team sport, but for nerds like me." Ms O'Neill has a varied background including Editorial Assistant; Graphic Design and Prepress; teaching graphic software to designers and art students; administering computer networks; and then transitioned into a web-based (SASS) software career using a variety of languages: perl, PHP, Java, Python, React and more; as well as an affinity for databases. On a side note: she has a passion for space exploration.</div>
+        <div><strong>Eleanor O'Neill</strong> is a retired software engineer (CyberGrants). She has been mentoring the DevilBotz since 2013. She previously mentored with BERT 133 in Maine for three years. Eleanor particularly likes the competition because "it's a team sport, but for nerds like me." Ms O'Neill has a varied background including Editorial Assistant; Graphic Design and Prepress; teaching graphic software to designers and art students; administering computer networks; and then transitioned into a web-based (SASS) software career using a variety of languages: perl, PHP, Java, Python, React and more; as well as an affinity for databases. She has a passion for space exploration.</div>
       </div>
       <div class="row row-ruled">
         <div class="col-md-3">
           <img class="img-responsive" src="{{site.baseurl}}/images/uploads/2014/01/rsz_dsc_0166-293x300.jpg" data-fancybox alt="Mentor Dean Casciola" width="300" /></div>
         <div>
-          <strong>Dean Casciola</strong> helps work with the electrical team to wire the robots, install sensors, and teach the programming team how to use the sensors properly. Outside of Robotics, Dean works at Delta Electronics Manufucturing Corp as an Electrical Engineer. Dean has a pilot license and in his spare time flies airplanes, including one he built from a kit. He joined Robotics because his son got him involved in the club and he developed an interest as an electrical mentor. He is married to Ms. O'Neill.</div>
+          <strong>Dean Casciola</strong> helps work with the electrical team to wire the robots, install sensors, and teach the programming team how to use the sensors properly. Outside of Robotics, Dean is retired from Delta Electronics Manufucturing Corp as an Electrical Engineer. Dean has a pilot license and in his spare time flies airplanes, including one he built from a kit. He joined Robotics because his son got him involved in the club and he developed an interest as an electrical mentor. He is married to Ms. O'Neill.</div>
       </div>
       <h1 class="entry-title">New Mentors</h1>
       <div class="row row-ruled">

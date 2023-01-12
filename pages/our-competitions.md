@@ -8,7 +8,7 @@ permalink: /pages/about/our-competitions/
   <div class="inside-article">
     <div class="entry-content" itemprop="text">
 
-      <div class="row ruled">
+      <div class="row row-ruled">
         <a name="2021"></a>     
         <div class="col-md-3 center">
           <div class="button-external"><a href="https://youtu.be/LgniEjI9cCM" data-fancybox>Watch Game Animation</a></div>
@@ -26,25 +26,24 @@ permalink: /pages/about/our-competitions/
             <li>taxiing from their tarmac and</li>
             <li>retrieving and scoring their assigned cargo into the hub.</li>
           </ul>
-          <p>In the final 2 minutes and 15 seconds of the match, drivers take control of the robots and score points by:
+          <p>In the final 2 minutes and 15 seconds of the match, drivers take control of the robots and score points by:</p>
           <ul>
             <li>continuing to retrieve and score their assigned cargo into the hub and</li>
-            <li>engaging with their hangar.
+            <li>engaging with their hangar.</li>
           </ul>
-          </p>
           <p>The alliance with the highest score at the end of the match wins!</p>
           </p>
         </div>
       </div>
 
-      <div class="row ruled">
+      <div class="row row-ruled">
         <a name="2020-21"></a>
         
         <div class="col-md-3 center">
           <div class="button-external"><a href="https://youtu.be/gmiYWTmFRVE" data-fancybox>View Game Animation</a></div>
-          <img src="{{site.baseurl}}/images/uploads/2021/11/InfiniteRechargeLogo-590x600.png" alt="" width="240" class="img-responsive" data-fancybox /><br />
+          <p><img src="{{site.baseurl}}/images/uploads/2021/11/InfiniteRechargeLogo-590x600.png" alt="" width="240" class="img-responsive" data-fancybox /><br />
           <a href="{{site.baseurl}}/images/uploads/2021/11/PXL_20211110_232418082-600x450.jpg" data-fancybox><img class="img-responsive" src="{{site.baseurl}}/images/uploads/2021/11/PXL_20211110_232418082.jpg" alt="" /></a><br />
-          Our 2020 Robot who never got to compete.
+          Our 2020 Robot who never got to compete.</p>
         </div>
 
         <div class="col-md-8">
@@ -58,7 +57,7 @@ permalink: /pages/about/our-competitions/
         </div>
       </div>
 
-      <div class="row ruled">
+      <div class="row row-ruled">
         <a name="2019"></a>
         
         <div class="col-md-3 center">
@@ -82,7 +81,7 @@ permalink: /pages/about/our-competitions/
         </div>
       </div>
 
-      <div class="row ruled">
+      <div class="row row-ruled">
         <a name="2018"></a>
         
         <div class="col-md-3 center">
@@ -120,7 +119,7 @@ permalink: /pages/about/our-competitions/
         </div>
       </div>
 
-      <div class="row ruled">
+      <div class="row row-ruled">
         <a name="2017"></a>
        
         <div class="col-md-3 center">

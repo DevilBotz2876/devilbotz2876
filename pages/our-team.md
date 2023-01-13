@@ -46,7 +46,7 @@ permalink: /pages/about/our-team/
 
       <div class="row row-ruled">
         <div class="col-md-3">
-          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" alt="" width="141" height="300" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161050-e1517693243102.jpg" alt="" height="200" /></a>
         </div>
         <div>
           <p><em>2017, October</em>: The Devilbotz and our two Alliance partners won <em>First Place</em> at the 21st annual <strong>River Rage</strong> off-season competition in New Hampshire</p>
@@ -55,7 +55,7 @@ permalink: /pages/about/our-team/
 
       <div class="row row-ruled">
         <div class="col-md-3">
-          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" alt="" width="300" height="169" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161205.jpg" alt="" height="200" /></a>
         </div>
         <div>
           <p><em>2017, Spring</em>: We won a <strong>Pit Safety</strong> award</p>
@@ -64,19 +64,19 @@ permalink: /pages/about/our-team/
 
       <div class="row row-ruled">
         <div class="col-md-3">
-          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887-768x869.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887.jpg" alt="" width="265" height="300" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887-768x869.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161503-e1517693864887.jpg" alt="" height="200" /></a>
         </div>
         <div>
-          <p><em>2017, Spring</em>: The Devilbotz were given the <strong>Team Spirit</strong> award at our second District Competition
           <p>
-            <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-768x817.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-282x300.jpg" alt="" width="282" height="300" /></a>
+            <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-768x817.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-282x300.jpg" alt="" height="200" style="float: left;" /></a>
+            <em>2017, Spring</em>: The Devilbotz were given the <strong>Team Spirit</strong> award at our second District Competition
           </p>
         </div>
       </div>
 
       <div class="row row-ruled">
         <div class="col-md-3">
-          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" alt="" width="288" height="300" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161249-e1517693410864.jpg" alt="" height="200" /></a>
         </div>
         <div>
           <p><em>2016, Spring</em>: A <strong>Team Spirit</strong> award was given to the Devilbotz at the UNH district event</p>
@@ -85,7 +85,7 @@ permalink: /pages/about/our-team/
 
       <div class="row row-ruled">
         <div class="col-md-3">
-          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" alt="" width="259" height="300" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161419-e1517693801975.jpg" alt="" height="200" /></a>
         </div>
         <div>
           <p><em>2015, Spring</em>: We won the Granite State District event <strong>Quality</strong> award</p>
@@ -94,7 +94,7 @@ permalink: /pages/about/our-team/
 
       <div class="row row-ruled">
         <div class="col-md-3">
-        <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" alt="2010 Imagery award" width="172" height="300" /></a>
+          <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161344-1-e1517694164172.jpg" alt="2010 Imagery award" height="200" /></a>
         </div>
         <div>
           <p><em>2010, Spring</em>: Devilbotz took home the Boston Regional <strong>Imagery</strong> award</p>

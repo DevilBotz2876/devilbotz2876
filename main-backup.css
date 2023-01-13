@@ -176,7 +176,7 @@ article {
   padding: 1em 0;
 }
 .col-md-3 {
-  flex: 1 0 275px;
+  flex: 0 0 275px;
   text-align: right;
   margin-right: 3%;
 }

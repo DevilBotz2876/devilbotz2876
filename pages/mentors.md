@@ -38,10 +38,18 @@ permalink: /pages/about/mentors/
       <h1 class="entry-title">New Mentors</h1>
       <div class="row row-ruled">
         <div class="col-md-3"></div>
-        <div>Chris Morse</div>
+        <div><strong>Chris Morse</strong></div>
       </div>
       <div class="row row-ruled">
-        <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" style="overflow: hidden; height: 300px;" class="image-responsive" /></a></div>
+        <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor_margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
+        <div><strong>Margarita Prajapati</strong> A mother of three and a small business owner, Margarita, got her start when her eldest son joined the club during his freshman year of high school. She works with club members interested in fundraising, applying for grants, securing sponsors, community engagement, creating team building activities, and all other "support" activities related before, during, and after FIRST Robotics competitions. She hopes to promote, create awareness of, and encourage more STEM programs in the Burlington Community.</div>
+      </div>
+      <div class="row row-ruled">
+        <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh-600x600.jpg" alt="Mentor Nilesh Agarwalla" width="300" class="image-responsive" /></a></div>
+        <div><strong>Nilesh Agarwalla</strong> has been an embedded software engineer at Broadcom's Broadband Video Group for 16+ years. He started mentoring in Oct 2021 and hopes his cross-discipline experience in hardware, firmware, and software will benefit the team. His experience with robotics started in college when his team built a "heat seeking robotic killer ant" which included mechanicals, a custom circuit board, IR sensors, and custom firmware. He was also instrumental in the hardware design for MIT's 2000 6.270 Autonomous Robot Design Competition's robot kit (BotKit). Nilesh shares the mentoring team's philosophy of focusing on "the process" and making sure the students do not settle for just the "what," but also understand the "how" and the "why."</div>
+      </div>
+      <div class="row row-ruled">
+        <div class="col-md-3" style="overflow: hidden; height: 300px;"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" class="image-responsive" /></a></div>
         <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at Sanofi Genzyme Pharmaceuticals. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the Devilbotz team to teach them to work efficiently by visualizing travel around the world.</div>
       </div>
       <div class="row row-ruled">
@@ -50,25 +58,12 @@ permalink: /pages/about/mentors/
       </div>
       <div class="row row-ruled">
         <div class="col-md-3"></div>
-        <div>Margarita Prajapati</div>
-      </div>
-      <div class="row row-ruled">
-        <div class="col-md-3"></div>
-        <div>Li Wen Chao</div>
-      </div>
-      <div class="row row-ruled">
-        <div class="col-md-3"></div>
-        <div>Shyam Kumar</div>
-      </div>
-      <div class="row row-ruled">
-        <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh-600x600.jpg" alt="Mentor Nilesh Agarwalla" width="300" class="image-responsive" /></a></div>
-        <div><strong>Nilesh Agarwalla</strong> has been an embedded software engineer at Broadcom's Broadband Video Group for 16+ years. He started mentoring in Oct 2021 and hopes his cross-discipline experience in hardware, firmware, and software will benefit the team. His experience with robotics started in college when his team built a "heat seeking robotic killer ant" which included mechanicals, a custom circuit board, IR sensors, and custom firmware. He was also instrumental in the hardware design for MIT's 2000 6.270 Autonomous Robot Design Competition's robot kit (BotKit). Nilesh shares the mentoring team's philosophy of focusing on "the process" and making sure the students not settle for just the "what", but also understand the "how" and the "why."</div>
+        <div><strong>Shyam Kumar</strong> helps with fundraising.</div>
       </div>
       <div class="row row-ruled">
         <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/ShashankBakreBadgePic.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/ShashankBakreBadgePic.jpg" alt="Mentor Shashank Bakre" width="300" class="image-responsive" /></a></div>
         <div>
-          <p><strong>Shashank Bakre</strong> works as Senior Manager Application Engineering - Power Sensors and Power Semiconductors at Infineon Technologies. The purpose and reason for the job is to solve the technological, economic, and social challenges the world is facing today; doing our part to create an easier, safer, and greener life for generations to come.</p>
-          <p>Shashank has a Masters in Electrical Engineering with major specialization in power electronics from Illinois Institute of Technology. He holds 18 US patents and has more than 25 years of power electronics design and development experience. The most recent design and development has been of SMART IOT (Internet of Things) products such as connected Coffee Machines.</p>
+          <p><strong>Shashank Bakre</strong> works as Senior Manager Application Engineering - Power Sensors and Power Semiconductors at Infineon Technologies. He has a Masters in Electrical Engineering with major specialization in power electronics from Illinois Institute of Technology. He holds 18 US patents and has more than 25 years of power electronics design and development experience. The most recent design and development has been of SMART IOT (Internet of Things) products such as connected Coffee Machines.</p>
           <p>In his free time Shashank likes to watch sports and also plays volleyball and cricket.</p>
         </div>
       </div>

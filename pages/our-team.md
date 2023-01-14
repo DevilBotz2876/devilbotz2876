@@ -68,7 +68,7 @@ permalink: /pages/about/our-team/
         </div>
         <div>
           <p>
-            <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-768x817.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-282x300.jpg" alt="" height="200" style="float: left;" /></a>
+            <a href="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-768x817.jpg" data-fancybox><img class="size-medium" src="{{ site.baseurl }}/images/uploads/2018/02/20180203_161844-e1517694221865-282x300.jpg" alt="" height="200" style="float: left; margin-right: 10px;" /></a>
             <em>2017, Spring</em>: The Devilbotz were given the <strong>Team Spirit</strong> award at our second District Competition
           </p>
         </div>

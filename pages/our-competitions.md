@@ -7,19 +7,28 @@ permalink: /pages/about/our-competitions/
   itemscope>
   <div class="inside-article">
     <div class="entry-content" itemprop="text">
-
       <div class="row row-ruled">
-        <a name="2021"></a>     
+        <a name="2023"></a>
+        <div class="col-md-3 center">
+          <div class="button-external"><a href="https://youtu.be/0zpflsYc4PA" data-fancybox>Watch 2023 Game Animation</a></div>
+          <img class="img-responsive" src="{{site.baseurl}}/images/2023chargedup.svg" alt="" width="240" data-fancybox />
+        </div>
+      </div>
+      <div class="col-md-8">
+        <h3>2023 &#8211; CHARGED UP</h3>
+        <p>
+          In CHARGED UP&#8480; presented by Haas, two competing alliances are invited to process game pieces to bring energy to their community. Each alliance brings energy to their community by retrieving their game pieces from substations and scoring it into the grid. Human players provide the game pieces to the robots from the substations. In the final moments of each match, alliance robots race to dock or engage with their charge station!
+        </p>
+      </div>
+      <div class="row row-ruled">
+        <a name="2022"></a>     
         <div class="col-md-3 center">
           <div class="button-external"><a href="https://youtu.be/LgniEjI9cCM" data-fancybox>Watch Game Animation</a></div>
           <img class="img-responsive" src="{{site.baseurl}}/images/uploads/2022/01/RR-logo-round-600x477.png" alt="" width="240" data-fancybox /><br />
-          <!-- stub for photo of robot -->
+          <img class="img-responsive" src="{{site.baseurl}}/images/2022robot.jpg" alt="Image of 2022 robot" width="240" data-fancybox />
         </div>
         <div class="col-md-8">
           <h3>2022 &#8211; RAPID REACT</h3>
-          <p>
-            In the 2021-2022 season, FIRST® teams will explore the future of transportation. From the shipment of packages in rural and urban areas, to disaster relief delivery and high-tech air transit, teams will re-imagine faster, more reliable, inclusive, and sustainable transportation innovations that better connect and grow communities and economies around the world.
-          </p>
           <p>In RAPID REACT<sup>SM</sup> presented by The Boeing Company, two competing alliances are invited to process cargo for transportation. Each alliance is assigned a cargo color (red or blue, based on alliance affiliation) to process by retrieving their assigned cargo and scoring it into the hub. Human players assist the cargo retrieval and scoring efforts from within their terminals. In the final moments of each match, alliance robots race to engage with their hangar to prepare for transport!</p>
           <p>Each match begins with a 15-second autonomous period, during which time alliance robots operate only on pre-programmed instructions to score points by:</p>
           <ul>
@@ -32,7 +41,6 @@ permalink: /pages/about/our-competitions/
             <li>engaging with their hangar.</li>
           </ul>
           <p>The alliance with the highest score at the end of the match wins!</p>
-          </p>
         </div>
       </div>
 

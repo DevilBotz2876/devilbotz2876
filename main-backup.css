@@ -207,9 +207,9 @@ article {
   /* clear: both; */
   display: flex;
 }
-.row div:nth-child(2) {
+/* .row div:nth-child(2) {
   flex: 1 1 auto;
-}
+} */
 /* END MAIN LAYOUT STYLES */
 
 header.entry-header {

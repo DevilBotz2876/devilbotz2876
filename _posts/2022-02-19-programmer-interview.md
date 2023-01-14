@@ -12,7 +12,7 @@ _Parker_- Hello my name is Parker Meyers, I'm a sophomore at Burlington High Sch
 
 _Adi_- My name is Adi Prajapati and I am a freshman at BHS. My hobbies are skiing, playing video games, snowboarding, and spending time with my dog.
 
-<img data-fancybox class="img-responsive" src="{{site.baseurl}}/images/uploads/2022/02/image_67188225-768x576.jpg" width="40%" />
+<img data-fancybox class="img-responsive" src="{{site.baseurl}}/images/uploads/2022/02/image_67188225-768x576.jpg" width="400" />
 <p class="caption">Adi and Parker</p>
 
 *What is your background in Computer Science and programming?*

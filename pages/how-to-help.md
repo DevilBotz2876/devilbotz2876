@@ -4,8 +4,7 @@ title: How to Help Us Build Our Robot
 permalink: /pages/sponsors/how-to-help/
 ---			
 
-<article id="post-907" class="page type-page status-publish" itemtype="https://schema.org/CreativeWork"
-  itemscope>
+<article class="page type-page status-publish">
   <div class="inside-article">
     <div class="entry-content" itemprop="text">
       <p>Team 2876 Devilbotz is a registered 501(c)(3) non-profit organization.<br />
@@ -23,7 +22,7 @@ permalink: /pages/sponsors/how-to-help/
         <input type="hidden" name="hosted_button_id" value="RAJEAEPWS5PY4" /><br />
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit"
           title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><br />
-        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /><br />
+        <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /><br />
       </form>
       <h4>Use AmazonSmile</h4>
       <p><em>What is AmazonSmile?</em></p>
@@ -31,7 +30,7 @@ permalink: /pages/sponsors/how-to-help/
         <strong>Burlington Robotics Inc</strong>. More information is here: <a
           href="https://smile.amazon.com/gp/chpf/about/ref=smi_se_dshb_aas_saas" target="_blank" rel="noopener">Amazon Smile</a></p>
       <h3>Wish List</h3>
-      <p>Can you donate any of the following items? Please <a href="http://www.bhsrobotix.com/contact/">contact us</a>.
+      <p>Can you donate any of the following items? Please <a href="{{site.baseurl}}/about/contact/">contact us</a>.
       </p>
       <p><em><strong>* Items in italics have specific requirements. Please contact the team.</strong></em></p>
       <h4>Machine Shop</h4>
@@ -52,7 +51,6 @@ permalink: /pages/sponsors/how-to-help/
         <li>Plywood</li>
         <li>2"x4"s</li>
         -->
-        </p>
         <li>Lexan</li>
         <li>Aluminum: square tube, rectangular, L, sheet</li>
       </ul>
@@ -62,7 +60,7 @@ permalink: /pages/sponsors/how-to-help/
         <li><em>Encoders 8</em></li>
         <li>Sensors: break-beam, limit switches&#8230;</li>
         <li>Servos</li>
-        <li><em>Solenoids *</em> (1” throw max?)</li>
+        <li><em>Solenoids *</em> (1&#8243; throw max?)</li>
         <li>Pneumatics: pistons, cylinders, tubing</li>
         <li><em>Pixy Vision Processor *</em></li>
         <li><em>Spartan Board *</em></li>
@@ -96,7 +94,7 @@ permalink: /pages/sponsors/how-to-help/
       </ul>
       <h4>Services</h4>
       <ul>
-        <li>Internet hosting for website</li>
+        <!-- <li>Internet hosting for website</li> -->
         <li>CNC work</li>
       </ul>
     </div>

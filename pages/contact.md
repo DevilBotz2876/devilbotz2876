@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-permalink: /pages/resources/contact/
+permalink: /pages/about/contact/
 ---
 <article id="post-294" class="post-294 page type-page status-publish" itemtype="https://schema.org/CreativeWork"
   itemscope>

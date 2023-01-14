@@ -16,6 +16,10 @@ img.img-responsive {
   overflow: hidden;
   margin-bottom: 1.5em;
 }
+.row-flex {
+  display: flex;
+  flex-direction: column;
+}
 
 /* MASTHEAD / BRANDING */
 .wrapper-masthead {

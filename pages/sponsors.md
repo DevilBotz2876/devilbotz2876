@@ -3,12 +3,12 @@ layout: page
 title: Our Sponsors
 permalink: /pages/sponsors/our-sponsors/
 ---
-<article id="post-287" class="post-287 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+<article class="page type-page status-publish">
   <div class="inside-article">
     <div class="entry-content" itemprop="text">
       <h4>Financial Sponsors and Grant Makers</h4>
       <p>
-        Team 2876 can't build a robot without tools and parts. We can't go to competitions without travel expenses. In 2017, several long-time sponsors reduced, discontinued, or changed the qualifications for their giving. As a result, Team 2876 <strong>needs more financial sponsors!</strong> Would your company like to have its logo on our robot and here on this page? Please <a href="{{site.baseurl}}/resources/contact/">Contact Us!</a>
+        Team 2876 can't build a robot without tools and parts. We can't go to competitions without travel expenses. In 2017, several long-time sponsors reduced, discontinued, or changed the qualifications for their giving. As a result, Team 2876 <strong>needs more financial sponsors!</strong> Would your company like to have its logo on our robot and here on this page? Please <a href="{{site.baseurl}}/about/contact/">Contact Us!</a>
       </p>
       
       <div class="row">
@@ -76,23 +76,6 @@ permalink: /pages/sponsors/our-sponsors/
         </div>
       </div>
 
-      <div class="row level-4">
-        <div class="sponsor-level bronze">Bronze Sponsor</div>
-        <div class="col-md-3">
-          <div>
-            <a href="{{site.baseurl}}/images/uploads/2018/03/edwardjones.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/03/edwardjones-600x224.jpg" alt="Edward Jones Investments logo" width="180" class="aligncenter size-medium" /></a>
-          </div>
-          </p>
-        </div>
-        <div class="col-md-8">
-          <h2>Edward Jones Investments</h2>
-          <blockquote>
-            <p>Edward Jones serves nearly 7 million investors from more offices than any other investment firm in America. We attribute a great deal of our success to our principles and personal, long-term approach to investing.</p>
-            <footer><a href="https://www.edwardjones.com/index.html" target="_blank">Edward Jones website</a></footer>
-          </blockquote>
-        </div>
-      </div>
-
       <div class="row ruled level-4">
         <div class="sponsor-level bronze">Bronze Sponsor</div>
         <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2018/04/john-galt.png"><img src="{{site.baseurl}}/images/uploads/2018/04/john-galt.png" alt="John Galt Staffing logo" width="140" class="aligncenter" /></a>
@@ -112,20 +95,7 @@ permalink: /pages/sponsors/our-sponsors/
         <p>We couldn&#8217;t do it without you all. <strong>Thanks so much!</strong></p>
       </div>
 
-      <div class="row-ruled">
-        <div class="col-md-3">
-          <a href="{{site.baseurl}}/images/uploads/2018/02/1280px-Chick-fil-A_Logo.svg_.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/1280px-Chick-fil-A_Logo.svg_-300x135.png" alt="Chick-Fil-A logo" class="aligncenter size-medium" /></a>
-        </div>
-        <div class="col-md-8">
-          <h2>Chick-Fil-A</h2>
-          <blockquote>
-            <p>We should be about more than just selling chicken. We should be a part of our customers&#8217; lives and the communities in which we serve.</p>
-            <footer><a href="https://www.chick-fil-a.com/Locations/MA/Burlington-Mall" target="_blank">Chick-Fil-A Burlington website</a></footer>
-          </blockquote>
-        </div>
-      </div>
-
-      <div class="row-ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{site.baseurl}}/images/uploads/2018/02/flatbread.jpeg"><img src="{{site.baseurl}}/images/uploads/2018/02/flatbread-300x207.jpeg" alt="Flatbread Company logo" class="aligncenter size-medium" /></a>
         </div>
@@ -139,7 +109,7 @@ permalink: /pages/sponsors/our-sponsors/
         </div>
       </div>
       
-      <div class="row-ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{site.baseurl}}/images/uploads/2018/02/ThePizzaWorks.gif" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/ThePizzaWorks.gif" alt="The Pizza Works logo" class="aligncenter size-full" /></a>
         </div>
@@ -152,7 +122,7 @@ permalink: /pages/sponsors/our-sponsors/
         </div>
       </div>
 
-      <div class="row-ruled">
+      <div class="row row-ruled">
         <div class="col-md-3">
           <a href="{{site.baseurl}}/images/uploads/2019/02/regina-plus-bg.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2019/02/regina-plus-bg.png" alt="Regina Pizzeria Burlington Mall" class="aligncenter size-medium" /></a>
         </div>
@@ -162,19 +132,6 @@ permalink: /pages/sponsors/our-sponsors/
             <p>Since 1926, Regina Pizzeria has been greeting guests in the North End of Boston with a hearty &#8220;Welcome to Boston&#8217;s Original Pizzeria!&#8221; For over three generations, Regina&#8217;s delicious brick oven pizza has been inspired by the love of good food and the special pride of the Polcari Family.</p>
             <footer><a href="http://reginapizzeria.com/burlington_mall.html" target="_blank">Regina Pizzeria Burlington
                 website</a></footer>
-          </blockquote>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-3">
-          <a href="{{site.baseurl}}/images/uploads/2019/02/wegmans.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2019/02/wegmans.png" alt="Wegmans" class="aligncenter size-medium" /></a>
-        </div>
-        <div class="col-md-8">
-          <h2>Wegmans</h2>
-          <blockquote>
-            <p>At Wegmans, we strive to make a difference in every community we serve. We're committed to improving the lives of our customers and employees in every way we can. Since 1916, Wegmans has given back to every neighborhood where we do business.</p>
-            <footer><a href="https://www.wegmans.com/stores/burlington-ma.html" target="_blank">Wegmans Burlington website</a></footer>
           </blockquote>
         </div>
       </div>

@@ -329,7 +329,6 @@ permalink: /pages/about/our-competitions/
             The robot had to drag a trailer while depositing "moon rocks" in the opposing alliances
             trailers. We learned a lot our rookie year, and it was a solid starting point for our future in FIRST!
           </p>
-          </p>
         </div>
       </div>
 

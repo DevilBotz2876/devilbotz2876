@@ -3,13 +3,11 @@ layout: page
 title: Sponsorship Levels
 permalink: /pages/sponsors/sponsorship-levels/
 ---
-<article id="post-905" class="post-905 page type-page status-publish" itemtype="https://schema.org/CreativeWork"
-	itemscope>
+<article class="page type-page status-publish">
 	<div class="inside-article">
 		<div class="entry-content" itemprop="text">
 			<h2>Our Goal</h2>
-			<p>Reach and maintain a budget of $20,000 per year to earn the ability for employers to match individual
-				contributions, and to enable us to travel to District and World competitions!</p>
+			<p>Reach and maintain a budget of $20,000 per year to earn the ability for employers to match individual contributions, and to enable us to travel to District and World competitions!</p>
 			<h3 class="levels">Platinum ($10,000+):</h3>
 			<p><em>All of the below, plus:</em></p>
 			<ul>
@@ -32,10 +30,10 @@ permalink: /pages/sponsors/sponsorship-levels/
 			</ul>
 			<h3 class="levels">Bronze ($100+):</h3>
 			<ul>
-				<li>Individual&#8217;s or company’s name, description, and logo on our website with links to your main
+				<li>Individual's or company's name, description, and logo on our website with links to your main
 					site</li>
-				<li>Individual&#8217;s or company’s name on any newsletters sent out</li>
-				<li>Individual name or company logo displayed in our pit slideshow on our “Bronze Sponsors” slide</li>
+				<li>Individual's or company's name on any newsletters sent out</li>
+				<li>Individual name or company logo displayed in our pit slideshow on our "Bronze Sponsors" slide</li>
 				<li>Access to the newsletter</li>
 			</ul>
 			<h4>Friends (&lt;$100):</h4>

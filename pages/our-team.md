@@ -12,7 +12,7 @@ permalink: /pages/about/our-team/
           <em>Front row left to right:</em> Humayra Ferdous, Rishita Ravi, Shefali Bakre, Anjum Khalifa, Laura Meng<br />
           <em>Middle row left to right:</em> Abhay Jhumat, Rohan Dutta, Andrew Saliba, Krish Almeida, Sanjith Krishnan, Alex Chang, Neil Almeida, Adi Prajapati, Shreya Iyer, Mehran Khaleel, Alex Lock, Arnesh Yeola, Chris Peckham, Austin Li<br />
           <em>Back row left to right:</em> Krish Soni, Parker Meyers, Max Morse, Sowndaryan Jayaprakash, Ashneel Ejenkar, Rohit Vijayakumar, Sam Norman, Dillan Agarwalla, Shadman Chowdhury, Joshua Manoj, Fabien Thabert, Luke Marcassoli<br />
-          <em>Not pictured:</em> Rishab Bagmar, Mihir Balsara, Aadi Dash, Mohak Kothari, Inesh Parikh
+          <em>Not pictured:</em> Rishab Bagmar, Mihir Balsara, Aadi Dash, Mohak Kothari, Zohar Levi, Inesh Parikh
         </p>
       </div>
 

@@ -37,8 +37,8 @@ permalink: /pages/about/mentors/
       </div>
       <h1 class="entry-title">New Mentors</h1>
       <div class="row row-ruled">
-        <div class="col-md-3"></div>
-        <div><strong>Chris Morse</strong></div>
+        <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor-chris.jpg" data-fancybox alt="Chris Morse" width="300" /></div>
+        <div><strong>Chris Morse</strong> joined the team when his son expressed interest. He has been a robotics engineer for over two decades and helps with electrical and mechanical subsystems. Chris consults and maintains his own machining, woodworking, and welding workshops. When not in the shop, Chris skis and climbs rocks.</div>
       </div>
       <div class="row row-ruled">
         <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor-margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>

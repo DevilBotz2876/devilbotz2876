@@ -5,8 +5,8 @@ permalink: /pages/about/outreach/
 ---
 <article class="page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
   <div class="inside-article">
-    <div class="entry-content row-flex" itemprop="text">
-      <div class="row ruled">
+    <div class="entry-content" itemprop="text">
+      <div class="row ruled row-flex">
         <h2>FIRST LEGO League</h2>
         <p>We build a robot, but we also build our community. After our rigorous build season, we mentor elementary school students at Francis Wyman Elementary school. We recognize that it is imperative to educate our youth in STEM related fields.</p>
         <blockquote>

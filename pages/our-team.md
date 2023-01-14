@@ -3,14 +3,17 @@ layout: page
 title: Our Team
 permalink: /pages/about/our-team/
 ---
-<article id="post-302" class="post-302 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+<article class="page type-page status-publish">
 	<div class="inside-article">			
 		<div class="entry-content" itemprop="text">
 			<div class="row" style="flex-direction: column;">
         <p><a href="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-2048x886.jpg" data-fancybox><img src="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-600x259.jpg" alt="2022 team photo" width="600" class="img-responsive" /></a></p>
-        <p><em>Top (Left to Right):</em> Alex Chang, Nathaniel Chao, Shreya Iyer, Dillan Agarwalla, Sanjith Krishnan, William Preston, Sowndaryan Jayprakash, Rohan Dutta, Abhay Verma, Parker Meyers, Malachi Riley, Ashneel Ejelenkar, Shadman Chowdhary, Rahul Gupta.<br /><em>Bottom (Left to Right):</em> Rishitha Ravi, Zohar Lavi, Shefali Bakre, Arnesh Yeola, Rishabh Bagmar, Alexavier Lock, Andrew Saliba</p>
-       
-        <p><img src="{{site.baseurl}}/images/uploads/2022/01/PXL_20220122_173528155.jpg" alt="Team Unmasked!" width="600" class="size-medium" data-fancybox /></p>
+        <p>
+          <em>Front row left to right:</em> Humayra Ferdous, Rishita Ravi, Shefali Bakre, Anjum Khalifa, Laura Meng<br />
+          <em>Middle row left to right:</em> Abhay Jhumat, Rohan Dutta, Andrew Saliba, Krish Almeida, Sanjith Krishnan, Alex Chang, Neil Almeida, Adi Prajapati, Shreya Iyer, Mehran Khaleel, Alex Lock, Arnesh Yeola, Chris Peckham, Austin Li<br />
+          <em>Back row left to right:</em> Krish Soni, Parker Meyers, Max Morse, Sowndaryan Jayaprakash, Ashneel Ejenkar, Rohit Vijayakumar, Sam Norman, Dillan Agarwalla, Shadman Chowdhury, Joshua Manoj, Fabien Thabert, Luke Marcassoli<br />
+          <em>Not pictured:</em> Rishab Bagmar, Mihir Balsara, Aadi Dash, Mohak Kothari, Inesh Parikh
+        </p>
       </div>
 
       <div class="col-md-12">

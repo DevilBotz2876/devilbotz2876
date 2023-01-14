@@ -13,19 +13,19 @@ permalink: /pages/about/our-competitions/
           <div class="button-external"><a href="https://youtu.be/0zpflsYc4PA" data-fancybox>Watch 2023 Game Animation</a></div>
           <img class="img-responsive" src="{{site.baseurl}}/images/2023chargedup.svg" alt="" width="240" data-fancybox />
         </div>
-      </div>
-      <div class="col-md-8">
-        <h3>2023 &#8211; CHARGED UP</h3>
-        <p>
-          In CHARGED UP&#8480; presented by Haas, two competing alliances are invited to process game pieces to bring energy to their community. Each alliance brings energy to their community by retrieving their game pieces from substations and scoring it into the grid. Human players provide the game pieces to the robots from the substations. In the final moments of each match, alliance robots race to dock or engage with their charge station!
-        </p>
+        <div class="col-md-8">
+          <h3>2023 &#8211; CHARGED UP</h3>
+          <p>
+            In CHARGED UP&#8480; presented by Haas, two competing alliances are invited to process game pieces to bring energy to their community. Each alliance brings energy to their community by retrieving their game pieces from substations and scoring it into the grid. Human players provide the game pieces to the robots from the substations. In the final moments of each match, alliance robots race to dock or engage with their charge station!
+          </p>
+        </div>
       </div>
       <div class="row row-ruled">
         <a name="2022"></a>     
         <div class="col-md-3 center">
           <div class="button-external"><a href="https://youtu.be/LgniEjI9cCM" data-fancybox>Watch Game Animation</a></div>
           <img class="img-responsive" src="{{site.baseurl}}/images/uploads/2022/01/RR-logo-round-600x477.png" alt="" width="240" data-fancybox /><br />
-          <img class="img-responsive" src="{{site.baseurl}}/images/2022robot.jpg" alt="Image of 2022 robot" width="240" data-fancybox />
+          <img class="img-responsive" src="{{site.baseurl}}/images/2022-robot.jpg" alt="Image of 2022 robot" width="240" data-fancybox />
         </div>
         <div class="col-md-8">
           <h3>2022 &#8211; RAPID REACT</h3>

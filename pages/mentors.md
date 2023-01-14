@@ -41,7 +41,7 @@ permalink: /pages/about/mentors/
         <div><strong>Chris Morse</strong></div>
       </div>
       <div class="row row-ruled">
-        <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor_margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
+        <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor-margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
         <div><strong>Margarita Prajapati</strong> A mother of three and a small business owner, Margarita, got her start when her eldest son joined the club during his freshman year of high school. She works with club members interested in fundraising, applying for grants, securing sponsors, community engagement, creating team building activities, and all other "support" activities related before, during, and after FIRST Robotics competitions. She hopes to promote, create awareness of, and encourage more STEM programs in the Burlington Community.</div>
       </div>
       <div class="row row-ruled">

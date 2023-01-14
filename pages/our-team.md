@@ -6,8 +6,8 @@ permalink: /pages/about/our-team/
 <article class="page type-page status-publish">
 	<div class="inside-article">			
 		<div class="entry-content" itemprop="text">
-			<div class="row" style="flex-direction: column;">
-        <p><a href="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-2048x886.jpg" data-fancybox><img src="{{ site.baseurl }}/images/uploads/2022/01/PXL_20220108_165745611-600x259.jpg" alt="2022 team photo" width="600" class="img-responsive" /></a></p>
+			<div class="row row-flex-col">
+        <p><a href="{{ site.baseurl }}/images/Team-photo-2023.jpg" data-fancybox><img src="{{ site.baseurl }}/images/Team-photo-2023.jpg" alt="2023 team photo" width="600" class="img-responsive" /></a></p>
         <p>
           <em>Front row left to right:</em> Humayra Ferdous, Rishita Ravi, Shefali Bakre, Anjum Khalifa, Laura Meng<br />
           <em>Middle row left to right:</em> Abhay Jhumat, Rohan Dutta, Andrew Saliba, Krish Almeida, Sanjith Krishnan, Alex Chang, Neil Almeida, Adi Prajapati, Shreya Iyer, Mehran Khaleel, Alex Lock, Arnesh Yeola, Chris Peckham, Austin Li<br />

@@ -16,7 +16,7 @@ img.img-responsive {
   overflow: hidden;
   margin-bottom: 1.5em;
 }
-.row-flex {
+.row-flex-col {
   display: flex;
   flex-direction: column;
 }

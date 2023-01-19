@@ -15,6 +15,9 @@ img.img-responsive {
 img.body-img {
   width: 400px;
 }
+p.img-container {
+  margin-bottom: 0;
+}
 .row {
   overflow: hidden;
   margin-bottom: 1.5em;

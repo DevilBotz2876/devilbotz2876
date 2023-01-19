@@ -12,6 +12,9 @@ img.img-responsive {
   margin-right: 1em; */
   max-width: 100%;
 }
+img.body-img {
+  width: 400px;
+}
 .row {
   overflow: hidden;
   margin-bottom: 1.5em;
@@ -165,6 +168,34 @@ article {
   top: -50px;
   clear: both;
 }
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 6px 0;
+}
+.post-nav div {
+  flex: 1 1 0;
+}
+.post-nav div:first-child {
+  padding-right: 0.5em;
+}
+.post-nav div:last-child {
+  padding-left: 0.5em;
+  text-align: right;
+}
+.unsighted {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
 .row {
   display: block;
 }
@@ -241,19 +272,6 @@ ul {
   margin-bottom: .5em;
   text-align: center;
 }
-#post-287 .col-md-8 h2 {
-  text-align: center;
-}
-#post-287 .col-md-3 {
-  text-align: center;
-}
-#post-287 .col-md-3 a br {
-  display: none;
-}
-#post-287 .col-md-3 img {
-  margin: 0;
-  float: none;
-}
 
 .site-content {
   padding: 1.5em 0 0;
@@ -322,7 +340,6 @@ h1.entry-title:after {
   padding: 2em;
   margin-top: 2em;
 }
-
 
 h4 {
   margin: 1rem 0 .7rem;

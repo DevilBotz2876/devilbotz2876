@@ -4,7 +4,8 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
-    {% include /css/mobile.min.css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/mobile.min.css %}" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.min.css %}" />
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
     <!-- <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" /> -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/main-backup.css" />
@@ -13,7 +14,6 @@
     <link rel="icon" href="{{ site.baseurl }}/images/uploads/2017/10/cropped-hi-rez-wirebot_black_on_transparent-192x192.png" sizes="192x192" />
     <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/images/uploads/2017/10/cropped-hi-rez-wirebot_black_on_transparent-180x180.png" />
     <meta name="msapplication-TileImage" content="{{ site.baseurl }}/images/uploads/2017/10/cropped-hi-rez-wirebot_black_on_transparent-270x270.png" />
-    
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 

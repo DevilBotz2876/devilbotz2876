@@ -4,7 +4,7 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
-
+    {% include /css/mobile.min.css %}
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
     <!-- <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" /> -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/main-backup.css" />
@@ -31,7 +31,7 @@
           </p>
         </div>
       </div>
-      <header class="main-navigation">
+      <header>
         {% include nav.html %}
       </header>
     </div>

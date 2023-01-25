@@ -57,14 +57,18 @@ p.img-container {
   }
   #main {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding: 0;
     max-width: 100vw;
   }
   #right-sidebar {
     order: 2;
     display: flex;
+    flex: 1 1 100%;
     flex-direction: column;
+  }
+  article {
+    flex: 1 1 100%;
   }
   .wrapper-masthead .inside-header {
     background-image: none;

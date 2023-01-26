@@ -90,9 +90,10 @@ p.img-container {
   /* mobile nav */
   /* Menu Icon */
   .hamb {
+    display: block;
     cursor: pointer;
-    float: right;
     padding: 40px 20px;
+    margin: 0 auto;
   } /* Style label tag */
 
   .menu-toggle {
@@ -120,7 +121,7 @@ p.img-container {
     top: -5px;
   }
   /* Toggle menu icon */
-  .side-menu:checked ~ nav{
+  .side-menu:checked ~ nav {
     max-height: 100%;
   }
   .side-menu:checked ~ .hamb .menu-toggle {
@@ -135,6 +136,7 @@ p.img-container {
     top:0;
   }
 }
+/* end mobile */
 
 .site-branding {
   padding-top: 40px;
@@ -171,7 +173,7 @@ header {
 .sidebar-nav-mobile:not(#sticky-placeholder) {
   display: none;
 }
-.hamb {
+.hamb, #side-menu {
   display: none;
 }
 

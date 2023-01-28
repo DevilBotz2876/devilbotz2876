@@ -119,7 +119,7 @@ header {
   padding-left: 5px;
 }
 span.sub-arrow::before {
-  content: '&#9660;'
+  content: '▼'
 }
 .sub-menu {
   display: none;
@@ -899,7 +899,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
     flex: 1 1 100%;
   }
   .wrapper-masthead {
-    height: 150px;
+    height: 93px;
   }
   .wrapper-masthead .inside-header {
     background-image: none;
@@ -973,8 +973,9 @@ body:not(.no-sidebar) .entry-content .alignfull {
     line-height: 40px;
   }
   .side-menu:checked ~ ul.mobile-menu .sub-menu ul {
-    top: -46px;
+    top: -43px;
     left: 170px;
+    display: block;
   }
   .side-menu:checked ~ .hamb .menu-toggle {
     background: transparent;
@@ -988,7 +989,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
     top:0;
   }
   span.sub-arrow::before {
-    content: '&#9654;'
+    content: '▶'
   }
 }
 /* end mobile */

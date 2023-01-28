@@ -338,14 +338,17 @@ li:active > a,
 li:hover > a {
   color: #AA0000 !important;
 }
-h1.entry-title {
+h1.entry-title,
+h2.entry-title {
   font-size: 24px;
   color: #900;
 }
-h1.entry-title:before {
+h1.entry-title::before,
+h2.entry-title::before {
   content: '«';
 }
-h1.entry-title:after {
+h1.entry-title::after,
+h2.entry-title::after {
   content: '»';
 }
 .copyright-bar {
@@ -839,6 +842,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   .col-md-3, .col-md-8 {
     width: 100%;
     flex: 1 1 auto;
+    text-align: center;
   }
 }
 
@@ -892,6 +896,8 @@ body:not(.no-sidebar) .entry-content .alignfull {
     display: flex;
     flex: 1 1 100%;
     flex-direction: column;
+    float: none;
+    margin-left: 0;
   }
   article {
     flex: 1 1 100%;
@@ -899,6 +905,13 @@ body:not(.no-sidebar) .entry-content .alignfull {
   .row {
     flex-direction: column;
   }
+  .wrapper-footer {
+    top: 0;
+  }
+  article iframe {
+    max-width: calc(100vw - 40px);
+  }
+
   /* MOBILE nav */
   .wrapper-masthead {
     height: 93px;
@@ -917,8 +930,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   .site-description {
     font-size: 15px;
   }
-  /* mobile nav */
-  header {
+  .wrapper-masthead header {
     top: 0;
     background-color: #222;
   }
@@ -993,8 +1005,8 @@ body:not(.no-sidebar) .entry-content .alignfull {
   span.sub-arrow::before {
     content: '▶'
   }
+  /* end mobile */
 }
-/* end mobile */
 
 /* Copied from WP inline css */
 /*

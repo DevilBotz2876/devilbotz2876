@@ -3,9 +3,8 @@ layout: page
 title: First
 permalink: /pages/about/FIRST/
 ---
-<article id="post-110" class="post-110 attachment type-attachment status-inherit hentry" itemtype="https://schema.org/CreativeWork" itemscope>
-	<div class="inside-article">
-    <div class="media"><a class="pull-right" href="http://www.usfirst.org/"><br />
+<div class="entry-content" itemprop="text">
+  <div class="media"><a class="pull-right" href="http://www.usfirst.org/"><br />
       <img class="media-object" alt="FIRST Logo" src="{{ site.baseurl }}/images/first-logo.png" /></a>
     </div>
       
@@ -30,4 +29,3 @@ permalink: /pages/about/FIRST/
     <h3>More Information</h3>
     <p>For specific details regarding FIRST people, places, and events, please feel free to explore their <a href="http://www.firstinspires.org/">website</a>.</p>    
   </div>
-</article>

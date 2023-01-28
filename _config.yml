@@ -75,7 +75,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -86,3 +86,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - about.md
+  - python/
+
+
+# in VS Code terminal, to run jekyll build and serve it locally:
+# ...$ bundle exec jekyll serve --force_polling --livereload
+# will be viewable at http://127.0.0.1:4000/devilbotz2876/ in your browser

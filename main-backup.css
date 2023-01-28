@@ -838,6 +838,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   }
   .col-md-3, .col-md-8 {
     width: 100%;
+    flex: 1 1 auto;
   }
 }
 
@@ -858,7 +859,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   } 
 }
 
-
+/* Main mobile styles */
 @media (max-width:768px) {
   .main-title {
     font-size: 30px;
@@ -871,10 +872,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   h2 {
     font-size: 25px;
   }
-}
-
-/* MOBILE nav */
-@media (max-width:768px) {
+  
   body {
     width: 100vw;
     padding: 0;
@@ -898,6 +896,10 @@ body:not(.no-sidebar) .entry-content .alignfull {
   article {
     flex: 1 1 100%;
   }
+  .row {
+    flex-direction: column;
+  }
+  /* MOBILE nav */
   .wrapper-masthead {
     height: 93px;
   }

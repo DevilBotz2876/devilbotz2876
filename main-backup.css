@@ -885,7 +885,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
     flex-direction: column;
     max-width: 100vw;
     position: relative;
-    top: -75px;
+    top: 0;
     padding: 0 20px;
     margin: 0 auto;
   }
@@ -903,7 +903,7 @@ body:not(.no-sidebar) .entry-content .alignfull {
   }
   .wrapper-masthead .inside-header {
     background-image: none;
-    height: 90;
+    height: 90px;
     padding: 0 10px;
   }
   .site-branding {
@@ -918,13 +918,13 @@ body:not(.no-sidebar) .entry-content .alignfull {
   /* mobile nav */
   header {
     top: 0;
-    background-color: #000;
+    background-color: #222;
   }
   /* Menu Icon */
   .hamb {
     display: block;
     cursor: pointer;
-    padding: 14px 20px;
+    padding: 16px 20px;
     margin: 0 auto;
   } /* Style label tag */
 
@@ -962,8 +962,19 @@ body:not(.no-sidebar) .entry-content .alignfull {
     z-index: 99;
     position: relative;
     text-align: left;
-    top: 13px;
-    width: max-content;
+    top: 0;
+    width: 170px;
+  }
+  .side-menu:checked ~ ul.mobile-menu li {
+    width: 100%;
+  }
+  .side-menu:checked ~ ul.mobile-menu li a {
+    padding-left: 24px;
+    line-height: 40px;
+  }
+  .side-menu:checked ~ ul.mobile-menu .sub-menu ul {
+    top: -46px;
+    left: 170px;
   }
   .side-menu:checked ~ .hamb .menu-toggle {
     background: transparent;

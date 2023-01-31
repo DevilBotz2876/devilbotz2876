@@ -169,6 +169,12 @@ span.sub-arrow::before {
   width: 220px;
   margin: 0 auto;
 }
+.inside-right-sidebar .recent ul {
+  padding-left: 13px;
+}
+.inside-right-sidebar .recent li {
+  margin-bottom: .5em;
+}
 article {
   padding-bottom: 1em;
 }

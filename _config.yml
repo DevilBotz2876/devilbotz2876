@@ -88,7 +88,7 @@ exclude:
   - CNAME
   - about.md
   - python/
-
+  - blog/blog-template.md
 
 # in VS Code terminal, to run jekyll build and serve it locally:
 # ...$ bundle exec jekyll serve --force_polling --livereload

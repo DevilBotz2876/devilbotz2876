@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }} - {{ site.description }}</title>
 
     {% include meta.html %}
   </head>
@@ -26,7 +26,7 @@
     </div>
 
     <div id="main" role="main" class="container">   
-    {% if post.title %}
+    {% if layout.type %}
       {% include sidebar-plus-recent.html %}
     {% else %}
       {% include sidebar.html %}

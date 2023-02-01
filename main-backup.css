@@ -170,6 +170,7 @@ span.sub-arrow::before {
   margin: 0 auto;
 }
 .inside-right-sidebar .recent ul {
+  list-style-position: outside; 
   padding-left: 13px;
 }
 .inside-right-sidebar .recent li {

@@ -160,6 +160,7 @@ span.sub-arrow::before {
   padding: 2em 50px 0 50px;
   max-width: 1200px;
   margin: 0 auto;
+  overflow: hidden;
 }
 .widget-area.sidebar {
   float: right;

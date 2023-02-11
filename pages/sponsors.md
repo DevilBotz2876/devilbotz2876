@@ -10,8 +10,8 @@ permalink: /pages/sponsors/our-sponsors/
   </p>
   
   <div class="row">
-    <div class="sponsor-level gold">Gold Sponsor</div>
     <div class="col-md-3">
+      <div class="sponsor-level gold">Gold Sponsor</div>
       <div style="text-align: center">
         <a href="{{site.baseurl}}/images/uploads/2019/01/bestbuy-600x413.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2019/01/bestbuy-600x413.png" alt="Best Buy" width="170" class="alignnone size-medium wp-image-2118" /></a>
       </div>
@@ -28,8 +28,8 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <div class="row">
-    <div class="sponsor-level gold">Gold Sponsor</div>
     <div class="col-md-3">
+      <div class="sponsor-level gold">Gold Sponsor</div>
       <div>
         <a href="{{site.baseurl}}/images/uploads/2018/03/2000px-Stanley_Black__Decker_Logo.svg_.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/03/2000px-Stanley_Black__Decker_Logo.svg_-600x100.png" alt="Stanley Black &amp; Decker logo" class="aligncenter size-medium" /></a>
       </div>
@@ -45,8 +45,8 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <div class="row">
-    <div class="sponsor-level silver">Silver Sponsor</div>
     <div class="col-md-3">
+      <div class="sponsor-level silver">Silver Sponsor</div>
       <a href="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin-300x60.png" alt="Lockheed Martin logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
@@ -59,8 +59,8 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <div class="row">
-    <div class="sponsor-level silver">Silver Sponsor</div>
     <div class="col-md-3">
+      <div class="sponsor-level silver">Silver Sponsor</div>
       <a href="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo-300x88.png" alt="Lincoln Labs logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
@@ -75,8 +75,9 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <div class="row ruled level-4">
-    <div class="sponsor-level bronze">Bronze Sponsor</div>
-    <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2018/04/john-galt.png"><img src="{{site.baseurl}}/images/uploads/2018/04/john-galt.png" alt="John Galt Staffing logo" width="140" class="aligncenter" /></a>
+    <div class="col-md-3">
+      <div class="sponsor-level bronze">Bronze Sponsor</div>
+      <a href="{{site.baseurl}}/images/uploads/2018/04/john-galt.png"><img src="{{site.baseurl}}/images/uploads/2018/04/john-galt.png" alt="John Galt Staffing logo" width="140" class="aligncenter" /></a>
     </div>
     <div class="col-md-8">
       <h2>John Galt Staffing</h2>

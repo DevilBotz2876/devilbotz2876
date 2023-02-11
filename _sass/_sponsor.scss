@@ -1,0 +1,70 @@
+.sponsor-level {
+  height: 20px;
+  font-size: 90%;
+  letter-spacing: 2px;
+  margin-bottom: .5rem;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+
+  &.gold {
+    background: -webkit-repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
+    /* Firefox */
+    background: -moz-repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
+    /* Opera */
+    background: -o-repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
+    /* Internet Explorer */
+    background: -ms-repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
+    /* W3C Standard */
+    background: repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
+  }
+
+  &.silver {
+    color: #fff;
+    background: #cdd0d7;
+    /* Safari and Google Chrome */
+    background: -webkit-repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);
+    /* Firefox */
+    background: -moz-repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);
+    /* Opera */
+    background: -o-repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);
+    /* Internet Explorer */
+    background: -ms-repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);
+    /* W3C Standard */
+    background: repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);
+  }
+
+  &.bronze {
+    background: #CD7F32;
+    background: -webkit-repeating-linear-gradient(90deg, #3D2D1E 0%, #663829 2%, #966D4D 23%, #BA8B64 29%, #AB7D55 33%, #E6C29C 61%, #BA8B64 66%, #AB7D55 79%, #663829 95%, #815D47 100%);
+    background: -moz-repeating-linear-gradient(90deg, #3D2D1E 0%, #663829 2%, #966D4D 23%, #BA8B64 29%, #AB7D55 33%, #E6C29C 61%, #BA8B64 66%, #AB7D55 79%, #663829 95%, #815D47 100%);
+    background: -o-repeating-linear-gradient(90deg, #3D2D1E 0%, #663829 2%, #966D4D 23%, #BA8B64 29%, #AB7D55 33%, #E6C29C 61%, #BA8B64 66%, #AB7D55 79%, #663829 95%, #815D47 100%);
+    background: -ms-repeating-linear-gradient(90deg, #3D2D1E 0%, #663829 2%, #966D4D 23%, #BA8B64 29%, #AB7D55 33%, #E6C29C 61%, #BA8B64 66%, #AB7D55 79%, #663829 95%, #815D47 100%);
+    background: repeating-linear-gradient(90deg, #3D2D1E 0%, #663829 2%, #966D4D 23%, #BA8B64 29%, #AB7D55 33%, #E6C29C 61%, #BA8B64 66%, #AB7D55 79%, #663829 95%, #815D47 100%);
+  }
+}
+
+.sponsor-grant {
+  box-sizing: border-box;
+  width: 100px;
+  height: 60px;
+  padding-top: 20px;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 100%;
+  color: white;
+  text-shadow: 0 0 4px rgba(0, 0, 0, .6);
+  background-image: url('./images/uploads/2018/03/red-doodle-sunburst_1034-817.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+h3.levels {
+  font-weight: bold;
+  margin-top: 1rem;
+}
+.level-4 {
+  font-size: 85%;
+}

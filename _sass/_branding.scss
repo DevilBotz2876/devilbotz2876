@@ -1,0 +1,81 @@
+/* MASTHEAD / BRANDING */
+.wrapper-masthead {
+  position: relative;
+  background-image: url('./images/uploads/2018/01/dbtz-bkgd.png');
+  background-position: top -3px left 0;
+  background-repeat: repeat-x;
+  content: '';
+  height: 218px;
+  width: 100%;
+  display: block;
+  margin-bottom: 2em;
+
+  .inside-header {
+    background-image: url('./images/uploads/2013/11/2876banner.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    height: 218px;
+    padding: 0 0 0 40px;
+    position: relative;
+    text-align: left;
+  }
+}
+
+.site-branding {
+  padding-top: 40px;
+
+  .main-title {
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0;
+
+    a {
+      color: #222;
+      font-size: 45px;
+      text-decoration: none;
+      
+      &:hover {
+        color: #222;
+      }
+    }
+  }
+
+  .site-description {
+    margin: 0 0 0 4px;
+    font-size: 14px;
+    color: #ccc;
+  }
+}
+
+@media screen and (max-width: 40em) {
+  header#masthead:before {
+    content: '';
+  }
+}
+
+@media (max-width:768px) {
+  .wrapper-masthead {
+    height: 93px;
+
+    header {
+      top: 0;
+      background-color: #222;
+    }
+
+    .inside-header {
+      background-image: none;
+      height: 90px;
+      padding: 0 10px;
+    }
+  }
+  .site-branding {
+    padding-top: 0;
+  
+    .main-title a {
+      font-size: 34px;
+    }
+  }
+  .site-description {
+    font-size: 15px;
+  }
+}

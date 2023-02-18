@@ -10,9 +10,9 @@ permalink: /pages/sponsors/our-sponsors/
   </p>
   
   <div class="row">
-    <div class="col-md-3 center">
+    <div class="col-md-3">
       <div class="sponsor-level gold">Gold Sponsor</div>
-      <div>
+      <div style="text-align: center;">
         <em>Your Logo HERE!</em>
       </div>
       <!-- <div class="sponsor-grant">grant</div> -->
@@ -70,10 +70,12 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <div class="row ruled level-4">
-    <div class="col-md-3 center">
+    <div class="col-md-3">
       <div class="sponsor-level bronze">Bronze Sponsor</div>
-      <a href="{{site.baseurl}}/images/LowellCommunityFoundation.png" data-fancybox><img src="{{site.baseurl}}/images/LowellCommunityFoundation.png" alt="Greater Lowell Community Foundation logo" width="140" /></a>
+      <div style="text-align: center;">
+        <a href="{{site.baseurl}}/images/LowellCommunityFoundation.png" data-fancybox><img src="{{site.baseurl}}/images/LowellCommunityFoundation.png" alt="Greater Lowell Community Foundation logo" width="140" /></a>
       </div>
+    </div>
     <div class="col-md-8">
       <h2>Greater Lowell Community Foundation</h2>
       <blockquote>

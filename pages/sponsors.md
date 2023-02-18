@@ -10,19 +10,17 @@ permalink: /pages/sponsors/our-sponsors/
   </p>
   
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-3 center">
       <div class="sponsor-level gold">Gold Sponsor</div>
-      <div style="text-align: center">
-        <em>Your Logo HERE!!!</em>
+      <div>
+        <em>Your Logo HERE!</em>
       </div>
       <!-- <div class="sponsor-grant">grant</div> -->
     </div>
     <div class="col-md-8">
-      <h2><em>Your Company Name HERE!!!</em></h2>
-      <blockquote>
-        <p>Team 2876 Devilbotz would be thrilled to put your company or foundation information here as a Gold Sponsor!</p>
-        <footer>We'd link to your web page here, too</footer>
-      </blockquote>
+      <h2><em>Your Company Name HERE!</em></h2>
+      <p>Team 2876 Devilbotz would be thrilled to put your company or foundation information here as a Gold Sponsor!</p>
+      <footer>We'd link to your web page here, too</footer>
     </div>
   </div>
 
@@ -46,7 +44,7 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="{{site.baseurl}}/images/broadcom.png" data-fancybox><img src="{{site.baseurl}}/images/broadcom.png" alt="Broadcom logo" class="aligncenter size-medium" /></a>
+      <a href="{{site.baseurl}}/images/Broadcom_Logo.png" data-fancybox><img src="{{site.baseurl}}/images/Broadcom_Logo.png" alt="Broadcom logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>Broadcom</h2>
@@ -60,22 +58,22 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Developments logo" class="aligncenter size-medium" /></a>
+      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Developments logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>Ascent Development</h2>
       <blockquote>
-        <p>Ascent Development is the consulting company of mentor Chris Morse.Ascent provides Engineering Design services to consumer and medical device companies.</p>
+        <p>Ascent Development is the consulting company of mentor <a href="{{site.baseurl}}/pages/about/mentors/#morse">Chris Morse</a>. Ascent provides Engineering Design services to consumer and medical device companies.</p>
         <footer><a href="https://www.linkedin.com/in/cjmorse/" target="_blank">Chris's LinkedIn Page</a></footer>
       </blockquote>
     </div>
   </div>
 
   <div class="row ruled level-4">
-    <div class="col-md-3">
+    <div class="col-md-3 center">
       <div class="sponsor-level bronze">Bronze Sponsor</div>
-      <a href="{{site.baseurl}}/images/LowellCommunityFoundation.png"><img src="{{site.baseurl}}/images/LowellCommunityFoundation.png" alt="Greater Lowell Community Foundation logo" width="140" class="aligncenter" /></a>
-    </div>
+      <a href="{{site.baseurl}}/images/LowellCommunityFoundation.png" data-fancybox><img src="{{site.baseurl}}/images/LowellCommunityFoundation.png" alt="Greater Lowell Community Foundation logo" width="140" /></a>
+      </div>
     <div class="col-md-8">
       <h2>Greater Lowell Community Foundation</h2>
       <blockquote>
@@ -99,27 +97,28 @@ permalink: /pages/sponsors/our-sponsors/
 
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/princess_diamond_logo.png" data-fancybox><img src="{{site.baseurl}}/images/princess_diamond_logo.png" alt="Princess Diamonds of Burlington" class="aligncenter size-medium"></a>
+      <a href="{{site.baseurl}}/images/princess_diamond_logo.png" data-fancybox><img src="{{site.baseurl}}/images/princess_diamond_logo.png" alt="Princess Diamonds of Burlington"></a>
     </div>
     <div class="col-md-8">
       <h2>Princess Diamonds</h2>
+      <p>The Devilbotz would like to thank Princess Diamonds very much for providing a beautiful raffle item to help us raise funds.</p>
       <blockquote>
         <p>Princess Diamonds is a jeweler and retailer located in Burlington, Massachusetts who serves the surrounding and Boston regions. Their staff works closely with couples to help them find the perfect engagement ring and/or wedding band to show off on and after their wedding day, or even to help them create unique, personalized items.</p>
         <p>They offer appraisal and diamond certification services, and may also help with ring sizing, stone upgrades, and cleaning.</p>
         <footer>
           <a href="https://www.weddingwire.com/biz/princess-diamonds-burlington/e086bbab782873c3.html">Princess Diamonds Wedding Wire listing</a>
         </footer>
-        <p>The Devilbotz would like to thank Princess Diamonds very much for providing a beautiful raffle item to help us raise funds.</p>
       </blockquote>
     </div>
   </div>
 
   <div class="row row-ruled">
-    <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/home_depot_logo.png" data-fancybox><img src="{{site.baseurl}}/images/home_depot_logo.png" alt="Home Depot logo" class="aligncenter size-medium"></a>
+    <div class="col-md-3 center">
+      <a href="{{site.baseurl}}/images/home_depot_logo.png" data-fancybox><img src="{{site.baseurl}}/images/home_depot_logo.png" width="150" alt="Home Depot logo" class="aligncenter size-medium"></a>
     </div>
     <div class="col-md-8">
       <h2>Home Depot</h2>
+      <p>The team would like to thank Home Depot for their generous contribution of tools and other needed materials.</p>
       <blockquote>
         <p>When The Home Depot was founded in 1978, Bernie Marcus and Arthur Blank had no idea how revolutionary this new "hardware store" would be for home improvement and the retail industry.</p>
 
@@ -129,17 +128,17 @@ permalink: /pages/sponsors/our-sponsors/
         <footer>
           <a href="https://www.homedepot.com/">Home Depot website</a>
         </footer>
-        <p>The team would like to thank Home Depot for their generous contribution of tools and other needed materials.</p>
       </blockquote>
     </div>
   </div>
 
   <div class="row row-ruled">
-    <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/ACE-hardware.png" data-fancybox><img src="{{site.baseurl}}/images/ACE-hardware.png" alt="Ace Hardware logo" class="aligncenter size-medium"></a>
+    <div class="col-md-3 center">
+      <a href="{{site.baseurl}}/images/ACE-hardware.png" data-fancybox><img src="{{site.baseurl}}/images/ACE-hardware.png" alt="Ace Hardware logo" width="160"></a>
     </div>
     <div class="col-md-8">
       <h2>Ace Hardware</h2>
+      <p>The team would like to thank Ace Hardware for their generous contribution of tools and other needed materials.</p>
       <blockquote>
         <p>We are your local hardware store and we are a part of your community. Ace Hardware has over 5,000 stores around the world with the majority of those stores independently owned and operated by local entrepreneurs. These hard working men and women are part of the fabric of your community. They are small business owners who are local and loyal...just like it ought to be. While others have become large and impersonal, at Ace, we've remained small and very personal. That's why we say a visit to Ace, is like a visit to your neighbor.</p>
         <p>Founded in 1924 by a small group of Chicago hardware store owners, Ace changed the retail landscape by allowing individual stores to purchase merchandise in bulk to save money and buy at the lowest possible price. This partnership enabled even the smaller stores to compete effectively at retail despite larger stores in their market. And to this very day, Ace Hardware Corporation is still owned solely and exclusively by the local Ace retail entrepreneurs.</p>
@@ -187,7 +186,7 @@ permalink: /pages/sponsors/our-sponsors/
 
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/.png" data-fancybox><img src="{{site.baseurl}}/images/.png" alt="Karma Asian Fusion Burlington Mall" class="aligncenter size-medium" /></a>
+      <a href="{{site.baseurl}}/images/Karma-restaurant.png" data-fancybox><img src="{{site.baseurl}}/images/Karma-restaurant.png" alt="Karma Asian Fusion Burlington Mall" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
       <h2>Karma Asian Fusion</h2>

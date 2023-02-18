@@ -33,6 +33,7 @@ permalink: /pages/about/mentors/
       <strong>Dean Casciola</strong> helps work with the electrical team to wire the robots, install sensors, and teach the programming team how to use the sensors properly. Outside of Robotics, Dean is retired from Delta Electronics Manufucturing Corp as an Electrical Engineer. Dean has a pilot license and in his spare time flies airplanes, including one he built from a kit. He joined Robotics because his son got him involved in the club and he developed an interest as an electrical mentor. He is married to Ms. O'Neill.</div>
   </div>
   <h1 class="entry-title">New Mentors</h1>
+  <a name="morse"></a>
   <div class="row row-ruled">
     <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-chris.jpg" data-fancybox alt="Chris Morse" width="300" /></div>
     <div><strong>Chris Morse</strong> joined the team when his son expressed interest. He has been a robotics engineer for over two decades and helps with electrical and mechanical subsystems. Chris consults and maintains his own machining, woodworking, and welding workshops. When not in the shop, Chris skis and climbs rocks.</div>

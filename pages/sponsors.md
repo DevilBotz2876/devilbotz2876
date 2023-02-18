@@ -13,21 +13,20 @@ permalink: /pages/sponsors/our-sponsors/
     <div class="col-md-3">
       <div class="sponsor-level gold">Gold Sponsor</div>
       <div style="text-align: center">
-        <a href="{{site.baseurl}}/images/uploads/2019/01/bestbuy-600x413.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2019/01/bestbuy-600x413.png" alt="Best Buy" width="170" class="alignnone size-medium wp-image-2118" /></a>
+        <em>Your Logo HERE!!!</em>
       </div>
-      <div class="sponsor-grant">grant</div>
+      <!-- <div class="sponsor-grant">grant</div> -->
     </div>
     <div class="col-md-8">
-      <h2>Best Buy</h2>
+      <h2><em>Your Company Name HERE!!!</em></h2>
       <blockquote>
-        <p><strong>Empowering educators. Strengthening students.</strong></p>
-        <p>Through partnerships with schools and universities, we help students fully realize their potential through the effective use of technology. We also assist in planning, design and IT services needed to create comprehensive ed-tech solutions. With our array of products, software and services, we create an exceptional experience for students and teachers.</p>
-        <footer><a href="http://www.bestbuy.com" target="_blank">Best Buy website</a></footer>
+        <p>Team 2876 Devilbotz would be thrilled to put your company or foundation information here as a Gold Sponsor!</p>
+        <footer>We'd link to your web page here, too</footer>
       </blockquote>
     </div>
   </div>
 
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level gold">Gold Sponsor</div>
       <div>
@@ -42,18 +41,18 @@ permalink: /pages/sponsors/our-sponsors/
         <footer><a href="http://www.stanleyblackanddecker.com" target="_blank">Stanley Black &amp; Decker website</a></footer>
       </blockquote>
     </div>
-  </div>
+  </div> -->
 
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/lockheed-martin-300x60.png" alt="Lockheed Martin logo" class="aligncenter size-medium" /></a>
+      <a href="{{site.baseurl}}/images/broadcom.png" data-fancybox><img src="{{site.baseurl}}/images/broadcom.png" alt="Broadcom logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
-      <h2>Lockheed Martin</h2>
+      <h2>Broadcom</h2>
       <blockquote>
-        <p>Headquartered in Bethesda, Md., Lockheed Martin is a global security and aerospace company that employs about 115,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services.</p>
-        <footer><a href="http://www.lockheedmartin.com/" target="_blank">Lockheed Martin website</a></footer>
+        <p>Broadcom Inc is a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. Broadcom's category-leading product portfolio serves critical markets including data center, networking, software, broadband, wireless, storage and industrial. Our solutions include data center networking and storage, enterprise and mainframe software focused on automation, monitoring and security, smartphone components, telecoms and factory automation.</p>
+        <footer><a href="https://www.broadcom.com/" target="_blank">Broadcom website</a></footer>
       </blockquote>
     </div>
   </div>
@@ -61,15 +60,13 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo.png" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/Lincoln_Labs_Logo-300x88.png" alt="Lincoln Labs logo" class="aligncenter size-medium" /></a>
+      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Developments logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
-      <h2>MIT Lincoln Laboratory</h2>
+      <h2>Ascent Development</h2>
       <blockquote>
-        <p>Community Outreach and education programs are an important component of the Laboratory&#8217;s mission. From the beginning, our outreach initiatives have been inspired by employee desires to help people in need and to motivate student interest and participation in science, technology, engineering, and Math (STEM).
-        </p>
-        <p>The programs complement the Laboratory&#8217;s mission of support to national security by helping ensure that the U.S. workforce remains preeminent in technology.</p>
-        <footer><a href="https://www.ll.mit.edu/" target="_blank">MIT Lincoln Laboratory website</a></footer>
+        <p>Ascent Development is the consulting company of mentor Chris Morse.Ascent provides Engineering Design services to consumer and medical device companies.</p>
+        <footer><a href="https://www.linkedin.com/in/cjmorse/" target="_blank">Chris's LinkedIn Page</a></footer>
       </blockquote>
     </div>
   </div>
@@ -77,21 +74,87 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row ruled level-4">
     <div class="col-md-3">
       <div class="sponsor-level bronze">Bronze Sponsor</div>
-      <a href="{{site.baseurl}}/images/uploads/2018/04/john-galt.png"><img src="{{site.baseurl}}/images/uploads/2018/04/john-galt.png" alt="John Galt Staffing logo" width="140" class="aligncenter" /></a>
+      <a href="{{site.baseurl}}/images/LowellCommunityFoundation.png"><img src="{{site.baseurl}}/images/LowellCommunityFoundation.png" alt="Greater Lowell Community Foundation logo" width="140" class="aligncenter" /></a>
     </div>
     <div class="col-md-8">
-      <h2>John Galt Staffing</h2>
+      <h2>Greater Lowell Community Foundation</h2>
       <blockquote>
-        <p>John Galt contributes to the success of organizations and individuals throughout the United States by expertly matching them with one another. Founded in 1997, we have worked with thousands of organizations and individuals over the years to enable them to achieve success. Our focus is on contract technology professionals in disciplines which are critical to an organization’s success.</p>
-        <footer><a href="https://j-galt.com/" target="_blank">John Galt Staffing website</a></footer>
+        <p>Since its inception in 1997, the Greater Lowell Community Foundation has maintained the clear mission to improve the quality of life for the people in the communities we serve by connecting caring donors with local nonprofit organizations that best serve the causes that matter most to them.</p>
+        <p>Its mission is to foster community growth and development through funding, leadership, and collaboration to transform the lives of the individuals and organizations we serve. They accomplish this via:</p>
+        <ul>
+          <li>Grant-making to nonprofit organizations, high school scholarships, and special funding initiatives</li>
+          <li>Working in partnership with our donors and other funders to achieve high impact philanthropy</li>
+          <li>Serving as a convener and center of information where ideas are shared to leverage common agendas and resources in the future</li>
+        </ul>
+        <footer><a href="https://www.glcfoundation.org/" target="_blank">Greater Lowell Community Foundation website</a></footer>
       </blockquote>
     </div>
   </div>
 
+  <!-- MATERIAL SPONSORS -->
+  <div class="row-ruled">
+    <h4>Material Sponsors</h4>
+    <p>Material sponsors have provided goods or services and these, too, help us immensely!</p>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/princess_diamond_logo.png" data-fancybox><img src="{{site.baseurl}}/images/princess_diamond_logo.png" alt="Princess Diamonds of Burlington" class="aligncenter size-medium"></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Princess Diamonds</h2>
+      <blockquote>
+        <p>Princess Diamonds is a jeweler and retailer located in Burlington, Massachusetts who serves the surrounding and Boston regions. Their staff works closely with couples to help them find the perfect engagement ring and/or wedding band to show off on and after their wedding day, or even to help them create unique, personalized items.</p>
+        <p>They offer appraisal and diamond certification services, and may also help with ring sizing, stone upgrades, and cleaning.</p>
+        <footer>
+          <a href="https://www.weddingwire.com/biz/princess-diamonds-burlington/e086bbab782873c3.html">Princess Diamonds Wedding Wire listing</a>
+        </footer>
+        <p>The Devilbotz would like to thank Princess Diamonds very much for providing a beautiful raffle item to help us raise funds.</p>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/home_depot_logo.png" data-fancybox><img src="{{site.baseurl}}/images/home_depot_logo.png" alt="Home Depot logo" class="aligncenter size-medium"></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Home Depot</h2>
+      <blockquote>
+        <p>When The Home Depot was founded in 1978, Bernie Marcus and Arthur Blank had no idea how revolutionary this new "hardware store" would be for home improvement and the retail industry.</p>
+
+        <p>Today, we're proud to be the world's largest home improvement retailer. In 2,300 stores across North America, we aspire to excel in service -- to our customers, associates, communities and shareholders. That's what leadership means to us. That's The Home Depot difference.</p>
+
+        <p>Today, The Home Depot is the world's largest home improvement retailer with approximately 500,000 orange-blooded associates and 2,300 stores in the U.S., Canada and Mexico. The typical store today averages 105,000 square feet of indoor retail space, interconnected with an e-commerce business that offers more than one million products for the DIY customer, professional contractors, and the industry's largest installation business for the Do-It-For-Me customer.</p>
+        <footer>
+          <a href="https://www.homedepot.com/">Home Depot website</a>
+        </footer>
+        <p>The team would like to thank Home Depot for their generous contribution of tools and other needed materials.</p>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/ACE-hardware.png" data-fancybox><img src="{{site.baseurl}}/images/ACE-hardware.png" alt="Ace Hardware logo" class="aligncenter size-medium"></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Ace Hardware</h2>
+      <blockquote>
+        <p>We are your local hardware store and we are a part of your community. Ace Hardware has over 5,000 stores around the world with the majority of those stores independently owned and operated by local entrepreneurs. These hard working men and women are part of the fabric of your community. They are small business owners who are local and loyal...just like it ought to be. While others have become large and impersonal, at Ace, we've remained small and very personal. That's why we say a visit to Ace, is like a visit to your neighbor.</p>
+        <p>Founded in 1924 by a small group of Chicago hardware store owners, Ace changed the retail landscape by allowing individual stores to purchase merchandise in bulk to save money and buy at the lowest possible price. This partnership enabled even the smaller stores to compete effectively at retail despite larger stores in their market. And to this very day, Ace Hardware Corporation is still owned solely and exclusively by the local Ace retail entrepreneurs.</p>
+        <footer>
+          <a href="https://www.acehardware.com/">Ace Hardware website</a>
+        </footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <!-- FOOD SPONSORS -->
   <div class="row-ruled">
     <h4>Food Sponsors</h4>
-    <p>Food sponsors provide vital and much-appreciated sustenance during the team&#8217;s strenuous build season. For the six-week period, students and mentors meet not only three nights during the business week but all day on Saturdays and occasionally on Sundays. Our wonderful food sponsors provide breakfast foods to give us energy to get started and lunch foods to keep us going through the end of the day.</p>
-    <p>We couldn&#8217;t do it without you all. <strong>Thanks so much!</strong></p>
+    <p>Food sponsors provide vital and much-appreciated sustenance during the team's strenuous build season. For the six-week period, students and mentors meet not only three nights during the business week but all day on Saturdays and occasionally on Sundays. Our wonderful food sponsors provide breakfast foods to give us energy to get started and lunch foods to keep us going through the end of the day.</p>
+    <p>We couldn't do it without you all. <strong>Thanks so much!</strong></p>
   </div>
 
   <div class="row row-ruled">
@@ -107,19 +170,6 @@ permalink: /pages/sponsors/our-sponsors/
       </blockquote>
     </div>
   </div>
-  
-  <div class="row row-ruled">
-    <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/uploads/2018/02/ThePizzaWorks.gif" data-fancybox><img src="{{site.baseurl}}/images/uploads/2018/02/ThePizzaWorks.gif" alt="The Pizza Works logo" class="aligncenter size-full" /></a>
-    </div>
-    <div class="col-md-8">
-      <h2>Pizza Works</h2>
-      <blockquote>
-        <p>Located right on Cambridge St. and extremely close to the Burlington Town Center, Pizza Works has found its niche as a delicious local business. Through the years, everyone in town knows where Pizza Works is and request it by name. Pizza Works is a great place to grab a bite and simply hang out. They pride themselves in offering a consistently exceptional product at a reasonable price, whether that be regarding pizzas, calzones, pastas, wraps, or even their cold, deli-style subs.</p>
-        <footer><a href="http://www.pizzaworksonline.com/" target="_blank">Pizza Works website</a></footer>
-      </blockquote>
-    </div>
-  </div>
 
   <div class="row row-ruled">
     <div class="col-md-3">
@@ -131,6 +181,65 @@ permalink: /pages/sponsors/our-sponsors/
         <p>Since 1926, Regina Pizzeria has been greeting guests in the North End of Boston with a hearty &#8220;Welcome to Boston&#8217;s Original Pizzeria!&#8221; For over three generations, Regina&#8217;s delicious brick oven pizza has been inspired by the love of good food and the special pride of the Polcari Family.</p>
         <footer><a href="http://reginapizzeria.com/burlington_mall.html" target="_blank">Regina Pizzeria Burlington
             website</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/.png" data-fancybox><img src="{{site.baseurl}}/images/.png" alt="Karma Asian Fusion Burlington Mall" class="aligncenter size-medium" /></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Karma Asian Fusion</h2>
+      <blockquote>
+        <p>Fusion sushi, a cross between Japanese flavors and the delicate sauces and styles of France, is Karma's specialty.</p>
+        <p>"Our chefs add their own personal style and the outcome is so amazing that it has an almost addictive quality to it."</p>
+        <footer><a href="https://www.burlington.karmaasianfusion.com/" target="_blank">Karma Asian Fusion website</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/jacks_coal_fired_pizza_logo.png" data-fancybox><img src="{{site.baseurl}}/images/jacks_coal_fired_pizza_logo.png" alt="Jack's Coal Fired Pizza" class="aligncenter size-medium" /></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Jack's Coal Fired Pizza</h2>
+      <blockquote>
+        <p>At Jack's, we use only the freshest local ingredients to make our signature coal-fired pizzas.  Bring the family, gather with friends, or place an order to go for your new favorite pie.  Our restaurant fuses modern decor and farm to table fare with traditional coal-fired pizza making methods.  Indulge in our extensive menu of craft beers, order up some shareable appetizers, and stay awhile.</p>
+        <footer><a href="https://jackscfp.com/" target="_blank">Jack's website</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/friendly_toast_logo.png" data-fancybox><img src="{{site.baseurl}}/images/friendly_toast_logo.png" alt="The Friendly Toast logo" class="aligncenter size-medium" /></a>
+    </div>
+    <div class="col-md-8">
+      <h2>The Friendly Toast</h2>
+      <blockquote>
+        <p>Founded in 1994, The Friendly Toast has long been one of the most popular brunch spots in New England. Since our humble beginnings in quaint Portsmouth, New Hampshire, we're proud to have grown to serve benedicts and mimosas in additional locations in New Hampshire, Massachusetts, Vermont, and Maine.</p>
+
+        <p>Wherever we go, we're committed to serving quality meals from scratch in an environment that will make you smile. </p>
+        <footer><a href="https://www.thefriendlytoast.com/" target="_blank">The Friendly Toast website</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <a href="{{site.baseurl}}/images/bundt-cakes.png" data-fancybox><img src="{{site.baseurl}}/images/bundt-cakes.png" alt="Nothing Bundt Cakes logo" class="aligncenter size-medium" /></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Nothing Bundt Cakes</h2>
+      <blockquote>
+        <p>To find the perfect recipe for joy, you need the perfect ingredients. That's what our founders Dena Tripp and Debbie Shwetz were for each other.</p>
+
+        <p>In 1997, Dena and Debbie founded Nothing Bundt Cakes in their Las Vegas home kitchens, and it has since grown to more than 430 bakery locations in 40+ states and Canada, offering a modern spin on a classic treat.</p>
+
+        <p>Our Bundt Cakes are handcrafted in every bakery in a variety of delicious flavors and sizes. To top it all off, our bakeries offer a wide selection of retail items, including party supplies, décor and gifts, making Nothing Bundt Cakes the perfect one-stop celebration shop.</p>
+        <footer><a href="https://www.nothingbundtcakes.com/" target="_blank">Nothing Bundt Cakes website</a></footer>
       </blockquote>
     </div>
   </div>

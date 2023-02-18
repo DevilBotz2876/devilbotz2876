@@ -22,13 +22,13 @@ footer-links:
   facebook: team2876
   flickr:
   github: 
-  instagram: bhsrobotix2876
+  instagram: devilbotz2876
   linkedin:
   pinterest:
   rss: devilbots # just type anything here for a working RSS icon
   twitter: bhsrobotix
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: burlingtondevilbotz # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCeZZ5B_tuhd1FMhzIfrcH_w # channel/<your_long_string> or user/<user-name>
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -40,13 +40,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://bhsrobotix.github.io/devilbotz2876
+url: https://bhsdevilbotz.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-#baseurl: /devilbotz2876
+# baseurl: /devilbotz2876
 baseurl: /
 
 #
@@ -91,4 +91,4 @@ exclude:
 
 # in VS Code terminal, to run jekyll build and serve it locally:
 # ...$ bundle exec jekyll serve --force_polling --livereload
-# will be viewable at http://127.0.0.1:4000/devilbotz2876/ in your browser
+# will be viewable at http://127.0.0.1:4000/ in your browser

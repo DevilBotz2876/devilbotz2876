@@ -9,7 +9,7 @@ permalink: /pages/sponsors/sponsorship-levels/
 	<h3 class="levels">Platinum ($10,000+):</h3>
 	<p><em>All of the below, plus:</em></p>
 	<ul>
-		<li>Name or company logo on the robot- 5&#8243;</li>
+		<li>Name or company logo on the robot- <strong>large</strong></li>
 		<li>Individual or company name will be sent in to <a href="https://www.firstinspires.org/"
 				rel="noopener" target="_blank">FIRST</a> as a major sponsor</li>
 		<li>Individual banner that will be on display at all of our competitions</li>
@@ -17,17 +17,17 @@ permalink: /pages/sponsors/sponsorship-levels/
 	<h3 class="levels">Gold ($2,500+):</h3>
 	<p><em>All of the below, plus:</em></p>
 	<ul>
-		<li>Name or company logo on the robot- 4&#8243;</li>
+		<li>Name or company logo on the robot- <strong>medium</strong></li>
 		<li>Slide dedicated to individual or company name that will be in our pit slideshow</li>
 	</ul>
 	<h3 class="levels">Silver ($1000+):</h3>
 	<p><em>All of the below, plus:</em></p>
 	<ul>
-		<li>Name or company logo on the robot- 3&#8243;</li>
-		<li>Logo on our sponsor banner to bring to events and to our competitions</li>
+		<li>Name or company logo on the robot- <em>small</em></li>
 	</ul>
 	<h3 class="levels">Bronze ($100+):</h3>
 	<ul>
+		<li>Name or company logo on the robot- <em>very small</em>	</li>
 		<li>Individual's or company's name, description, and logo on our website with links to your main
 			site</li>
 		<li>Individual's or company's name on any newsletters sent out</li>

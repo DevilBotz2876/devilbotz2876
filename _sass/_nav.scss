@@ -92,6 +92,10 @@ header {
 span.sub-arrow::before {
   content: '▼'
 }
+.subnav:hover .sub-menu {
+  display: block;
+}
+
 .sub-menu {
   display: none;
   position: relative;

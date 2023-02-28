@@ -194,6 +194,10 @@ span.sub-arrow::before {
       a {
         padding-left: 24px;
         line-height: 40px;
+
+        &:focus .sub-menu ul {
+          display: block;
+        }
       }
     }
     .subnav:hover .sub-menu ul,

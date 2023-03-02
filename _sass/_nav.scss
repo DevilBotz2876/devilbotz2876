@@ -186,30 +186,31 @@ span.sub-arrow::before {
       text-align: left;
       top: 0;
       width: 170px;
-    }
 
-    li {
-      width: 100%;
-
-      a {
-        padding-left: 24px;
-        line-height: 40px;
-
-        &:focus .sub-menu ul {
+      li {
+        width: 100%;
+  
+        a {
+          padding-left: 24px;
+          line-height: 40px;
+  
+          &:focus .sub-menu ul {
+            display: block;
+          }
+        }
+        &.subnav:hover .sub-menu ul,
+        &.subnav:active .sub-menu ul,
+        &.subnav a:focus ~ .sub-menu ul,
+        &.subnav a:active ~ .sub-menu ul {
+          display: block;
+        }
+        
+        .sub-menu ul {
+          top: -43px;
+          left: 170px;
           display: block;
         }
       }
-    }
-    .subnav:hover .sub-menu ul,
-    .subnav:active .sub-menu ul,
-    .subnav a:focus ~ .sub-menu ul,
-    .subnav a:active ~ .sub-menu ul {
-      display: block;
-    }
-    .sub-menu ul {
-      top: -43px;
-      left: 170px;
-      display: block;
     }
 
     ~ .hamb .menu-toggle {

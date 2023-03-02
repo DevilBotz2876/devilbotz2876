@@ -201,7 +201,8 @@ span.sub-arrow::before {
       }
     }
     .subnav:hover .sub-menu ul,
-    .subnav a:focus ~ .sub-menu ul,
+    .subnav:active .sub-menu ul,
+    .subnav a:focus ~ .sub-menu ul {
     .subnav a:active ~ .sub-menu ul {
       display: block;
     }

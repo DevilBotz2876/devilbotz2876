@@ -8,7 +8,7 @@ By: Fabien Thabert
 
 Just like that, we are in our first week of the robotics competition. We are very stoked to have our first competition on March 4, 2023. The crowds are roaring, the snow is storming, and we are going to run two days of matches in one day. Everybody is bummed out that we have to stay for such a long day but stoked to see how everything will turn out. 
 
-<p class="img-container"><img data-fancybox class="img-responsive" src="https://drive.google.com/file/d/1-injo3Dox2Ee5XS_wQIjV35AnMwLot2r/view?usp=share_link" width="400" /></p>
+<p class="img-container"><img data-fancybox class="img-responsive" src="https://drive.google.com/file/d/1OJXgHKu3iDhg3swJht5vSrCAW92EOakA/view?usp=share_link" width="400" /></p>
 
 Our first four matches went poorly. After our driver Adi refueled with a meal we won the next four, which put us in 34th place. Boom, just like that it was lunchtime. We had an interesting lunch which included Ceaser salad and a very interesting pasta dish. No comment there. After lunch, we went back to our qualification rounds and we did pretty well. At the end of our qualification matches, we were in 14th place. Everybody was excited that all the qualification matches were over but also kind of worried that we had elimination rounds and we didn't know what would happen. In order to play in the finals, we would need to be picked by another alliance and that scared everyone. 
 

@@ -13,7 +13,7 @@ permalink: /pages/about/contact/
       <h3>Location</h3>
       <p>Burlington High School<br />123 Cambridge Street<br />Burlington, MA</p>
       <h3>Team Email</h3>
-      <p>BHSRobotixinfo@gmail.com</p>
+      <p>info@devilbotz.org</p>
     </div>
   </div>
 </div>

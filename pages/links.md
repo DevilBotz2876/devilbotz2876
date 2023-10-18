@@ -17,7 +17,7 @@ permalink: /pages/resources/links/
       <p><a href="https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf" rel="noopener"
         target="_blank">CHARGED UP Game Manual (PDF)</a> &#8211; All about the 2023 competition.</p>
       <p><a href="http://www.chiefdelphi.com/forums/portal.php">Chief Delphi</a> &#8211; Unofficial FIRST resource, a very helpful forum to communicate with other teams during the season.</p>
-      <p><a href="https://my.firstinspires.org/AccountManager/Account/Register" target="_blank">FRC Account Signup</a> &#8211; All students team members must sign up here to be officially registered as a Team 2876 member! This is required for attending competitions.</p>
+      <p><a href="https://my.firstinspires.org/AccountManager/Account/Register" target="_blank">FRC Account Signup</a> &#8211; All team members must sign up here to be officially registered as a Team 2876 member! This is required for attending competitions.</p>
       <p><a href="https://groups.google.com/g/devilbotz-team">DevilBotz Google Group</a> &#8211; Team members must sign up here to receive email notifications regarding the team.</p>
     </div>
   </div>

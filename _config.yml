@@ -18,17 +18,17 @@ avatar: /images/uploads/2017/10/cropped-hi-rez-wirebot_black_on_transparent-32x3
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: BHSRobotixinfo@gmail.com
-  facebook: team2876
+  email: info@devilbotz.org
+  facebook: DevilBotz
   flickr:
-  github: 
+  github: DevilBotz2876
   instagram: devilbotz2876
   linkedin:
   pinterest:
-  rss: devilbots # just type anything here for a working RSS icon
-  twitter: bhsrobotix
+  rss: DevilBotz # just type anything here for a working RSS icon
+  twitter: DevilBotz
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCeZZ5B_tuhd1FMhzIfrcH_w # channel/<your_long_string> or user/<user-name>
+  youtube: @burlingtondevilbotz # channel/<your_long_string> or user/<user-name>
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://bhsdevilbotz.com/
+url: https://devilbotz.org/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

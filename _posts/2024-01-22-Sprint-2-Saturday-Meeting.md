@@ -8,7 +8,7 @@ By: Bhavya Patel
 
 This Saturday we tested out the field element called the Speaker. The initial goal was to shoot the orange ring, called the "Note," into the Speaker's opening. Each time the Note didn't make it into the Speaker, our team's programmers changed the distance it was being shot. After many trials and errors, the Note managed to land inside the speaker. The mechanisms used to shoot the Note into the Speaker field element are the Intake and Shooter. The Note is pulled into the mechanism from the ground and it goes into the Indexing compartment which then holds it. Then the Shooter wheels spin and send it into the Shooter to shoot. This idea was inspired by a team in Australia called "Quokkas."
 
-<img class="img-responsive" src="https://drive.google.com/file/d/11huaHsvkf38Zl7jVtOfqpCuUx4mb98BX/view?usp=sharing" data-fancybox alt="CAD team at work" width="300" />
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000" data-fancybox alt="CAD team at work" width="400" />
 
 Most of the food for this week's Saturday meet was donated by generous parents. A big thanks to those parents who donated. We greatly appreciate it! The main course was a variety of pizzas from Blaze Pizza. Thanks, Blaze! Some of the items the parents gave were a salad, fruits, mozzarella sticks, wraps, and sandwiches. We felt well-fed and ready to work for the rest of the day.
 

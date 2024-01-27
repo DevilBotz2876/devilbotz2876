@@ -32,8 +32,7 @@ permalink: /pages/about/mentors/
     <div>
       <strong>Dean Casciola</strong> helps work with the electrical team to wire the robots, install sensors, and teach the programming team how to use the sensors properly. Outside of Robotics, Dean is retired from Delta Electronics Manufucturing Corp as an Electrical Engineer. Dean has a pilot license and in his spare time flies airplanes, including one he built from a kit. He joined Robotics because his son got him involved in the club and he developed an interest as an electrical mentor. He is married to Ms. O'Neill.</div>
   </div>
-  <h1 class="entry-title">New Mentors</h1>
-  <a name="morse"></a>
+
   <div class="row row-ruled">
     <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-chris.jpg" data-fancybox alt="Chris Morse" width="300" /></div>
     <div><strong>Chris Morse</strong> joined the team when his son expressed interest. He has been a robotics engineer for over two decades and helps with electrical and mechanical subsystems. Chris consults and maintains his own machining, woodworking, and welding workshops. When not in the shop, Chris skis and climbs rocks.</div>
@@ -42,46 +41,55 @@ permalink: /pages/about/mentors/
     <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
     <div><strong>Margarita Prajapati</strong> is a mother of three and a small business owner. She got her start in 2021 when her eldest son joined the club during his freshman year of high school. She works with club members interested in fundraising, applying for grants, securing sponsors, community engagement, creating team building activities, and all other "support" activities before, during, and after FIRST Robotics competitions. She hopes to promote, create awareness of, and encourage more STEM programs in the Burlington Community.</div>
   </div>
+  
   <div class="row row-ruled">
     <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh-600x600.jpg" alt="Mentor Nilesh Agarwalla" width="300" class="img-responsive bordered" /></a></div>
     <div><strong>Nilesh Agarwalla</strong> has been an embedded software engineer at Broadcom's Broadband Video Group for 16+ years. He started mentoring in Oct 2021 and hopes his cross-discipline experience in hardware, firmware, and software will benefit the team. His experience with robotics started in college when his team built a "heat seeking robotic killer ant" which included mechanicals, a custom circuit board, IR sensors, and custom firmware. He was also instrumental in the hardware design for MIT's 2000 6.270 Autonomous Robot Design Competition's robot kit (BotKit). Nilesh shares the mentoring team's philosophy of focusing on "the process" and making sure the students do not settle for just the "what," but also understand the "how" and the "why."</div>
   </div>
+  
   <div class="row row-ruled">
     <div class="col-md-3" style="overflow: hidden; height: 300px;"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" class="img-responsive bordered" /></a></div>
     <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at Sanofi Genzyme Pharmaceuticals. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the Devilbotz team to teach them to work efficiently by visualizing travel around the world.</div>
   </div>
+
+  <h1 class="entry-title">New Mentors</h1>
+  <div class="row row-ruled">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Eric Wojtaszek</div>
+    <div></div>
+  </div>
+  
+  <div class="row row-ruled">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Neil Prajapati</div>
+    <div></div>
+  </div>
+  
+  <div class="row row-ruled">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Vijay Ejenkar</div>
+    <div></div>
+  </div>
+  
+  <div class="row row-ruled">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Lou</div>
+    <div></div>
+  </div>
+  
+  <div class="row row-ruled">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Kay Roth</div>
+    <div></div>
+  </div>
+
   <div class="row row-ruled">
     <div class="col-md-3"></div>
     <div>Rekha Shyamkumar</div>
   </div>
+  
   <div class="row row-ruled">
     <div class="col-md-3"></div>
     <div><strong>Shyam Kumar</strong> helps with fundraising.</div>
-  </div>
-  <div class="row row-ruled">
-    <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/ShashankBakreBadgePic.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/ShashankBakreBadgePic.jpg" alt="Mentor Shashank Bakre" width="300" class="image-responsive" /></a></div>
-    <div>
-      <p><strong>Shashank Bakre</strong> works as Senior Manager Application Engineering - Power Sensors and Power Semiconductors at Infineon Technologies. He has a Masters in Electrical Engineering with major specialization in power electronics from Illinois Institute of Technology. He holds 18 US patents and has more than 25 years of power electronics design and development experience. The most recent design and development has been of SMART IOT (Internet of Things) products such as connected Coffee Machines.</p>
-      <p>In his free time Shashank likes to watch sports and also plays volleyball and cricket.</p>
-    </div>
-  </div>
-  <h1 class="entry-title">Mentors Emeritus</h1>
-  <hr />
-  <div class="row row-ruled">
-    <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor_mike.png" data-fancybox alt="Former mentor Mike Malec" width="300" /></div>
-    <div><strong>Michael Malec</strong> joined our Robotics team in December 2013. He was stationed at Hanscom Air Force as a test flight engineer at the time, and became a major addition from the day he joined our team. The Devilbotz have greatly benefited from his introduction of group management, brainstorming tactics, and other major concepts. Outside of robotics, Mike enjoys a variety of activities, such as running, biking, skiing, hiking, and rollerblading. As Mike always says, "Don't start counting 'till after it hurts." The team is sad that "Military Mike" left us after the 2015-2016 season.</div>
-  </div>
-  <div class="row row-ruled">
-    <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor_2.png" data-fancybox alt="Former mentor Larry Chiodi" width="300" /></div>
-    <div>
-      <strong>Lawrence Chiodi</strong>, a Burlington High Alumni, was with Team 2876 for upwards of three years, assisting the electrical team with anything and everything they need help with. Mr. Chiodi worked as both a Design Engineer and an Engineering Manager. Currently, he holds the position of Field Applications Engineer at Renesas Electronics, one of our past amazing sponsors. He is extremely knowledgeable both in and out of his field, and was truly an integral member of our team.</div>
-  </div>
-  <div class="row row-ruled">
-    <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2018/02/20180210_095857-e1518280662554.jpg" data-fancybox><img class="img-responsive" src="{{site.baseurl}}/images/uploads/2018/02/20180210_095857-e1518280662554-600x600.jpg" alt="Former mentor G2" width="300" /></a></div>
-    <div><strong>Gerry Pothier II</strong> was a mechanical mentor and oversaw team logistics. A mentor of Team 2876 from 2009-2018, Mr. Pothier has seen many students learn the FIRST principles and go on to college working toward degrees in science and technology. He firmly believes that Robotics helps build a well rounded student prepared for the real world. He believes that everyone on the team has a voice; no one was ever left out on his watch.</div>
-  </div>
-  <div class="row row-ruled">
-    <div class="col-md-3"><img class="img-responsive" src="{{site.baseurl}}/images/mentor_roberta.jpg" data-fancybox alt="Former mentor Rob Pothier" width="300" /></div>
-    <div><strong>Roberta Pothier</strong> was a behind-the-scenes mentor for many years. After realizing how important robotics was to her son Gerry, she became more involved by helping the Devilbotz get noticed within the community. Several years ago, Roberta and Gerry started a robotics program at the Francis Wyman Elementary School for 5th graders. For Roberta and her husband Gerry, it goes without saying robotics is a family affair. The Pothiers' vision has always been to help robotics programs permeate the Burlington community and inspire students of all ages to an interest in engineering.</div>
   </div>
 </div>

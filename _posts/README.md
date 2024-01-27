@@ -25,11 +25,11 @@ For now, new images can be uploaded to the "Photos" directory for the applicable
 3. Paste the link into your story. It's temporary. It will look something like this:<br />```https://drive.google.com/file/d/11huaHsvkf38Zl7jVtOfqpCuUx4mb98BX/view?usp=sharing```<br />The part after the "/d/" and up to the next "/" is your image's ID.
 - Paste the following into your story:
 ```<img class="img-responsive" src="https://drive.google.com/thumbnail?id=YOUR-IMG-ID-HERE&sz=w1000" data-fancybox alt="A description of your image" width="400" />```
-4. Change the _id="_ value to the ID from the "Copy Link" button
-5. Change the _alt="_ value to a useful short description of the image
+4. Change the `id="` value to the ID from the "Copy Link" button
+5. Change the `alt="` value to a useful short description of the image
 6. Remove the temporary link line from step 3
 
 ### Videos
-Website videos should all be loaded on the DevilBotz Youtube channel that some members of the team (Dillan, Aadi Dash, Aaliya Hasan, and Bhavya Patel) can contribute to. The channel @burlingtondevilbotz has been created and  can upload to it. Mr. Khan owns the channel and Eleanor is also a manager.
+Website videos should all be loaded on the DevilBotz Youtube channel -- @burlingtondevilbotz -- that some members of the team (Dillan Agarwal, Aadi Dash, Aaliya Hasan, and Bhavya Patel) can contribute to. Mr. Khan owns the channel and Eleanor is also a manager. Ask one of them if you need to be added as a contributor.
 
-To embed a video, just click the Share button below it and paste that into the blog post inside square brackets:<br /><code>[https://youtu.be/RN6aeRq8kFM]</code>
+To embed a video, just click the Share button below it and paste that into the blog post inside square brackets:<br />`[https://youtu.be/RN6aeRq8kFM]`

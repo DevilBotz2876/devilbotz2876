@@ -2,13 +2,23 @@
 type: home
 layout: default
 ---
-<div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar">
-  <div class="inside-right-sidebar">
-    {% include recent-posts.html %}
-  </div>
-</div>
 <article id="home" class="page">
   <div class="inside-article">
+    <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar">
+      <div class="inside-right-sidebar">
+        <div class="recent">
+          <h2>Recent Posts</h2>
+          <ul>
+            {% for post in site.posts limit:5 %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a><br />
+              - {{ post.date | date_to_string }}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>  
+      </div>
+    </div>
 
     <header class="entry-header" aria-label="Content">
       <h1 class="entry-title" itemprop="headline">Home</h1>

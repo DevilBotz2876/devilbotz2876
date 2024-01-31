@@ -53,43 +53,44 @@ permalink: /pages/about/mentors/
   </div>
 
   <h1 class="entry-title">New Mentors</h1>
+
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
-    <div class="col-md-3">Eric Wojtaszek</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div>Eric Wojtaszek</div>
     <div></div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
-    <div class="col-md-3">Neil Prajapati</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div>Neil Prajapati</div>
     <div></div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
-    <div class="col-md-3">Vijay Ejenkar</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div>Vijay Ejenkar</div>
     <div></div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
-    <div class="col-md-3">Lou</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div>Lou Gnerra</div>
     <div></div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
-    <div class="col-md-3">Kay Roth</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div>Kay Roth</div>
     <div></div>
   </div>
 
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
     <div>Rekha Shyamkumar</div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
     <div><strong>Shyam Kumar</strong> helps with fundraising.</div>
   </div>
 </div>

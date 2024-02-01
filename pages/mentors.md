@@ -33,7 +33,7 @@ permalink: /pages/about/mentors/
     <div class="col-md-3">
       <img class="img-responsive bordered" src="{{site.baseurl}}/images/uploads/2014/01/rsz_dsc_0166-293x300.jpg" data-fancybox alt="Mentor Dean Casciola" width="300" /></div>
     <div>
-      <a href="https://drive.google.com/thumbnail?id=1QpfxOPZZ6gtNUO_TXFfgTzd0YRM9EFMo&sz=w150" data-fancybox style="float: right; margin-left: 10px"><img src="https://drive.google.com/thumbnail?id=1QpfxOPZZ6gtNUO_TXFfgTzd0YRM9EFMo&sz=w150" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1QpfxOPZZ6gtNUO_TXFfgTzd0YRM9EFMo&sz=w550" data-fancybox style="float: right; margin-left: 10px"><img src="https://drive.google.com/thumbnail?id=1QpfxOPZZ6gtNUO_TXFfgTzd0YRM9EFMo&sz=w150" class="img-responsive" /></a>
       <strong>Dean Casciola</strong> helps work with the electrical team to wire the robots, install sensors, and teach the programming team how to use the sensors properly. Outside of Robotics, Dean is retired from <em>Delta Electronics Manufucturing Corp</em> as an Electrical Engineer. Dean has a pilot license and in his spare time flies airplanes, including one he built from a kit, and another in progress in his garage. He joined Robotics because his son got him involved in the club and he developed an interest as an electrical mentor. He is married to Ms. O'Neill.</div>
   </div>
 
@@ -60,33 +60,33 @@ permalink: /pages/about/mentors/
   <h1 class="entry-title">New Mentors</h1>
 
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
     <div>Eric Wojtaszek</div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
     <div>Neil Prajapati</div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
     <div>Vijay Ejenkar</div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
     <div>Lou Gnerra</div>
   </div>
   
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img class="img-responsive" src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" width="300" /></div>
     <div><p><strong>Kay Roth</strong> works at <em>Anduril</em> in Lexington as an R&D technician, specializing in soldering and custom cable harness design and builds for prototype cameras. She has also started designing small PCBs. Mentor Chris Morse recruited her after they both worked at a drone company. Kay previously worked on Stretch at <em>Boston Dynamics</em> and a medical robot at <em>Vicarious Surgical</em>. She enjoys R&D because she gets to help engineers work through prototypes and iterations until there is a final product to toss over the fence to manufacturing/production -- then she gets to start on something new again!</p>
-    <p><img src="https://drive.google.com?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w160" style="float:right; margin-left: 10px;"/>Kay was on <strong>MORT team 11</strong> in NJ from 2002-2006, and started her school's Lego League team. FIRST helped her a lot in high school with social anxiety and she formed some of her best friendships to this day from being on <strong>team 11</strong>. Outside of work, Kay is a Stephen King junkie and an animal lover, spending most of her free time tending to a personal zoo. She has a dog, two cats, a hamster, a chameleon, 11 frogs, three jumping spiders, a day gecko, a spiny flower mantis, five blue death feigning beetles, and lots of terrariums filled with isopods (fancy roly-polies) and garden snails.</p></div>
+    <p><a href="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w450" style="float: right; margin-left: 10px;" data-fancybox><img src="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w160" /></a>Kay was on <strong>MORT team 11</strong> in NJ from 2002-2006, and started her school's Lego League team. FIRST helped her a lot in high school with social anxiety and she formed some of her best friendships to this day from being on <strong>team 11</strong>. Outside of work, Kay is a Stephen King junkie and an animal lover, spending most of her free time tending to a personal zoo. She has a dog, two cats, a hamster, a chameleon, 11 frogs, three jumping spiders, a day gecko, a spiny flower mantis, five blue death feigning beetles, and lots of terrariums filled with isopods (fancy roly-polies) and garden snails.</p></div>
   </div>
 
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
     <div>Rekha Shyamkumar</div>
   </div>
   

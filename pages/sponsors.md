@@ -49,9 +49,11 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
     <div class="col-md-8">
       <h2>Analog Devices Inc.</h2>
-      <blockquote>Analog Devices, Inc. (ADI) empowers the Intelligent Edge with the most innovative analog, digital, and software solutions, accelerating breakthroughs that benefit society and the planet.<br />
-      Whatever breakthroughs are next—in aerospace, automotive, sustainable energy, communications, digital healthcare, industrial automation, instrumentation, or consumer—ADI will be there to keep you ahead of what’s possible.</blockquote>
-      <footer><a href="https://www.analog.com/en/index.html" target="_blank">Analog Devices Inc. website</a></footer>
+      <blockquote>
+        <p>Analog Devices, Inc. (ADI) empowers the Intelligent Edge with the most innovative analog, digital, and software solutions, accelerating breakthroughs that benefit society and the planet.</p>
+        <p>Whatever breakthroughs are next—in aerospace, automotive, sustainable energy, communications, digital healthcare, industrial automation, instrumentation, or consumer—ADI will be there to keep you ahead of what's possible.</p>
+        <footer><a href="https://www.analog.com/en/index.html" target="_blank">Analog Devices Inc. website</a></footer>
+    </blockquote>
     </div>
   </div>
 
@@ -70,8 +72,8 @@ permalink: /pages/sponsors/our-sponsors/
         <p>We design. We engineer. We code. We research. We patent. We test. We learn. We iterate. We manufacture. We produce.</p>
       
         <p>We are advancing aviation, building smarter defense systems and creating innovations to take us deeper into space. Progress is not inevitable. It is initiated &ndash; by tirelessly asking the hard questions and finding answers.</p>
+        <footer><a href="https://www.rtx.com/" target="_blank">RTX - Raytheon website</a></footer>
       </blockquote>
-      <footer><a href="https://www.rtx.com/" target="_blank">RTX - Raytheon website</a></footer>
     </div>
   </div>
 
@@ -79,7 +81,7 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1V5WRV0C83RYVBgyEBjRF-dpQK5L3bjKj&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1V5WRV0C83RYVBgyEBjRF-dpQK5L3bjKj&sz=200" alt="BAE Systems logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1V5WRV0C83RYVBgyEBjRF-dpQK5L3bjKj&sz=w500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1V5WRV0C83RYVBgyEBjRF-dpQK5L3bjKj&sz=w200" alt="BAE Systems logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>BAE Systems, Inc.</h2>
@@ -91,10 +93,10 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <!-- SS&C -->
-  <div class="row">
+  <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=200" alt="SS&C logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w400" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w150" alt="SS&C logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>SS&C</h2>
@@ -127,7 +129,7 @@ permalink: /pages/sponsors/our-sponsors/
   <!-- Ascent -->
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo"></a>
+      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo" width="200"></a>
     </div>
     <div class="col-md-8">
       <h2>Ascent Development</h2>
@@ -184,9 +186,9 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <!-- Blaze Pizza -->
-  <div class="row row-ruled">
+  <div class="row">
     <div class="col-md-3">
-      <a href="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200"><img src="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200" alt="Blaze Pizza logo" class="aligncenter size-medium" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=w200"><img src="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=w200" alt="Blaze Pizza logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
       <h2>Blaze Pizza</h2>

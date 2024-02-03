@@ -90,11 +90,11 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div>
 
-  <!-- SS&T -->
+  <!-- SS&C -->
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=200" alt="SS&C logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=200" alt="SS&C logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>SS&C</h2>
@@ -127,7 +127,7 @@ permalink: /pages/sponsors/our-sponsors/
   <!-- Ascent -->
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/princess_diamond_logo.png" data-fancybox><img src="{{site.baseurl}}/images/princess_diamond_logo.png" alt="Princess Diamonds of Burlington"></a>
+      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo"></a>
     </div>
     <div class="col-md-8">
       <h2>Ascent Development</h2>
@@ -186,7 +186,7 @@ permalink: /pages/sponsors/our-sponsors/
   <!-- Blaze Pizza -->
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="https://drive.google.com/file/d/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200"><img src="https://drive.google.com/file/d/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200" alt="Blaze Pizza logo" class="aligncenter size-medium" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200"><img src="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=200" alt="Blaze Pizza logo" class="aligncenter size-medium" /></a>
     </div>
     <div class="col-md-8">
       <h2>Blaze Pizza</h2>

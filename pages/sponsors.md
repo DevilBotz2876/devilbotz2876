@@ -121,9 +121,13 @@ permalink: /pages/sponsors/our-sponsors/
   </div> -->
 
   <!-- MATERIAL SPONSORS -->
-  <div class="row-ruled">
-    <h4>Material Sponsors</h4>
-    <p>Material sponsors have provided goods or services and these, too, help us immensely!</p>
+  <div class="row">
+    <div class="col-md-3">
+      <h4>Material Sponsors</h4>
+    </div>
+    <div class="col-md-8">
+      <p>Material sponsors have provided goods or services and these, too, help us immensely!</p>
+    </div>
   </div>
 
   <!-- Ascent -->

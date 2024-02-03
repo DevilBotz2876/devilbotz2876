@@ -184,9 +184,13 @@ permalink: /pages/sponsors/our-sponsors/
 
   <!-- FOOD SPONSORS -->
   <div class="row-ruled">
-    <h4>Food Sponsors</h4>
-    <p>Food sponsors provide vital and much-appreciated sustenance during the team's strenuous build season. For the six-week period, students and mentors meet not only three nights during the business week but all day on Saturdays and occasionally on Sundays. Our wonderful food sponsors provide lunch foods to keep us going through the end of the day.</p>
-    <p>We couldn't do it without you all. <strong>Thanks so much!</strong></p>
+    <div class="row-md-3">
+      <h4>Food Sponsors</h4>
+    </div>
+    <div class="row-md-8">
+      <p>Food sponsors provide vital and much-appreciated sustenance during the team's strenuous build season. For the six-week period, students and mentors meet not only three nights during the business week but all day on Saturdays and occasionally on Sundays. Our wonderful food sponsors provide lunch foods to keep us going through the end of the day.</p>
+      <p>We couldn't do it without you all. <strong>Thanks so much!</strong></p>
+    </div>
   </div>
 
   <!-- Blaze Pizza -->

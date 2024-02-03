@@ -7,6 +7,10 @@
   font-weight: bold;
   text-align: center;
 
+  &.platinum {
+    background: #b8bac6;
+    background: linear-gradient(to right,  #f5f6f6 0%,#dbdce2 21%,#b8bac6 33%,#ededf2 51%,#b8bac6 66%,#f5f6f6 100%);
+  }
   &.gold {
     background: -webkit-repeating-linear-gradient(90deg, #472819 0%,#472819 2%, #d99e4c 23%, #a87b32 29%, #865c25 33%, #e2b566 61%, #efdf80 66%, #9f7c3c 79%, #2c1b14 95%, #2c1b14 100%);
     /* Firefox */
@@ -20,7 +24,6 @@
   }
 
   &.silver {
-    color: #fff;
     background: #cdd0d7;
     /* Safari and Google Chrome */
     background: -webkit-repeating-linear-gradient(90deg, #44474c 0%, #74777c 2%, #9498a1 23%, #adb0b7 29%, #6f7376 33%, #c4c7ce 61%, #cdd0d7 66%, #74777c 79%, #6f7376 95%, #6f7376 100%);

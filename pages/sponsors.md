@@ -94,7 +94,7 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3=&sz=200" alt="SS&C logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=200" alt="SS&C logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>SS&C</h2>
@@ -190,10 +190,8 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
     <div class="col-md-8">
       <h2>Blaze Pizza</h2>
-      <blockquote>
         <p>Blaze Pizza is a nationwide chain of pizza restaurants with a location in Burlington on Middlesex Turnpike.</p>
         <footer><a href="https://locations.blazepizza.com/ma/burlington/91-middlesex-turnpike" target="_blank">Blaze Pizza website</a></footer>
-      </blockquote>
     </div>
   </div>
 </div>

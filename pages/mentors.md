@@ -62,21 +62,21 @@ permalink: /pages/about/mentors/
   <!-- Eric -->
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1pWMC98ggK4uGjpccbZFcCoXmsTeagAaN&sz=w300" class="img-responsive" /></div>
-    <div>Eric Wojtaszek is a strong mentor for the software team, but not only is he a whiz in this department he also works with project management and is willing to help all who may be in need. He joined the DevilBotz in the fall of 2023 when Neil recruited him. Before his time as a robotics mentor, Mr. Wojtaszek worked hard at <em>Raytheon</em> for 27 years. In his free time, he is a family guy who also enjoys staying active. To keep his activity up, Eric partakes in some pleasurable outdoorsy adventures, such as skiing, cycling, and sailing!
+    <div><strong>Eric Wojtaszek</strong> is a strong mentor for the software team, but not only is he a whiz in this department he also works with project management and is willing to help all who may be in need. He joined the DevilBotz in the fall of 2023 when Neil recruited him. Before his time as a robotics mentor, Mr. Wojtaszek worked hard at <em>Raytheon</em> for 27 years. In his free time, he is a family guy who also enjoys staying active. To keep his activity up, Eric partakes in some pleasurable outdoorsy adventures, such as skiing, cycling, and sailing!
     </div>
   </div>
   
   <!-- Neil -->
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1PJUlAEbXOaY3vge0ZQFMggAOGnpkDIx2&sz=w300" class="img-responsive" /></div>
-    <div>Neil Prajapati is studying Computer Engineering at UMass Lowell. He has lots of experience with robotics, as he is a FIRST alumn and has worked as an intern for <em>Wolf Sub-Zero</em>. Mr. Prajapati joined the DevilBotz in 2023 and mentors the CAD and strategy teams and works in the shop. When he's not mentoring, Neil is a freelance contractor for animatronics and an artist who produces all kinds of music.
+    <div><strong>Neil Prajapati</strong> is studying Computer Engineering at UMass Lowell. He has lots of experience with robotics, as he is a FIRST alumn and has worked as an intern for <em>Wolf Sub-Zero</em>. Mr. Prajapati joined the DevilBotz in 2023 and mentors the CAD and strategy teams and works in the shop. When he's not mentoring, Neil is a freelance contractor for animatronics and an artist who produces all kinds of music.
     </div>
   </div>
 
   <!-- Nate -->
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=11ei4rZqdmqAO77SPs0YUWlcUsXthA_12&sz=w300" class="img-responsive" /></div>
-    <div>Nathan Flynn is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. <!-- Some of his work experiences include an internship for a company. --> He worked on a tool design co-op for the company <em>Emerson</em>. Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
+    <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. <!-- Some of his work experiences include an internship for a company. --> He worked on a tool design co-op for the company <em>Emerson</em>. Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
   </div>
   
   
@@ -89,7 +89,7 @@ permalink: /pages/about/mentors/
   <!-- Lou -->
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1jefLuMbNVAV4XqA95EdNeVKqupb1Nr89&sz=w300" class="img-responsive" /></div>
-    <div>Lou Gnerre is a jack of all trades. He started off as an electronics technician, then got a degree in Electrical Engineering, and is now working at <em>MITRE</em>. He joined the DevilBotz in 2024 and works with the mechanical, electrical, and software teams to assemble the robot and write test code. Not only is he passionate about mechanics, he also loves sports. He has played hockey and basketball while also coaching lacrosse for 20 years! Additionally, he enjoys going to the gym in his free time.
+    <div><strong>Lou Gnerre</strong> is a jack of all trades. He started off as an electronics technician, then got a degree in Electrical Engineering, and is now working at <em>MITRE</em>. He joined the DevilBotz in 2024 and works with the mechanical, electrical, and software teams to assemble the robot and write test code. Not only is he passionate about mechanics, he also loves sports. He has played hockey and basketball while also coaching lacrosse for 20 years! Additionally, he enjoys going to the gym in his free time.
     </div>
   </div>
   

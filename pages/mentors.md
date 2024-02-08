@@ -61,40 +61,40 @@ permalink: /pages/about/mentors/
 
   <!-- Eric -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1pWMC98ggK4uGjpccbZFcCoXmsTeagAaN&sz=w300" class="img-responsive" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1pWMC98ggK4uGjpccbZFcCoXmsTeagAaN&sz=w300" class="img-responsive bordered" /></div>
     <div><strong>Eric Wojtaszek</strong> is a strong mentor for the software team, but not only is he a whiz in this department he also works with project management and is willing to help all who may be in need. He joined the DevilBotz in the fall of 2023 when Neil recruited him. Before his time as a robotics mentor, Mr. Wojtaszek worked hard at <em>Raytheon</em> for 27 years. In his free time, he is a family guy who also enjoys staying active. To keep his activity up, Eric partakes in some pleasurable outdoorsy adventures, such as skiing, cycling, and sailing!
     </div>
   </div>
   
   <!-- Neil -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1PJUlAEbXOaY3vge0ZQFMggAOGnpkDIx2&sz=w300" class="img-responsive" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1PJUlAEbXOaY3vge0ZQFMggAOGnpkDIx2&sz=w300" class="img-responsive bordered" /></div>
     <div><strong>Neil Prajapati</strong> is studying Computer Engineering at UMass Lowell. He has lots of experience with robotics, as he is a FIRST alumn and has worked as an intern for <em>Wolf Sub-Zero</em>. Mr. Prajapati joined the DevilBotz in 2023 and mentors the CAD and strategy teams and works in the shop. When he's not mentoring, Neil is a freelance contractor for animatronics and an artist who produces all kinds of music.
     </div>
   </div>
 
   <!-- Nate -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1sCElc0twFgdqrT7CzWHIjwUuFJvfPFYL&sz=w300" class="img-responsive" width="300" /></div>
-    <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. <!-- Some of his work experiences include an internship for a company. --> He worked on a tool design co-op for the company <em>Emerson</em>. Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1sCElc0twFgdqrT7CzWHIjwUuFJvfPFYL&sz=w300" class="img-responsive bordered" width="300" /></div>
+    <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. He worked on a tool design co-op for the company <em>Emerson</em> and currently works at <em>Raytheon.</em> Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
   </div>
   
   <!-- Vijay -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1QMkIvvQ-lANO7pgSV1adZ_O1g5xn7hws&sz=w300" class="img-responsive" width="300" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1QMkIvvQ-lANO7pgSV1adZ_O1g5xn7hws&sz=w300" class="img-responsive bordered" width="300" /></div>
     <div><strong>Vijay Ejenkar</strong> joined the DevilBotz this year. He is a software and engineering mentor as well as a mechanical and electrical mentor for the team. In the software team, he helps the kids code on the laptops. In Mechanical he makes sure that the dimensions for the design are correct. Mr Ejenkar works at <em>American Well</em>. In his spare time, he loves to play cricket and he also does set-ups and lights for big events such as competitions. In college he had a commerce background which he then switched to IT. Vijay is from southern India and has a daughter in the Burlington school system.</div>
   </div>
   
   <!-- Lou -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1jefLuMbNVAV4XqA95EdNeVKqupb1Nr89&sz=w300" class="img-responsive" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1jefLuMbNVAV4XqA95EdNeVKqupb1Nr89&sz=w300" class="img-responsive bordered" /></div>
     <div><strong>Lou Gnerre</strong> is a jack of all trades. He started off as an electronics technician, then got a degree in Electrical Engineering, and is now working at <em>MITRE</em>. He joined the DevilBotz in 2024 and works with the mechanical, electrical, and software teams to assemble the robot and write test code. Not only is he passionate about mechanics, he also loves sports. He has played hockey and basketball while also coaching lacrosse for 20 years! Additionally, he enjoys going to the gym in his free time.
     </div>
   </div>
   
   <!-- Kay -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img class="img-responsive" src="https://drive.google.com/thumbnail?id=13OPH1cJc7C6zN9US-m-3sWcEugzEEGV7&sz=w300" width="300" /></div>
+    <div class="col-md-3"><img class="img-responsive bordered" src="https://drive.google.com/thumbnail?id=13OPH1cJc7C6zN9US-m-3sWcEugzEEGV7&sz=w300" width="300" /></div>
     <div><p><strong>Kay Roth</strong> works at <em>Anduril</em> in Lexington as an R&D technician, specializing in soldering and custom cable harness design and builds for prototype cameras. She has also started designing small PCBs. Mentor Chris Morse recruited her after they both worked at a drone company. Ms Roth previously worked on Stretch at <em>Boston Dynamics</em> and a medical robot at <em>Vicarious Surgical</em>. She enjoys R&D because she gets to help engineers work through prototypes and iterations until there is a final product to toss over the fence to manufacturing/production -- then she gets to start on something new again!</p>
     <p><a href="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w450" style="float: right; margin-left: 10px;" data-fancybox><img src="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w160" /></a>Ms Roth was on <strong>MORT team 11</strong> in NJ from 2002-2006, and started her school's Lego League team. FIRST helped her a lot in high school with social anxiety and she formed some of her best friendships to this day from being on <strong>team 11</strong>. Outside of work, she is a Stephen King junkie and an animal lover, spending most of her free time tending to a personal zoo. She has a dog, two cats, a hamster, a chameleon, 11 frogs, three jumping spiders, a day gecko, a spiny flower mantis (see image), five blue death feigning beetles, and lots of terrariums filled with isopods (fancy roly-polies) and garden snails.</p></div>
   </div>

@@ -15,7 +15,7 @@ Alex and Sanjith in Design and CAD are proactively collaborating to create the a
 
 This whole week Abhay has been tirelessly working on setting up a challenging and engaging obstacle course for drive team practice. During the drive team practice, they have members of the team drive the robot in order to see who best achieves the standards for this demanding role. The students driving the robot must maneuver the robot through the cones and obstacles to reach the end.
 
-<img class="img-responsive" src="https://drive.google.com/thumbnail?id=10SMPZhjtcafs6WBXx6QBTjH1s8ySfL_Z&sz=w400" data-fancybox alt="phoenix practice swerve drive robot" width="400" />
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=10SMPZhjtcafs6WBXx6QBTjH1s8ySfL_Z&sz=w400" data-fancybox alt="Phoenix: our practice swerve drive robot" width="400" />
 
 The fabulous members of the Business team have been taking on many different tasks this week. Some of the tasks include button making, sticker making, interviewing, and blogging!! The hardest and most time-consuming task for them is button making. The team is expected to make roughly a thousand buttons. Although button-making takes up much of their time, interviewing is also a key role in order to achieve a successful blog!
 

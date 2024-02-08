@@ -75,14 +75,13 @@ permalink: /pages/about/mentors/
 
   <!-- Nate -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=11ei4rZqdmqAO77SPs0YUWlcUsXthA_12&sz=w300" class="img-responsive" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1sCElc0twFgdqrT7CzWHIjwUuFJvfPFYL&sz=w300" class="img-responsive" width="300" /></div>
     <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. <!-- Some of his work experiences include an internship for a company. --> He worked on a tool design co-op for the company <em>Emerson</em>. Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
   </div>
   
-  
   <!-- Vijay -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1QMkIvvQ-lANO7pgSV1adZ_O1g5xn7hws&sz=w300" class="img-responsive" /></div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1QMkIvvQ-lANO7pgSV1adZ_O1g5xn7hws&sz=w300" class="img-responsive" width="300" /></div>
     <div><strong>Vijay Ejenkar</strong> joined the DevilBotz this year. He is a software and engineering mentor as well as a mechanical and electrical mentor for the team. In the software team, he helps the kids code on the laptops. In Mechanical he makes sure that the dimensions for the design are correct. Mr Ejenkar works at <em>American Well</em>. In his spare time, he loves to play cricket and he also does set-ups and lights for big events such as competitions. In college he had a commerce background which he then switched to IT. Vijay is from southern India and has a daughter in the Burlington school system.</div>
   </div>
   

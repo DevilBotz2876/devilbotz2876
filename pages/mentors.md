@@ -82,8 +82,8 @@ permalink: /pages/about/mentors/
   
   <!-- Vijay -->
   <div class="row row-ruled">
-    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1kBp0gCHAc4uoynnvqvs82PvsUrs0jAgu&sz=w300" class="img-responsive" /></div>
-    <div>Vijay Ejenkar</div>
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1QMkIvvQ-lANO7pgSV1adZ_O1g5xn7hws&sz=w300" class="img-responsive" /></div>
+    <div><strong>Vijay Ejenkar</strong> joined the DevilBotz this year. He is a software and engineering mentor as well as a mechanical and electrical mentor for the team. In the software team, he helps the kids code on the laptops. In Mechanical he makes sure that the dimensions for the design are correct. Mr Ejenkar works at <em>American Well</em>. In his spare time, he loves to play cricket and he also does set-ups and lights for big events such as competitions. In college he had a commerce background which he then switched to IT. Vijay is from southern India and has a daughter in the Burlington school system.</div>
   </div>
   
   <!-- Lou -->

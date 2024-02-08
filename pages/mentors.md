@@ -76,7 +76,7 @@ permalink: /pages/about/mentors/
   <!-- Nate -->
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1sCElc0twFgdqrT7CzWHIjwUuFJvfPFYL&sz=w300" class="img-responsive" width="300" /></div>
-    <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. <!-- Some of his work experiences include an internship for a company. --> He worked on a tool design co-op for the company <em>Emerson</em>. Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
+    <div><strong>Nathan Flynn</strong> is a mentor for the mechanical team. He works with the design and assembly of the robots as well as some hands-on things inside the workshop. Nathan was originally from the midwest but has now moved permanently to Massachusetts. He completed undergrad and graduate degrees in Mechanical Engineering. He worked on a tool design co-op for the company <em>Emerson</em> and currently works at <em>Raytheon.</em> Some of his favorite hobbies outside of robotics include biking, 3D printing, and pickleball. </div>
   </div>
   
   <!-- Vijay -->

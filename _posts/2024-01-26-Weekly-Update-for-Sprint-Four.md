@@ -25,6 +25,6 @@ Mechanical is an integral part of this team!! As we interviewed Arnesh we were a
 
 <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1YNvGuDLguHKizw-I7SDTG3iJk2fIPJvR&sz=w400" data-fancybox alt="Sherman practice tank bot" width="400" />
 
-<img class="img-responsive" src="https://drive.google.com/thumbnail?id1H5pNuQ-MY24sH6Zv_axRQIatGW4kBk0I&sz=w400" data-fancybox alt="Speaker field element" width="400" />
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=1H5pNuQ-MY24sH6Zv_axRQIatGW4kBk0I&sz=w400" data-fancybox alt="Speaker field element" width="400" />
 
 [Practice Tank Bot Sherman Practice Run](https://youtu.be/NnWpm6xNx4E?si=x0DDjA-gTR6yv11)

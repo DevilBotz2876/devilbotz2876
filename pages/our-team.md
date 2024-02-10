@@ -5,7 +5,7 @@ permalink: /pages/about/our-team/
 ---
 <div class="entry-content">
   <div class="row row-flex-col">
-    <p><a href="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
+    <p><a href="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
     <p>
       <em>Front row left to right:</em> <br />
       <em>Middle row left to right:</em> <br />

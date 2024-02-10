@@ -9,7 +9,7 @@ By: Bhavya Patel, Aadya Gurjar, Emily McDermottroe, and Vaishnavi Vyas
 
 Throughout this week the software team worked on multiple tasks. Nilesh Agarwalla, a mentor of the software team, mentioned that the team is currently working on getting the practice tank robot ready for drive practice. What's interesting, though, is seeing if the software actually works in reality! He is also trying to update the software accordingly as well as trying to get it to work with the motors.
 
-Alex and Sanjith in Design and CAD are proactively collaborating to create the arm of the robot in CAD. The most fascinating and intriguing thing about CAD and Design is that the whole robot design is actually in CAD!! They are also working on CADing the Quokka shooter (mentioned in [last week's blog post](https://devilbotz.org/Sprint-2-Saturday-Meeting/). Members of CAD use a software program to design the layout of the robot.
+Alex and Sanjith in Design and CAD are proactively collaborating to create the arm of the robot in CAD. The most fascinating and intriguing thing about CAD and Design is that the whole robot design is actually in CAD!! They are also working on CADing the Quokka shooter (mentioned in [last week's blog post](https://devilbotz.org/Sprint-2-Saturday-Meeting/)). Members of CAD use a software program to design the layout of the robot.
 
 <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1IKbgbhKN3sWweUSIsa2UVF63eSbTaP6S&sz=w400" data-fancybox alt="picture of robot in CAD" width="400" />
 
@@ -27,4 +27,4 @@ Mechanical is an integral part of this team!! As we interviewed Arnesh we were a
 
 <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1H5pNuQ-MY24sH6Zv_axRQIatGW4kBk0I&sz=w400" data-fancybox alt="Speaker field element" width="400" />
 
-[Practice Tank Bot Sherman Practice Run](https://youtu.be/NnWpm6xNx4E?si=x0DDjA-gTR6yv11)
+![Practice Tank Bot Sherman Practice Run](https://youtu.be/NnWpm6xNx4E?si=x0DDjA-gTR6yv11)

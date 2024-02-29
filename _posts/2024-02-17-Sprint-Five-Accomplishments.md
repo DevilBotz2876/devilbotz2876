@@ -10,9 +10,9 @@ The mechanical team has been working diligently this past week to accomplish the
 
 <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1-tWtpBtjpMgwRwBXEa9Pv1s-7UckWe6O&sz=w400" data-fancybox alt="Members of mechanical team working in the shop" width="400" />
 
-<img class="img-responsive" src="https://drive.google.com/thumbnail?id=1-hIyLX5W8eJhFz0f-inYFfCG6eNSm4WT&sz=w400" data-fancybox alt="Box of Notes" width="400" style="float: right; margin-left: 10px;" />The software team has been working on coding the drive system for the robot. They have also been searching for a code to use for the vision camera. The vision camera is what will help the robot be able to find its target to make shooting the Notes easier. The camera does this by recognizing vision tags that will be on specific pieces of the playing field. Once that is working, the programmers can write autonomous routines where Inferno moves in pre-planned ways to score points during the first fifteen seconds of each match.
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=1-hIyLX5W8eJhFz0f-inYFfCG6eNSm4WT&sz=w200" data-fancybox alt="Box of Notes" width="200" style="float: right; margin-left: 10px;" />The software team has been working on coding the drive system for the robot. They have also been searching for a code to use for the vision camera. The vision camera is what will help the robot be able to find its target to make shooting the Notes easier. The camera does this by recognizing vision tags that will be on specific pieces of the playing field. Once that is working, the programmers can write autonomous routines where Inferno moves in pre-planned ways to score points during the first fifteen seconds of each match.
 
-[See the game animation here:](https://youtu.be/0zpflsYc4PA)
+[See the game animation here](https://youtu.be/0zpflsYc4PA)
 
 The strategy subteam has also been scouting for alliances and have heard back from three teams! Along with that, they are evaluating potential drivers and deciding the best fit.
 

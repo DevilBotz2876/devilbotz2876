@@ -18,3 +18,7 @@ When presenting the award, the judges who chose our team had this to say:
 > A team that has mastered the math and physics in engineering. Their process includes redundencies, lessons learned, and documentation on par with professionals. As always in engineering and design, the devil is in the details. This team has burned their way to excellence in engineering with their robot Inferno!
 
 > The award goes to Team 2876, The DevilBotz!
+
+Well done, team!
+
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=1QjDUZSmzqP5WPc7KV6hAMMzRm_VnVaqL&sz=w600" data-fancybox alt="Inferno and some of the team" width="600" />

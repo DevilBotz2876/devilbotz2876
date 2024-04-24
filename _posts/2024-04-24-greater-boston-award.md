@@ -3,7 +3,7 @@ layout: post
 title: Greater Boston District Competition 2024 
 date: 2024-04-24
 category: 2024
-published: false
+published: true
 ---
 By: Eleanor O'Neill, mentor
 

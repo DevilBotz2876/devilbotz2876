@@ -54,7 +54,7 @@ permalink: /pages/about/our-team/
 
   <div class="row row-ruled">
     <div class="col-md-3">
-      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h200" data-fancybox alt="The Engineering Excellence Award for 2024" height="200" />
+      <a href="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h600" data-fancybox><img class="img-responsive" src="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h200" alt="The Engineering Excellence Award for 2024" height="200" /></a>
     </div>
     <div>
       <p><em>2024, March</em>: The Devilbotz won the Excellence in Engineering award at the Greater Boston District competition in Revere.</p>

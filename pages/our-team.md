@@ -30,7 +30,7 @@ permalink: /pages/about/our-team/
   <div class="col-md-12">
     <h2>What We Do</h2>
     <h3>Mechanical:</h3>
-    <p>The Mechanical Division is responsible for fabricating the "meat and bones" of our robot. This division makes up the largest portion of our team. Using wrenches, screws, clamps, nuts, bolts, drills, and saws, Mechanical manipulates motors and metal in order to make a robot that completes a task set for us by FIRST. They do lots of hands-on work, always trying to make the best robot possible. During competitions, Mechanical fixes any damage the robot might have sustained during the match. Even when designs fail, the Mechanical Division keeps working until they find a solution.</p>
+    <p>The Mechanical Division is responsible for fabricating the "bones and muscles" of our robot. This division makes up the largest portion of our team. Using wrenches, screws, clamps, nuts, bolts, drills, and saws, Mechanical manipulates motors and metal in order to make a robot that completes a task set for us by FIRST. They do lots of hands-on work, always trying to make the best robot possible. During competitions, Mechanical fixes any damage the robot might have sustained during the match. Even when designs fail, the Mechanical Division keeps working until they find a solution.</p>
 
     <h3>Electrical:</h3>
     <p>The Electrical Division is responsible for wiring the "nerves" of our robot. They create the board with all of the electrical connections required for the robot to function. Soldering, stripping, and crimping wires is what these guys do best. They work closely with Programming in order to generate ideas for sensors for the robot as well as troubleshooting robot malfunctions. They constantly confirm secure wire connections and replace the robot's battery during competition to ensure peak performance. Electrical is always around to help the robot work as intended.</p>
@@ -50,6 +50,19 @@ permalink: /pages/about/our-team/
 
   <div class="col-md-12">
     <h2>Our Awards and Achievements</h2>
+  </div>
+
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h200" data-fancybox alt="The Engineering Excellence Award for 2024" height="200" />
+    </div>
+    <div>
+      <p><em>2024, March</em>: The Devilbotz won the Excellence in Engineering award at the Greater Boston District competition in Revere.</p>
+      <p>The award presentation stated:</p>
+        <blockquote><em><strong>Excellence in Engineering</strong><br />
+        A team that has mastered the math and physics in engineering. Their process includes redundancies, lessons learned, and documentation on par with professionals. As always in engineering and design, the devil is in the details. This team has burned their way to excellence in engineering with their robot Inferno!<br />
+        This award goes to team 2876, the DevilBotz!</em></blockquote>
+    </div>
   </div>
 
   <div class="row row-ruled">

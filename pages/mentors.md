@@ -54,10 +54,17 @@ permalink: /pages/about/mentors/
   
   <div class="row row-ruled">
     <div class="col-md-3" style="overflow: hidden; height: 300px;"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" class="img-responsive bordered" /></a></div>
-    <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at <em>Sanofi Genzyme Pharmaceuticals</em>. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the Devilbotz team to teach them to work efficiently by visualizing travel around the world.</div>
+    <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at <em>Sanofi Genzyme Pharmaceuticals</em>. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the DevilBotz team to teach them to work efficiently by visualizing travel around the world.</div>
   </div>
 
   <h1 class="entry-title">New Mentors</h1>
+
+  <!-- Dan -->
+  <div class="row row-ruled">
+    <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=xyz&sz=w300" class="img-responsive bordered" /></div>
+    <div><strong>Dan Castellaren</strong> is an alumni mentor for the software team, having graduated from Burlington High in 2019. He then attended Rochester Institute of Technology and now returns to his old team as an employee of MIT Lincoln Laboratories.
+    </div>
+  </div>
 
   <!-- Eric -->
   <div class="row row-ruled">

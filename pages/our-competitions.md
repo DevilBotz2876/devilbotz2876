@@ -7,8 +7,8 @@ permalink: /pages/about/our-competitions/
   <a name="2025"></a>
   <div class="row row-ruled"> 
     <div class="col-md-3 center">
-      <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2025 Game Animation</a></div>
-      <img class="img-responsive" src="{{site.baseurl}}/images/2023chargedup.svg" alt="" width="240" data-fancybox />
+      <!-- <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2025 Game Animation</a></div> -->
+      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1IecgOIXwB46d-dvf5cIzHvgX5OPMs_IW&sz=w240" alt="Reefscape logo" width="240" data-fancybox />
     </div>
     <div class="col-md-8">
       <h3>2025 &#8211; REEFSCAPE</h3>
@@ -25,7 +25,7 @@ permalink: /pages/about/our-competitions/
   <div class="row row-ruled">
     <div class="col-md-3 center">
       <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2024 Game Animation</a></div>
-      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1Cfe8Ivaa79HLqqs848d8WKPfWUKW7ifn&sz=w240" alt="Crescendo logo" width="240" data-fancybox /></a>
+      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1Cfe8Ivaa79HLqqs848d8WKPfWUKW7ifn&sz=w240" alt="Crescendo logo" width="240" data-fancybox />
     </div>
     <div class="col-md-8">
       <h3>2024 &#8211; CRESCENDO</h3>

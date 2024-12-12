@@ -4,8 +4,41 @@ title: Our Competitions
 permalink: /pages/about/our-competitions/
 ---			
 <div class="entry-content" itemprop="text">
+  <a name="2025"></a>
+  <div class="row row-ruled"> 
+    <div class="col-md-3 center">
+      <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2025 Game Animation</a></div>
+      <img class="img-responsive" src="{{site.baseurl}}/images/2023chargedup.svg" alt="" width="240" data-fancybox />
+    </div>
+    <div class="col-md-8">
+      <h3>2025 &#8211; REEFSCAPE</h3>
+      <p>Stay tuned... Updates coming soon!</p>
+      <p>
+        In REEFSCAPE&#8480; presented by Haas, a new challenge launching January 4, 2025, FRC teams will use their engineering skills to strengthen one of the ocean's most diverse habitats &ndash; making waves to build a better world.
+      </p>
+    </div>
+  </div>
+
+  </div>
+
+  <a name="2024"></a>
   <div class="row row-ruled">
-    <a name="2023"></a>
+    <div class="col-md-3 center">
+      <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2024 Game Animation</a></div>
+      <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1Cfe8Ivaa79HLqqs848d8WKPfWUKW7ifn&sz=w240" alt="Crescendo logo" width="240" data-fancybox /></a>
+    </div>
+    <div class="col-md-8">
+      <h3>2024 &#8211; CRESCENDO</h3>
+      <p>In CRESCENDO&#8480; presented by Haas, two competing alliances are invited to score notes, amplify their speaker, harmonize onstage, and take the spotlight before time runs out. Alliances earn additional rewards for meeting specific scoring thresholds and for cooperating with their opponents.</p>
+      <p>During the first 15 seconds of the match, robots are autonomous. Without guidance from their drivers, robots leave their starting zone, score notes in their speaker or amp, and collect and score additional notes.</p>
+      <p>During the remaining 2 minutes and 15 seconds, drivers control their robots. Robots collect notes from human players at their source and score them in their amp and speaker. Each time an alliance gets 2 notes in their amp, the human player can amplify their speaker for 10 seconds. Notes scored in an amplified speaker are worth more points than those scored in an unamplified speaker. A human player may choose to repurpose a note scored in their amp in cooperation with their opponent. If each alliance repurposes a note by hitting their Coopertition button in the first 45 seconds of teleop, all teams in the match receive a Coopertition point (which influences their rank in the tournament), and the number of notes needed for the melody bonus is reduced.</p>
+      <p>As time runs out, robots race to get onstage and deliver notes to their traps. Harmonizing robots, i.e. robots sharing a chain, earn an added bonus. Robots earn even more points if a human player spotlights robots on a chain by scoring a note on the chain's microphone.</p>
+      <p>The alliance that earns the most points wins the match!</p>
+    </div>
+  </div>
+
+  <a name="2023"></a>
+  <div class="row row-ruled">
     <div class="col-md-3 center">
       <div class="button-external"><a href="https://youtu.be/0zpflsYc4PA" data-fancybox>Watch 2023 Game Animation</a></div>
       <img class="img-responsive" src="{{site.baseurl}}/images/2023chargedup.svg" alt="" width="240" data-fancybox />
@@ -17,8 +50,9 @@ permalink: /pages/about/our-competitions/
       </p>
     </div>
   </div>
+
+  <a name="2022"></a>     
   <div class="row row-ruled">
-    <a name="2022"></a>     
     <div class="col-md-3 center">
       <div class="button-external"><a href="https://youtu.be/LgniEjI9cCM" data-fancybox>Watch Game Animation</a></div>
       <img class="img-responsive" src="{{site.baseurl}}/images/uploads/2022/01/RR-logo-round-600x477.png" alt="" width="240" data-fancybox /><br />
@@ -41,8 +75,8 @@ permalink: /pages/about/our-competitions/
     </div>
   </div>
 
+  <a name="2020-21"></a>
   <div class="row row-ruled">
-    <a name="2020-21"></a>
     
     <div class="col-md-3 center">
       <div class="button-external"><a href="https://youtu.be/gmiYWTmFRVE" data-fancybox>View Game Animation</a></div>

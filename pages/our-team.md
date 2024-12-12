@@ -5,9 +5,9 @@ permalink: /pages/about/our-team/
 ---
 <div class="entry-content">
   <div class="row row-flex-col">
-    <p><a href="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JjSYyUwgpNmsQckB_QdzOyZfQV-NOz8C&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
+    <p><a href="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
     <p>
-<em>Front row left to right:</em> <br /> Aadi Dash, Joshua Manoj, Ashneel Ejenkar, Rohit Vijaykumar, Alex Chang, Tara Krishna, Nishtha Prajapati, Ellery Schwoebel, Nancy Tekitya, Aaliya Hasan, Akshara Agrawal.
+<!-- <em>Front row left to right:</em> <br /> Aadi Dash, Joshua Manoj, Ashneel Ejenkar, Rohit Vijaykumar, Alex Chang, Tara Krishna, Nishtha Prajapati, Ellery Schwoebel, Nancy Tekitya, Aaliya Hasan, Akshara Agrawal.
 
 <em>Second row left to right:</em> <br /> Akil Pugalenthi, Max Morse, Abhay Jhumat, Aaron Miner, Victor Hayashida, Sai Kadakeri, Ethan Porter, Kirsh Sharma, Prathiv Srivatsa.
       
@@ -17,7 +17,7 @@ permalink: /pages/about/our-team/
        
 <em>Back row left to right:</em> <br /> Alexander Lock, Arnesh Yeola, Shreya Iyer, Dillan Agarwalla, Parker Meyers.
       
-<em>Not pictured:</em> 
+<em>Not pictured:</em>  -->
     </p>
   </div>
 

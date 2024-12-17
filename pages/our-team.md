@@ -6,19 +6,16 @@ permalink: /pages/about/our-team/
 <div class="entry-content">
   <div class="row row-flex-col">
     <p><a href="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
+    <p><em>Front row left to right:</em> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.<br />
 
-    <p><em>Front row left to right:</em> <br /> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.</p>
+    <em>Second row left to right:</em> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.<br />
 
-    <p><em>Second row left to right:</em> <br /> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.</p>
+    <em>Third row left to right:</em> Sachchit Kadakeri, Anjum Khalifa, Neeraj Biji, Jason Ohol, Neek Patel, Aaryan Dash, Manny Geo, Emmett Axelrod, Noah Melo, Benjamin Lock, Flora Yu.<br />
 
-    <p><em>Third row left to right:</em> <br /> Sachchit Kadakeri, Anjum Khalifa, Neeraj Biji, Jason Ohol, Neek Patel, Aaryan Dash, Manny Geo, Emmett Axelrod, Noah Melo, Benjamin Lock, Flora Yu.</p>
+    <em>Fourth row left to right:</em> Roneet Arisipathi, Prangon Barua, Carter Briscoe, Mahi Kansagra, Akshara Agrawal, Victor Hayashida, Tara Krishna, Cecelia Fraczek, Braden Santiano.<br />
 
-    <p><em>Fourth row left to right:</em> <br /> Roneet Arisipathi, Prangon Barua, Carter Briscoe, Mahi Kansagra, Akshara Agrawal, Victor Hayashida, Tara Krishna, Cecelia Fraczek, Braden Santiano.</p>
-
-    <p><em>Back row left to right:</em> <br /> Moses Govathoti, Anirudh Mohanty, Joshua Manoj, Rohit Vijayakumar, Ryna Bousalem, Ethan Porter, Nishtha Prajapati, Piyush Mohanty.</p>
-
-    <!-- <em>Not pictured:</em>  -->
-    
+    <em>Back row left to right:</em> Moses Govathoti, Anirudh Mohanty, Joshua Manoj, Rohit Vijayakumar, Ryna Bousalem, Ethan Porter, Nishtha Prajapati, Piyush Mohanty.</p>
+<!-- <em>Not pictured:</em>  -->
   </div>
 
   <div class="col-md-12">

@@ -7,17 +7,17 @@ permalink: /pages/about/our-team/
   <div class="row row-flex-col">
     <p><a href="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
     <p>
-<!-- <em>Front row left to right:</em> <br /> Aadi Dash, Joshua Manoj, Ashneel Ejenkar, Rohit Vijaykumar, Alex Chang, Tara Krishna, Nishtha Prajapati, Ellery Schwoebel, Nancy Tekitya, Aaliya Hasan, Akshara Agrawal.
+<em>Front row left to right:</em> <br /> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.
 
-<em>Second row left to right:</em> <br /> Akil Pugalenthi, Max Morse, Abhay Jhumat, Aaron Miner, Victor Hayashida, Sai Kadakeri, Ethan Porter, Kirsh Sharma, Prathiv Srivatsa.
+<em>Second row left to right:</em> <br /> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.
       
-<em>Third row left to right:</em> <br /> Braden Santiano, Rishitha Ravi, Mehran Khaleel, Adi Prajapati, Ben Lock, Cecelia Franczek, Marty Wells, Carter Briscoe.
+<em>Third row left to right:</em> <br /> Sachchit Kadakeri, Anjum Khalifa, Neeraj Biji, Jason Ohol, Neek Patel, Aaryan Dash, Manny Geo, Emmett Axelrod, Noah Melo, Benjamin Lock, Flora Yu.
       
-<em>Fourth row left to right:</em> <br /> Sanjith Krishnan, Aadya Gurjar, Bhavya Patel, Emily McDermottroe, Vaishnavi Vyas.
+<em>Fourth row left to right:</em> <br /> Roneet Arisipathi, Prangon Barua, Carter Briscoe, Mahi Kansagra, Akshara Agrawal, Victor Hayashida, Tara Krishna, Cecelia Fraczek, Braden Santiano.
        
-<em>Back row left to right:</em> <br /> Alexander Lock, Arnesh Yeola, Shreya Iyer, Dillan Agarwalla, Parker Meyers.
+<em>Back row left to right:</em> <br /> Moses Govathoti, Anirudh Mohanty, Joshua Manoj, Rohit Vijayakumar, Ryna Bousalem, Ethan Porter, Nishtha Prajapati, Piyush Mohanty.
       
-<em>Not pictured:</em>  -->
+<!-- <em>Not pictured:</em>  -->
     </p>
   </div>
 

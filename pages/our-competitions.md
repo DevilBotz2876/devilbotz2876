@@ -7,14 +7,14 @@ permalink: /pages/about/our-competitions/
   <a name="2025"></a>
   <div class="row row-ruled"> 
     <div class="col-md-3 center">
-      <!-- <div class="button-external"><a href="https://youtu.be/9keeDyFxzY4" data-fancybox>Watch 2025 Game Animation</a></div> -->
+      <div class="button-external"><a href="https://youtu.be/YWbxcjlY9JY?si=D6ic-857mdUZslMh" data-fancybox>Watch 2025 Game Animation</a></div>
       <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1IecgOIXwB46d-dvf5cIzHvgX5OPMs_IW&sz=w240" alt="Reefscape logo" width="240" data-fancybox />
     </div>
     <div class="col-md-8">
       <h3>2025 &#8211; REEFSCAPE</h3>
-      <p>Stay tuned... Updates coming soon!</p>
+      <p>In REEFSCAPE&#x2120; presented by Haas, two competing alliances are invited to score coral, harvest algae, and attach to the barge before time runs out. Alliances earn additional rewards for meeting specific scoring thresholds and for cooperating with their opponents.</p>
       <p>
-        In REEFSCAPE&#8480; presented by Haas, a new challenge launching January 4, 2025, FRC teams will use their engineering skills to strengthen one of the ocean's most diverse habitats &ndash; making waves to build a better world.
+        FRC teams will use their engineering skills to strengthen one of the ocean's most diverse habitats &ndash; making waves to build a better world.
       </p>
     </div>
   </div>

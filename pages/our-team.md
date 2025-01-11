@@ -5,7 +5,7 @@ permalink: /pages/about/our-team/
 ---
 <div class="entry-content">
   <div class="row row-flex-col">
-    <p><a href="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w1200" data-fancybox><img src="https://drive.google.com/thumbnail?id=1JVpCVkh81bRl3m0aLJBfCnfIZDaC14pI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
+    <p><a href="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
     <p><em>Front row left to right:</em> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.<br />
 
     <em>Second row left to right:</em> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.<br />

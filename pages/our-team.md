@@ -5,16 +5,17 @@ permalink: /pages/about/our-team/
 ---
 <div class="entry-content">
   <div class="row row-flex-col">
-    <p><a href="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w600" alt="2024 team photo" width="600" class="img-responsive" /></a></p>
-    <p><em>Front row left to right:</em> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.<br />
+    <p><a href="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1200" alt="2024-2025 team photo" width="600" class="img-responsive" /></a></p>
+    <p><strong>Left to right:</strong></p>
+    <p><em>Front row:</em> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.<br />
 
-    <em>Second row left to right:</em> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.<br />
+    <em>Second row:</em> Max Morse, Eshaan Kansagra, Abhay Jhumat, Adi Prajapati, Zohar Lavi, Rishitha Ravi, Humayra Ferdous, Nancy Tekityamazzi, Aaliya Hasan.<br />
 
-    <em>Third row left to right:</em> Sachchit Kadakeri, Anjum Khalifa, Neeraj Biji, Jason Ohol, Neek Patel, Aaryan Dash, Manny Geo, Emmett Axelrod, Noah Melo, Benjamin Lock, Flora Yu.<br />
+    <em>Third row:</em> Sachchit Kadakeri, Anjum Khalifa, Neeraj Biji, Jason Ohol, Neek Patel, Aaryan Dash, Manny Geo, Emmett Axelrod, Noah Melo, Benjamin Lock, Flora Yu.<br />
 
-    <em>Fourth row left to right:</em> Roneet Arisipathi, Prangon Barua, Carter Briscoe, Mahi Kansagra, Akshara Agrawal, Victor Hayashida, Tara Krishna, Cecelia Fraczek, Braden Santiano.<br />
+    <em>Fourth row:</em> Roneet Arisipathi, Prangon Barua, Carter Briscoe, Mahi Kansagra, Akshara Agrawal, Victor Hayashida, Tara Krishna, Cecelia Fraczek, Braden Santiano.<br />
 
-    <em>Back row left to right:</em> Moses Govathoti, Anirudh Mohanty, Joshua Manoj, Rohit Vijayakumar, Ryna Bousalem, Ethan Porter, Nishtha Prajapati, Piyush Mohanty.</p>
+    <em>Back row:</em> Moses Govathoti, Anirudh Mohanty, Joshua Manoj, Rohit Vijayakumar, Ryna Bousalem, Ethan Porter, Nishtha Prajapati, Piyush Mohanty.</p>
 <!-- <em>Not pictured:</em>  -->
   </div>
 
@@ -51,7 +52,7 @@ permalink: /pages/about/our-team/
 
   <div class="row row-ruled">
     <div class="col-md-3">
-      <a href="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h600" data-fancybox><img class="img-responsive" src="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h200" alt="The Engineering Excellence Award for 2024" height="200" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h600" data-fancybox><img class="img-responsive" src="https://drive.google.com/thumbnail?id=1k8JqdGSE62jSV0g-ap5HasRl_L3y6xL8&sz=h200" alt="The Engineering Excellence Award for 2024" height="260" /></a>
     </div>
     <div>
       <p><em>2024, March</em>: The Devilbotz won the Excellence in Engineering award at the Greater Boston District competition in Revere.</p>

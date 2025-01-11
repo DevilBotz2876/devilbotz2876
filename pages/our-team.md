@@ -5,7 +5,7 @@ permalink: /pages/about/our-team/
 ---
 <div class="entry-content">
   <div class="row row-flex-col">
-    <p><a href="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1jtSOLtQH4nrA8r7zEfq6XaFhFob8OwUI&sz=w1200" alt="2024-2025 team photo" width="600" class="img-responsive" /></a></p>
+    <p><a href="https://drive.google.com/thumbnail?id=1ChIaEk7QIATJfWq5BzFXAOwyR4JE3EzA&sz=w1600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ChIaEk7QIATJfWq5BzFXAOwyR4JE3EzA&sz=w1200" alt="2024-2025 team photo" width="600" class="img-responsive" /></a></p>
     <p><strong>Left to right:</strong></p>
     <p><em>Front row:</em> Akil Pugalenthi, Aaron Miner, Aadi Dash, Alex Chang.<br />
 

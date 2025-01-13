@@ -7,7 +7,7 @@ published: false
 ---
 By: Bhavya Patel 
 
-[DevilBotz teamwork](https://youtu.be/dkbXyB_m6QY)
+[DevilBotz teamwork](https://youtu.be/vl-QGZ5PY5Y?si=qB_l6wfa9cIYAB7k)
 
 Our new favorite team-building activity: Real Life Connections. For those who don't know Connections, it's a game made by the New York Times. The original game consists of 16 separate words which are grouped by the player into four categories that have something in common. The categories can be anything from capital cities to words that simply rhyme. The player must decide which words on their screen should be sorted into which categories. The player has four tries to complete this puzzle. If more than four mistakes are made, the game will end and the categories will reveal themselves.
 

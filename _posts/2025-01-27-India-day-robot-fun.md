@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Devilbotz Share Robot Fun at India Day
-date: 2022-02-19
-category: 2024
+date: 2025-01-27
+category: 2025
 published: true
 ---
 By: Mahi Kansagra

@@ -16,10 +16,11 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
+  min-height: 192px;
   
   header {
     flex: 0 0 auto;
-    height: 192px;
+    // height: 192px;
   }
   .masthead {
     text-align: center;

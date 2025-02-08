@@ -1,3 +1,12 @@
+html {
+  background-color: #fff;
+}
+body {
+  max-width: 1200px;
+  line-height: 1.3;
+  margin: 0 auto;
+  color: #3a3a3a;
+}
 
 h1 {
   font-weight: 300;
@@ -106,6 +115,16 @@ article {
   }
   li {
     margin: .5rem 0;
+  }
+  
+  .recent {
+    padding: 6px;
+    h2 {
+      margin: 0;
+    }
+    ul {
+      margin-left: 0;
+    }
   }
 }
 

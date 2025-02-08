@@ -7,23 +7,7 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="inside-header grid-container grid-parent">
-				<div class="site-branding">
-          <p class="main-title" itemprop="headline">
-            <a href="/" rel="home">
-              DevilBotz Team 2876
-            </a>
-          </p>
-          <p class="site-description" itemprop="description">
-            Burlington MA FIRST Robotics Team 2876
-          </p>
-        </div>
-      </div>
-      <header>
-        {% include nav.html %}
-      </header>
-    </div>
+    {% include masthead.html %}
 
     <div id="main" role="main" class="container">   
     {% if layout.type %}

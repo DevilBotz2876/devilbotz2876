@@ -1,0 +1,75 @@
+#main {
+  background-color: white;
+  display: block;
+  border-top: 1px solid transparent;
+  background: url("https://drive.google.com/thumbnail?id=1uGwviCrwv9-f8FvguRJeQOGEAjQGtdgP") no-repeat center top;
+  background-size: 60%;
+}
+@media screen and (max-width: 400px) {
+  #main {
+    background-size: 90%;
+  }
+}
+
+.masthead-wrapper {
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  
+  header {
+    flex: 0 0 auto;
+    height: 192px;
+  }
+  .masthead {
+    text-align: center;
+    flex: 4 4 auto;
+    max-height: 192px;
+    display: flex;
+    margin: 0 2em;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+    p.tagline {
+      font-size: 14px;
+      letter-spacing: .3em;
+      font-weight: bold;
+      margin: 0;
+    }
+    
+    img {
+      margin: 0 auto;
+      height: 150px;
+    }
+  }
+  .frc-logo {
+    flex: 0 0 auto; 
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .masthead-wrapper {
+    align-items: flex-end;
+    width: 100%;
+    
+    header {
+      padding-bottom: 6px;
+      width: 30px;
+      position: relative;
+      height: auto;
+      #side-menu { display: none; }
+    }
+    .frc-logo {
+      padding-left: 0;
+      padding-bottom: 10px;
+      img {width: 40px;}
+    }
+    .masthead {
+      margin: 0 1em;
+      p.tagline {
+        font-size: 10px;
+      }
+    }
+  }
+}

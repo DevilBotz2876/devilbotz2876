@@ -191,10 +191,14 @@ p.img-container {
     width: 40%;
     float: right;
     margin-left: 10px;
+    .inside-right-sidebar {
+      width: 100%;
+    }
   }
   #calendar-sidebar {
     h6 {
       padding: 9px;
+      margin: 16px 0 0;
       background-color: #900;
       color: #fff;
       cursor: pointer;
@@ -206,6 +210,8 @@ p.img-container {
       display: block;
       position: absolute;
       height: 300px;
+      width: 35%;
+      overflow-x: scroll;
     }
   }
 }

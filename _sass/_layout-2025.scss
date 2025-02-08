@@ -187,10 +187,10 @@ p.img-container {
 }
 
 @media screen and (max-width: 500px) {
-  .inside-right-sidebar {
-    // width: 40%;
+  .widget-area.sidebar {
+    width: 40%;
+    float: right;
     margin-left: 10px;
-    // float: right;
   }
   #calendar-sidebar {
     h6 {

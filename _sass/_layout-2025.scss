@@ -193,9 +193,11 @@ p.img-container {
     float: right;
   }
   #calendar-sidebar {
-    height: 1.5em;
-    overflow: hidden;
-    &.open {
+    iframe {
+      height: 0;
+      overflow: hidden;
+    }
+    &.open iframe {
       height: 300px;
       overflow: scroll-y;
     }

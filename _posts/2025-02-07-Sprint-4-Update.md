@@ -1,22 +1,24 @@
 ---
 layout: post
-title: Sprint 4 Update 
+title: Reefscape Sprint Four Update 
 date: 2025-02-07
 category: 2025
-published: false
+published: true
 ---
-By:Bhavya Patel
+By: Bhavya Patel
 
-Sprint 4 have been a busy week for the whole team. Each sub team has worked hard to complete thier tasks for this week!
+Sprint Four has been a busy week for the whole team. Each sub team has worked hard to complete their tasks for this week!
 
-Mechanical week is currently in the progress of building the elevator, making the Alpha version of Coral funnel, making sure critical supplies are ordered,converting Compbot swerve modles to L2 gears,building the coral arm, riging the elevator to the motor, and planing the limit to switch locations. 
+Mechanical this week is in the process of building the elevator, making the alpha version of the coral (intake) funnel, making sure critical supplies are ordered, converting Compbot swerve modules to L2 gears, building the coral arm, rigging the elevator to the motor, and planning the limit switch locations. 
 
-This week Software team has been working on autonomous mobilty and 1-note auto implemented and testing in simulation. They were also unfortunately blocked from doing the elevator and arm testing for protbot.
+This week the Software team has been working on implementing autonomous mobility and achieving delivery of one note and is testing in simulation. They were unfortunately blocked from doing the elevator and arm testing on Protobot.
 
-CAD team is currenlty working on determinoing SLAM cmaera locations, finishing funnel,finishing the elevator,finishng the coral arm, doing the Littleton elevator geomety,modeling the SLAM cameras, and adding elevator lift shaft to elevator.
+The CAD team is currently working on determining SLAM camera locations. These cameras are used when programming to know where the robot is on the field, and scan April Tags, which are codes similar to QR codes that are printed on paper and mounted in specific locations all over the competition playing field (and on our practice field elements!). They're also finishing the intake funnel, the elevator, and the coral manipulation arm and doing the Littleton Elevator geometry, modeling the SLAM cameras, and adding the elevator lift shaft to the elevator. A Littleton Elevator is a lifting mechanism designed and shared freely by [Littleton Robotics Team 6328](https://littletonrobotics.org).
 
-Electrical team is working on finshing wiring the protobot and installing the wire limit switches!
+<img src="https://drive.google.com/thumbnail?id=1WVYffbYXi5LUZYkb4-rspSE_Y0RBhr-C&sz=w600" alt="Practice Field element with April Tag on it" data-fancybox />
 
-Business team is currenlty wokring on updating the pit rough sketch design, posting on instagram, and updating the presentation.
+The Electrical team is working on finishing wiring Protobot and installing the wires for limit switches!
 
-Strategy team has been working on making and telling poeple to fill out the forms.
+The Business team is currently working on updating the rough sketch for a new pit design (planned for next season), posting on Instagram (@DevilBotz2876), and updating the presentation slideshow for pitching our team to prospective sponsors. As well, one of our mentors is updating the branding/masthead design of this website.
+
+The Strategy team has been working on making and telling poeple to fill out the Drive Team interest forms.

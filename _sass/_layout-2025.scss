@@ -148,7 +148,6 @@ p.img-container {
   }
 
   #main {
-    // background-color: white;
     display: flex;
     flex-direction: column;
     max-width: 1200px;
@@ -192,5 +191,13 @@ p.img-container {
     width: 40%;
     margin-left: 10px;
     float: right;
-  }  
+  }
+  #calendar-sidebar {
+    height: 1.5em;
+    overflow: hidden;
+    &.open {
+      height: 300px;
+      overflow: scroll-y;
+    }
+  }
 }

@@ -10,24 +10,24 @@ layout: default
     </header>
 
     <div class="entry-content">
-      <div class="ruled">
-        <h1>Welcome to the DevilBotz</h1>
 
-        <!-- <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar" style="background: white;">
-          <div class="inside-right-sidebar">
-            <div class="recent">
-              <h2>Recent Posts</h2>
-              <ul>
-                {% for post in site.posts limit:5 %}
-                <li>
-                  <a href="{{ post.url }}">{{ post.title }}</a><br />
-                  - {{ post.date | date_to_string }}
-                </li>
-                {% endfor %}
-              </ul>
-            </div>  
-          </div>
-        </div> -->
+      <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar-home">
+        <div class="inside-right-sidebar">
+          <div class="recent home">
+            <h2>Recent Posts</h2>
+            <ul>
+              {% for post in site.posts limit:5 %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a><br />
+                - {{ post.date | date_to_string }}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>  
+        </div>
+      </div>
+        <div class="ruled">
+        <h1>Welcome to the DevilBotz</h1>
     
         <h4>New members, register <a href="{{ site.baseurl }}/pages/about/registration">HERE</a></h4>
         <p>Team 2876 is a FIRST Robotics team from Burlington High School in Burlington, Massachusetts. We are known as the DevilBotz, a name we take from the Burlington High mascot, the Red Devil. We have been competing in FIRST since 2009.</p>

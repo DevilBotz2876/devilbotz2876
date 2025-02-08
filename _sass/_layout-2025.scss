@@ -161,7 +161,7 @@ p.img-container {
     display: flex;
     flex: 1 1 100%;
     flex-direction: column;
-    float: none;
+    float: right;
     margin-left: 0;
   }
   article {
@@ -188,18 +188,24 @@ p.img-container {
 
 @media screen and (max-width: 500px) {
   .inside-right-sidebar {
-    width: 40%;
+    // width: 40%;
     margin-left: 10px;
-    float: right;
+    // float: right;
   }
   #calendar-sidebar {
+    h6 {
+      padding: 9px;
+      background-color: #900;
+      color: #fff;
+      cursor: pointer;
+    }
     iframe {
-      height: 0;
-      overflow: hidden;
+      display: none;
     }
     &.open iframe {
+      display: block;
+      position: absolute;
       height: 300px;
-      overflow: scroll-y;
     }
   }
 }

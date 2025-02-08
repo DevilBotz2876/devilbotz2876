@@ -4,8 +4,9 @@
   border-top: 1px solid transparent;
   background: url("https://drive.google.com/thumbnail?id=1uGwviCrwv9-f8FvguRJeQOGEAjQGtdgP") no-repeat center top;
   background-size: 60%;
+  padding: 0 20px;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   #main {
     background-size: 90%;
   }
@@ -49,7 +50,7 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   .masthead-wrapper {
     align-items: flex-end;
     width: 100%;

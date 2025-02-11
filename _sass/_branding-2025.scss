@@ -2,7 +2,7 @@
   background-color: white;
   display: block;
   border-top: 1px solid transparent;
-  background: url("https://drive.google.com/thumbnail?id=1uGwviCrwv9-f8FvguRJeQOGEAjQGtdgP") no-repeat center top;
+  background: url("https://drive.google.com/thumbnail?id=1uGwviCrwv9-f8FvguRJeQOGEAjQGtdgP&sz=w600") no-repeat center top;
   background-size: 60%;
   padding: 0 20px;
 }
@@ -46,7 +46,11 @@
   }
   .frc-logo {
     flex: 0 0 auto; 
-    padding: 10px;
+    // padding: 10px;
+    a {
+      margin-right: 10px;
+      display: block
+    }
   }
 }
 
@@ -69,6 +73,9 @@
     }
     .masthead {
       margin: 0 1em;
+      img {
+        height: 80px;
+      }
       p.tagline {
         font-size: 10px;
       }

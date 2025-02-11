@@ -2,6 +2,23 @@
 type: home
 layout: default
 ---
+
+<div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar-home">
+  <div class="inside-right-sidebar">
+    <div class="recent home">
+      <h2>Recent Posts</h2>
+      <ul>
+        {% for post in site.posts limit:5 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a><br />
+          - {{ post.date | date_to_string }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>  
+  </div>
+</div>
+
 <article id="home" class="page">
   <div class="inside-article">
 
@@ -10,23 +27,7 @@ layout: default
     </header>
 
     <div class="entry-content">
-
-      <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="posts-sidebar-home">
-        <div class="inside-right-sidebar">
-          <div class="recent home">
-            <h2>Recent Posts</h2>
-            <ul>
-              {% for post in site.posts limit:5 %}
-              <li>
-                <a href="{{ post.url }}">{{ post.title }}</a><br />
-                - {{ post.date | date_to_string }}
-              </li>
-              {% endfor %}
-            </ul>
-          </div>  
-        </div>
-      </div>
-        <div class="ruled">
+      <div class="ruled">
         <h1>Welcome to the DevilBotz</h1>
     
         <h4>New members, register <a href="{{ site.baseurl }}/pages/about/registration">HERE</a></h4>

@@ -18,16 +18,16 @@ permalink: /pages/sponsors/our-sponsors/
     <div class="col-md-8">
       <h2>Burlington Public Schools</h2>
       <blockquote>
-        <p>The Mission of the Burlington Public Schools is to help all students acquire organized knowledge, master creative and intellectual skills, and understand ideas in ways that foster a positive self-image and lead to life long learning, self-sufficiency, and responsible citizenship.</p>
+        <p>The Mission of the Burlington Public Schools is to help all students acquire organized knowledge, master creative and intellectual skills, and understand ideas in ways that foster a positive self-image and lead to life-long learning, self-sufficiency, and responsible citizenship.</p>
         <footer><a href="https://www.burlingtonpublicschools.org/" target="_blank">Burlington Public Schools website</a></footer>
       </blockquote>
     </div>
   </div>
  
-  <!-- Broadcom -->
+  <!-- Broadcom ($5000 + 5000, 2024-25) -->
   <div class="row">
     <div class="col-md-3">
-      <div class="sponsor-level gold">Gold Sponsor</div>
+      <div class="sponsor-level platinum">Platinum Sponsor</div>
       <a href="https://drive.google.com/thumbnail?id=1f0LdDURxubSpKj4rxxdCNZH7LDSAWPAW&sz=w500" data-fancybox><img src="https://drive.google.com/thumbnail?id=1f0LdDURxubSpKj4rxxdCNZH7LDSAWPAW&sz=w200" alt="Broadcom logo" /></a>
      <!-- <div class="sponsor-grant">grant</div> -->
     </div>
@@ -41,11 +41,11 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <!-- Analog Devices -->
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level gold">Gold Sponsor</div>
       <a href="https://drive.google.com/thumbnail?id=16wuhcFxKWoTWWbRijXTJ7sSPsigpTwIP&sz=w500" data-fancybox><img src="https://drive.google.com/thumbnail?id=16wuhcFxKWoTWWbRijXTJ7sSPsigpTwIP&sz=w200" alt="Analog Devices Inc logo" /></a>
-     <!-- <div class="sponsor-grant">grant</div> -->
+     <div class="sponsor-grant">grant</div>
     </div>
     <div class="col-md-8">
       <h2>Analog Devices Inc.</h2>
@@ -55,9 +55,9 @@ permalink: /pages/sponsors/our-sponsors/
         <footer><a href="https://www.analog.com/en/index.html" target="_blank">Analog Devices Inc. website</a></footer>
     </blockquote>
     </div>
-  </div>
+  </div> -->
 
-  <!-- RTX/Raytheon (2500) -->
+  <!-- RTX/Raytheon ($2500, 2024-25) -->
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level gold">Gold Sponsor</div>
@@ -77,7 +77,22 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div>
 
-  <!-- BAE -->
+  <!-- Ascent ($1100, 2024-25) -->
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <div class="sponsor-level silver">Silver Sponsor</div>
+      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo" width="200"></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Ascent Development</h2>
+      <blockquote>
+        <p>Ascent Development is the consulting company of mentor <a href="{{site.baseurl}}/pages/about/mentors/#morse">Chris Morse</a>. Ascent provides Engineering Design services to consumer and medical device companies.</p>
+        <footer><a href="https://www.linkedin.com/in/cjmorse/" target="_blank">Chris's LinkedIn Page</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <!-- BAE ($2000, 2024-25) -->
   <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
@@ -93,7 +108,7 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <!-- SS&C -->
-  <div class="row row-ruled">
+  <!-- <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
       <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w400" data-fancybox><img src="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w150" alt="SS&C logo" /></a>
@@ -106,7 +121,7 @@ permalink: /pages/sponsors/our-sponsors/
         <footer><a href="https://www.ssctech.com/" target="_blank">SS&C website</a></footer>
       </blockquote>
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class="row">
     <div class="col-md-3">
@@ -121,29 +136,14 @@ permalink: /pages/sponsors/our-sponsors/
   </div> -->
 
   <!-- MATERIAL SPONSORS -->
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-md-3">
       <h4>Material Sponsors</h4>
     </div>
     <div class="col-md-8">
       <p>Material sponsors have provided goods or services and these, too, help us immensely!</p>
     </div>
-  </div>
-
-  <!-- Ascent -->
-  <div class="row row-ruled">
-    <div class="col-md-3">
-      <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo" width="200"></a>
-    </div>
-    <div class="col-md-8">
-      <h2>Ascent Development</h2>
-      <p>The Devilbotz would like to thank Ascent Development very much for purchasing a full set of swerve drive modules for the team.</p>
-      <blockquote>
-        <p>Ascent Development is the consulting company of mentor <a href="{{site.baseurl}}/pages/about/mentors/#morse">Chris Morse</a>. Ascent provides Engineering Design services to consumer and medical device companies.</p>
-        <footer><a href="https://www.linkedin.com/in/cjmorse/" target="_blank">Chris's LinkedIn Page</a></footer>
-      </blockquote>
-    </div>
-  </div>
+  </div> -->
 
   <!-- <div class="row row-ruled">
     <div class="col-md-3 center">
@@ -193,15 +193,14 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div>
 
-  <!-- Blaze Pizza -->
+  <!-- Londi's Pizza -->
   <div class="row">
     <div class="col-md-3">
-      <a href="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=w200"><img src="https://drive.google.com/thumbnail?id=1d5qkkzUPPt5Kh2hUaEGddv_FYU5jQqHf&sz=w200" alt="Blaze Pizza logo" class="aligncenter size-medium" /></a>
+      &nbsp;
     </div>
     <div class="col-md-8">
-      <h2>Blaze Pizza</h2>
-        <p>Blaze Pizza is a nationwide chain of pizza restaurants with a location in Burlington on Middlesex Turnpike.</p>
-        <footer><a href="https://locations.blazepizza.com/ma/burlington/91-middlesex-turnpike" target="_blank">Blaze Pizza website</a></footer>
+      <h2>Londi's Pizza</h2>
+      <p>Londi's Pizza is a local Pizza and Roast Beef restaurant. They kindly discounted our pizzas for several weeks during build season.</p>
     </div>
   </div>
 </div>

@@ -37,8 +37,10 @@ body {
 .inside-right-sidebar {
   width: 220px;
   float: right;
-  // margin: 0 auto;
 
+  #calendar-sidebar h6 {
+    display: none;
+  }
   .recent {
     h2 {
       margin: 0;
@@ -197,6 +199,7 @@ p.img-container {
   }
   #calendar-sidebar {
     h6 {
+      display: block;
       padding: 9px;
       margin: 16px 0 0;
       background-color: #900;

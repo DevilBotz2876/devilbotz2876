@@ -78,7 +78,7 @@ permalink: /pages/sponsors/our-sponsors/
   </div>
 
   <!-- Ascent ($1100, 2024-25) -->
-  <div class="row row-ruled">
+  <div class="row">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
       <a href="{{site.baseurl}}/images/Ascent-Dev-logo.png" data-fancybox><img src="{{site.baseurl}}/images/Ascent-Dev-logo.png" alt="Ascent Development logo" width="200"></a>

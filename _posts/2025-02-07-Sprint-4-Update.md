@@ -15,7 +15,8 @@ This week the Software team has been working on implementing autonomous mobility
 
 The CAD team is currently working on determining SLAM camera locations. These cameras are used when programming to know where the robot is on the field, and scan April Tags, which are codes similar to QR codes that are printed on paper and mounted in specific locations all over the competition playing field (and on our practice field elements!). They're also finishing the intake funnel, the elevator, and the coral manipulation arm and doing the Littleton Elevator geometry, modeling the SLAM cameras, and adding the elevator lift shaft to the elevator. A Littleton Elevator is a lifting mechanism designed and shared freely by [Littleton Robotics Team 6328](https://littletonrobotics.org).
 
-<img src="https://drive.google.com/thumbnail?id=1WVYffbYXi5LUZYkb4-rspSE_Y0RBhr-C&sz=w600" alt="Practice Field element with April Tag on it" data-fancybox />
+<img src="https://drive.google.com/thumbnail?id=1WVYffbYXi5LUZYkb4-rspSE_Y0RBhr-C&sz=h400" alt="Practice Field element with April Tag on it" data-fancybox /><br />
+This shows a practice Field Element (the Coral Reef) with an April Tag.
 
 The Electrical team is working on finishing wiring Protobot and installing the wires for limit switches!
 

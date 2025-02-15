@@ -11,10 +11,8 @@
 
     <div id="main" role="main" class="container">
     {% if layout.type == "post" %}
-      <!-- layout type is {% layout.type %} -->
       {% include sidebar-plus-recent.html %}
-      {% elsif layout.type == "static" or layout.type == "list" %}
-      <!-- layout type is {% layout.type %} -->
+    {% elsif layout.type == "static" or layout.type == "list" %}
       {% include sidebar.html %}
     {% else %}
       {% include sidebar-plus-recent.html %}

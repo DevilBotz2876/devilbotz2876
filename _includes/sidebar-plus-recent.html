@@ -6,7 +6,9 @@
         <iframe src="https://calendar.google.com/calendar/embed?title=Upcoming%20events&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;src=bhsrobotix2876%40gmail.com&amp;ctz=America%2FNew_York" style="border-width:0" width="220" height="300" frameborder="0" scrolling="no"></iframe>
       </div>
     </div>
-    {% if layout.type != "post" %}
+    {% if layout.type == "list" %}
+      {% //do nothing %}
+    {% elsif layout.type != "post" %}
       {% include recent-posts-five.html %}
     {% else %}
       {% include recent-posts.html %}

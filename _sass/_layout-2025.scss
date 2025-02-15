@@ -42,13 +42,15 @@ body {
     display: none;
   }
   .recent {
+    background: white;
+    padding: 6px;
+    
     h2 {
       margin: 0;
     }
     ul {
       list-style-position: outside; 
       padding-left: 13px;
-      background: white;
 
       li {
         margin-bottom: .5em;

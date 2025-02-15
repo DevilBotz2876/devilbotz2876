@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Interview with the Programming Team
 date: 2022-02-19
 category: 2022

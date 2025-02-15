@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Granite State 2018 Competition Images
+type: blog
 date: 2018-04-04
 ---
 By: Eleanor O'Neill

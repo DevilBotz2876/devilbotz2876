@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Devilbotz BCAT Interview
 date: 2023-02-10
 category: 2023

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Reefscape Sprint Four Update 
 date: 2025-02-07
 category: 2025

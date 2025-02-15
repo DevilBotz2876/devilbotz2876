@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Launch Prototype Progress
 date: 2022-01-15
 category: 2022

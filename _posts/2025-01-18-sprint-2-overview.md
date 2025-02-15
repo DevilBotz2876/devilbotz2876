@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Sprint 2 overview 
 date: 2025-01-18
 category: 2025

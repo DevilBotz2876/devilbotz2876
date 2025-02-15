@@ -1,6 +1,7 @@
 ---
 layout: page
 title: First
+type: static
 permalink: /pages/about/FIRST/
 ---
 <div class="entry-content" itemprop="text">

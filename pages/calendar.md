@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team Calendar
+type: static
 permalink: /pages/resources/calendar/
 ---
 <div class="entry-content" itemprop="text">

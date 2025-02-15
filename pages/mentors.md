@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mentors
+type: static
 permalink: /pages/about/mentors/
 ---
 <div class="entry-content" itemprop="text">

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Year-End Celebration 2023
 date: 2023-06-05
 category: 2023

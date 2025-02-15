@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Jack's Coal Fired Pizza
 date: 2022-02-19
 category: 2022

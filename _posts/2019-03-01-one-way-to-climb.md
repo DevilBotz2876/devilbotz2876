@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Well, That's One Way to Climb to Level Two
 date: 2019-03-01
 category: 2019

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pre-Season Update
+type: blog
 date: 2023-12-06
 category: 2023
 ---

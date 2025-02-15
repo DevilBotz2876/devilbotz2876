@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sponsorship Levels
+type: static
 permalink: /pages/sponsors/sponsorship-levels/
 ---
 <div class="entry-content" itemprop="text">

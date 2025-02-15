@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: North Shore Competition Reading, 2023
 date: 2023-05-10
 category: 2023

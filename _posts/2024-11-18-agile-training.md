@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: Team Agile Training
 date: 2024-11-18
 category: 2024

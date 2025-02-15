@@ -210,12 +210,16 @@ p.img-container {
       &::after {
         content: url('https://drive.google.com/thumbnail?id=1GkzQMlS73L7uBZQZ92k3Mq1Dplda38JY&sz=w14');
         margin-left: 6px;
+        background: transparent;
       }
     }
     iframe {
       display: none;
     }
     &.open {
+      h6::after {
+        content: url('https://drive.google.com/thumbnail?id=1pUIWbTviuU4BMkgshce8f4kNGjHf8gbK&sz=w14');
+      }
       iframe {
         display: block;
         position: absolute;
@@ -223,9 +227,6 @@ p.img-container {
         width: 35%;
         overflow-x: scroll;
       }
-    }
-    h6::after {
-      content: url('https://drive.google.com/thumbnail?id=1pUIWbTviuU4BMkgshce8f4kNGjHf8gbK&sz=w14');
     }
   }
 }

@@ -204,22 +204,33 @@ p.img-container {
       display: block;
       padding: 9px;
       margin: 16px 0 0;
-      background-color: #900;
+      background:
+        url(https://drive.google.com/thumbnail?id=1GkzQMlS73L7uBZQZ92k3Mq1Dplda38JY&sz=w14)    /* image */
+        middle right /* position / size */
+        no-repeat                /* repeat */
+        fixed                    /* attachment */
+        padding-box              /* origin */
+        content-box              /* clip */
+      #900;                     /* color */
+      // background-color: #900;
       color: #fff;
       cursor: pointer;
-      &::after {
-        content: url('https://drive.google.com/thumbnail?id=1GkzQMlS73L7uBZQZ92k3Mq1Dplda38JY&sz=w14');
-        margin-left: 6px;
-        background: transparent;
-      }
+      // &::after {
+      //   content: url('https://drive.google.com/thumbnail?id=1GkzQMlS73L7uBZQZ92k3Mq1Dplda38JY&sz=w14');
+      //   margin-left: 6px;
+      //   background: transparent;
+      // }
     }
     iframe {
       display: none;
     }
     &.open {
-      h6::after {
-        content: url('https://drive.google.com/thumbnail?id=1pUIWbTviuU4BMkgshce8f4kNGjHf8gbK&sz=w14');
+      h6 {
+        background-image: url(https://drive.google.com/thumbnail?id=1pUIWbTviuU4BMkgshce8f4kNGjHf8gbK&sz=w14); 
       }
+      // ::after {
+      //   content: url('https://drive.google.com/thumbnail?id=1pUIWbTviuU4BMkgshce8f4kNGjHf8gbK&sz=w14');
+      // }
       iframe {
         display: block;
         position: absolute;

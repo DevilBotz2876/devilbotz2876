@@ -12,7 +12,7 @@
     <div id="main" role="main" class="container">   
     {% if layout.type == "post" %}
       {% include sidebar-plus-recent.html %}
-    {% elsif layout.type == "static" %}
+    {% elsif layout.type == "static" or layout.type == "list" %}
       {% include sidebar.html %}
     {% else %}
       {% include sidebar-plus-recent.html %}

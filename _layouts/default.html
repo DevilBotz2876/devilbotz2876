@@ -10,10 +10,11 @@
     {% include masthead-2025.html %}
 
     <div id="main" role="main" class="container">
-    <!-- layout type is {% layout.type %} -->
     {% if layout.type == "post" %}
+      <!-- layout type is {% layout.type %} -->
       {% include sidebar-plus-recent.html %}
-    {% elsif layout.type == "static" or layout.type == "list" %}
+      {% elsif layout.type == "static" or layout.type == "list" %}
+      <!-- layout type is {% layout.type %} -->
       {% include sidebar.html %}
     {% else %}
       {% include sidebar-plus-recent.html %}

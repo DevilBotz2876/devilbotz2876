@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team Registration
-type: static
 permalink: /pages/about/registration/
 ---
 <div class="entry-content" itemprop="text">

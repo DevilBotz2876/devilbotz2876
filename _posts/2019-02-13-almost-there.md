@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Almost There!
 date: 2019-02-13
 category: 2019

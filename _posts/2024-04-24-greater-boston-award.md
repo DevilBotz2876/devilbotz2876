@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Greater Boston District Competition 2024 
 date: 2024-04-24
 category: 2024

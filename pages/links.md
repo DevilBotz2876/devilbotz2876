@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Links
-type: static
 permalink: /pages/resources/links/
 ---
 <div class="entry-content" itemprop="text">

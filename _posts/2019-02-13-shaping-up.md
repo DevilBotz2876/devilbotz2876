@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Things Are Shaping Up
 date: 2019-02-13
 category: 2019

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Our Sponsors
-type: static
 permalink: /pages/sponsors/our-sponsors/
 ---
 <div class="entry-content" itemprop="text">

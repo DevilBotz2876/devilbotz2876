@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 3D CAD Workshop - How to Model Almost Anything
-type: blog
 date: 2013-10-23
 category: 2013
 ---

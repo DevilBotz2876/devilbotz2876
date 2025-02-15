@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Sprint 2 Saturday Meeting
 date: 2024-01-22
 category: 2024

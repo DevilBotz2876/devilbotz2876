@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Sprint Five Accomplishments
 date: 2024-02-17
 category: 2024

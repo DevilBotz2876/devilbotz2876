@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Spaghetti and Marshmallow Team-Building Activity  
 date: 2024-11-04
 category: 2024

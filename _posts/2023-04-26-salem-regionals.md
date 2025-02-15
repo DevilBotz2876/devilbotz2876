@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Salem Regionals Competition
 date: 2023-04-26
 category: 2022

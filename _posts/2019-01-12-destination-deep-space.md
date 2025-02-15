@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: 2019 Destination Deep Space Game Animation
 date: 2019-01-12
 category: 2019

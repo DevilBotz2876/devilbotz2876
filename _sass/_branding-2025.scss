@@ -46,9 +46,10 @@
   }
   .frc-logo {
     flex: 0 0 auto; 
+    // padding: 10px;
     a {
-      margin: 10px 10px 0 0;
-      display: block;
+      margin-right: 10px;
+      display: block
     }
   }
 }

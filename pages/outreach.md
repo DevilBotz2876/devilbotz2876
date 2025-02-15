@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Outreach
-type: static
 permalink: /pages/about/outreach/
 ---
 <div class="entry-content" itemprop="text">

@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Real-Life Connections 
 date: 2024-11-06
 category: 2024

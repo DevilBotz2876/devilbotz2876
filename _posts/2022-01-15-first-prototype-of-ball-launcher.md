@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: First Prototype of Ball Launcher
 date: 2022-01-15
 category: 2022

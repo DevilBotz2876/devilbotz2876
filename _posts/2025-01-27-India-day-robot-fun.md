@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Devilbotz Share Robot Fun at India Day
 date: 2025-01-27
 category: 2025

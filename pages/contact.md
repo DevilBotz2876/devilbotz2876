@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact Us
-type: static
 permalink: /pages/about/contact/
 ---
 <div class="entry-content" itemprop="text">

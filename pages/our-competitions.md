@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Our Competitions
-type: static
 permalink: /pages/about/our-competitions/
 ---			
 <div class="entry-content" itemprop="text">

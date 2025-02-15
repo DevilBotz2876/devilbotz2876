@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Our Team
-type: static
 permalink: /pages/about/our-team/
 ---
 <div class="entry-content">

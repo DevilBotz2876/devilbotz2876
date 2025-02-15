@@ -1,7 +1,6 @@
 ---
 layout: page
 title: How to Help Us Build Our Robot
-type: static
 permalink: /pages/sponsors/how-to-help/
 ---			
 <div class="entry-content" itemprop="text">

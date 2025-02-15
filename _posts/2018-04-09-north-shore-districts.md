@@ -1,7 +1,6 @@
 ---
 layout: post
 title: North Shore District Competition -- Reading, 2018
-type: blog
 date: 2018-04-09
 ---
 By: Eleanor O'Neill

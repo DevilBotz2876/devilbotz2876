@@ -9,8 +9,8 @@
   <body>
     {% include masthead-2025.html %}
 
-    <div id="main" role="main" class="container">
-    {% if layout.type == "blog" or layout.type == "" %}
+    <div id="main" role="main" class="container">   
+    {% if layout.type %}
       {% include sidebar-plus-recent.html %}
     {% else %}
       {% include sidebar.html %}

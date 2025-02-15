@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Robot Launches Off Platform Level Two
 date: 2019-02-19
 category: 2019

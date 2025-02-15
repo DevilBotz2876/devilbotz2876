@@ -1,6 +1,5 @@
 ---
 layout: post
-type: blog
 title: Tavern in the Square
 date: 2022-02-11
 category: 2022

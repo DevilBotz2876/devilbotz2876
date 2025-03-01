@@ -7,9 +7,9 @@ published: false
 ---
 By: Bhavya Patel
 
-With competition coming just around the corner in a week,the team has been working extra hard to finish all our tasks before our first competiton!
+With competition coming just around the corner, in a week, the team has been working extra hard to finish all our tasks!
 
-Today Software team is testing the robot to see if it can place coral onto the reef efectivly. Mechanical team is working on setting up the pit for competitions. They are fixing up the signs on the pit and the lettering! Business team is currently working hard to figure out the logistics of the competiton to plan approprietly for next week. The entire team has been working overtime to ensure that our robot is competiton ready!
+Today,the Software team is testing the robot to see if it can place coral onto the reef efectivly. The mechanical team is working on setting up the pit for competitions. They are fixing up the signs on the pit and the lettering! The business team is currently working hard to figure out the logistics of the competiton to plan approprietly for next week. The entire team has been working overtime to ensure that our robot is competiton ready!
 
 <img class="img-responsive" src="https://drive.google.com/thumbnail?id=1ukei3NdmbiRbrF-lwLz7cdp8fu35wv4O&sz=w1000" data-fancybox alt="An image of the robot" width="400" />
 

@@ -11,5 +11,5 @@ With competiom coming just around the corner in a week. The team has been workin
 
 Today Software team is testing the robot to see if it can place coral onto the reef efectivly. Mechanical team is working on setting up the pit for competitions. They are fixing up the signs on the pit and the lettering! Business team is currently working hard to figure out the logistics of the competiton to plan approprietly for next week. The entire team has been working overtime to ensure that our robot is competiton ready!
 
-class="img-responsive" src="https://drive.google.com/thumbnail?id=https://drive.google.com/file/d/1ukei3NdmbiRbrF-lwLz7cdp8fu35wv4O/view?usp=drivesdk<img &sz=w1000" data-fancybox alt="A image of the robot" width="400" />
+<img class="img-responsive" src="https://drive.google.com/thumbnail?id=1ukei3NdmbiRbrF-lwLz7cdp8fu35wv4O/view?usp=drivesdk<img &sz=w1000" data-fancybox alt="A image of the robot" width="400" />
 

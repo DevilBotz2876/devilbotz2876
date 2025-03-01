@@ -57,6 +57,23 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div> -->
 
+  <!-- Gene Haas Foundation - Gold -->
+  <div class="row row-ruled">
+    <div class="col-md-3">
+      <div class="sponsor-level gold">Gold Sponsor</div>
+      <a href="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w250" width="250" alt="Gene Haas Foundation logo" /></a>
+    </div>
+    <div class="col-md-8">
+      <h2>Gene Haas Foundation</h2>
+      <blockquote>
+        <p>The Gene Haas Foundation was established to give back to the community by supporting local charities in Ventura County, California, where Gene Haas's business is based. Early efforts focused on organizations such as the Boys &amp; Girls Clubs, Food Share, and the Rescue Mission, among others, to assist those in need.</p>
+
+        <p>Over time, the Foundation's mission expanded to support a cause Gene Haas is deeply passionate about: enhancing manufacturing education and introducing young people to careers in industry.</p>
+        <footer><a href="https://www.ghaasfoundation.org/" target="_blank">Gene Haas Foundation website</a></footer>
+      </blockquote>
+    </div>
+  </div>
+
   <!-- RTX/Raytheon ($2500, 2024-25) -->
   <div class="row">
     <div class="col-md-3">
@@ -124,28 +141,11 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div>
 
-  <!-- Gene Haas Foundation - Silver -->
-  <div class="row row-ruled">
-    <div class="col-md-3">
-      <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w250" width="250" alt="Gene Haas Foundation logo" /></a>
-    </div>
-    <div class="col-md-8">
-      <h2>Gene Haas Foundation</h2>
-      <blockquote>
-        <p>The Gene Haas Foundation was established to give back to the community by supporting local charities in Ventura County, California, where Gene Haas's business is based. Early efforts focused on organizations such as the Boys &amp; Girls Clubs, Food Share, and the Rescue Mission, among others, to assist those in need.</p>
-
-        <p>Over time, the Foundation's mission expanded to support a cause Gene Haas is deeply passionate about: enhancing manufacturing education and introducing young people to careers in industry.</p>
-        <footer><a href="https://www.ghaasfoundation.org/" target="_blank">Gene Haas Foundation website</a></footer>
-      </blockquote>
-    </div>
-  </div>
-
   <!-- MIT Lincoln Labs -->
   <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1C0ospUuNN_pgDOHKk_w2q5jKXX2zrhMB&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1C0ospUuNN_pgDOHKk_w2q5jKXX2zrhMB&sz=w150" alt="Lincoln Labs logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1C0ospUuNN_pgDOHKk_w2q5jKXX2zrhMB&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1C0ospUuNN_pgDOHKk_w2q5jKXX2zrhMB&sz=w250" width="250" alt="Lincoln Labs logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>MIT Lincoln Labs</h2>
@@ -161,7 +161,7 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS&sz=w250" width="250" alt="Riemer & Braunstein logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS&sz=w250" width="250" alt="Riemer & Braunstein logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>Riemer &amp; Braunstein</h2>

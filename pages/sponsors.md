@@ -246,14 +246,14 @@ permalink: /pages/sponsors/our-sponsors/
     </div>
   </div>
 
-  <!-- Londi's Pizza -->
+  <!-- Londi's RB & Pizza -->
   <div class="row">
     <div class="col-md-3">
-      &nbsp;
+      <a href="https://drive.google.com/thumbnail?id=1uZ5sP_0CVf1hq3B9OoVNO6WQYm6WNVFW&sz=w400" data-fancybox><img src="https://drive.google.com/thumbnail?id=1uZ5sP_0CVf1hq3B9OoVNO6WQYm6WNVFW&sz=w150" width="150" alt="Londi's Roast Beef and Pizza logo" /></a>
     </div>
     <div class="col-md-8">
-      <h2>Londi's Pizza</h2>
-      <p>Londi's Pizza is a local Pizza and Roast Beef restaurant. They kindly discounted our pizzas for several weeks during build season.</p>
+      <h2>Londi's Roast Beef &amp; Pizza</h2>
+      <p>Londi's is a local Pizza and Roast Beef restaurant. They kindly discounted our pizzas for several weeks during build season.</p>
     </div>
   </div>
 </div>

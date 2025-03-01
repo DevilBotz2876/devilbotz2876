@@ -116,7 +116,7 @@ permalink: /pages/sponsors/our-sponsors/
     <div class="col-md-8">
       <h2>Charles Schwab</h2>
       <blockquote>
-        <h4>We are champions of investors and those who serve them.</h4>
+        <p><strong>We are champions of investors and those who serve them.</strong></p>
         <p>Investing is an act of optimism and can be transformative when investors actively engage.</p>
         <p>Since our founding, we have championed Main Street investors by giving them the tools, resources, and investment advice needed to secure their financial futures. Our goal is to be the most trusted leader in investment services — not only by championing every client's goals with passion and integrity, but also through our investments in the success of our employees and the communities where we operate.</p>
         <footer><a href="https://www.schwab.com/" target="_blank">Charles Schwab website</a></footer>
@@ -128,7 +128,7 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1Nuaow1HIvy0lRyKY4ExEratdmpEeevAG&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1Nuaow1HIvy0lRyKY4ExEratdmpEeevAG&sz=w150" alt="Gene Haas Foundation logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1bpO4wOJoCHEjefCiVHvq_wLVQ9AnBgK3&sz=w250" width="250" alt="Gene Haas Foundation logo" /></a>
     </div>
     <div class="col-md-8">
       <h2>Gene Haas Foundation</h2>
@@ -150,7 +150,7 @@ permalink: /pages/sponsors/our-sponsors/
     <div class="col-md-8">
       <h2>MIT Lincoln Labs</h2>
       <blockquote>
-        <h4>Technology in Support of National Security</h4>
+        <p><strong>Technology in Support of National Security</strong></p>
         <p>MIT Lincoln Laboratory researches and develops advanced technologies to meet critical national security needs. What sets us apart from many national R&amp;D laboratories is an emphasis on building operational prototypes of the systems we design.</p>
         <footer><a href="https://www.ll.mit.edu/" target="_blank">MIT Lincoln Labs website</a></footer>
       </blockquote>
@@ -161,10 +161,10 @@ permalink: /pages/sponsors/our-sponsors/
   <div class="row row-ruled">
     <div class="col-md-3">
       <div class="sponsor-level silver">Silver Sponsor</div>
-      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS&sz=w150" alt="Riemer & Braunstein logo" /></a>
+      <a href="https://drive.google.com/thumbnail?id=1ARjjs96spqFZyHYlRI3lLTcEcJ_GB4z3&sz=w600" data-fancybox><img src="https://drive.google.com/thumbnail?id=1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS&sz=w250" width="250" alt="Riemer & Braunstein logo" /></a>
     </div>
     <div class="col-md-8">
-      <h2>Riemer &amp; Braunstein</h2>https://drive.google.com/file/d/1_QqCcPy1lWOHb7FURfZxsndigfGPfEtS/view?usp=drive_link
+      <h2>Riemer &amp; Braunstein</h2>
       <blockquote>
         <p>Riemer &amp; Braunstein is a unique and dynamic firm in today's legal marketplace. Nationally, as a boutique finance firm with offices in key capital market centers, we represent major financial institutions, both domestic and foreign, in real estate finance and commercial finance transactions, working alongside the country's largest and most well-known law firms and sponsors. Regionally, as a local, full-service law firm, we focus on meeting the needs of banks, corporations and businesses, providing each client with cost-effective, responsive, and result-oriented service of the highest quality. Our over 90-year history and the long-standing commitment of our many institutional and business clients are testaments to our success.</p>
         <footer><a href="https://www.riemerlaw.com/" target="_blank">Riemer &amp; Braunstein website</a></footer>

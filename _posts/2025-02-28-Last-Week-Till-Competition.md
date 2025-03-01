@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Last week till Competition
+title: Last Week Till Competition
 date: 2025-02-28
 category: 2025
-published: false
+published: true
 ---
 By: Bhavya Patel
 

@@ -9,7 +9,7 @@ permalink: /pages/about/FIRST/
     </div>
       
     <h4 class="media-heading"><em>For Inspiration and Recognition of Science and Technology</em></h4>
-    <p>FIRST stands for For Inspiration and Recognition of Science and Technology. Founded by Dean Kamen in 1989, FIRST has, over the past 20+ years, generated interest in the science and technology fields in many students through its various programs, including FRC (FIRST Robotics Competition), FTC (FIRST Tech Challenge), and FLL (FIRST LEGO League).
+    <p>FIRST stands for For Inspiration and Recognition of Science and Technology. Founded by Dean Kamen in 1989, FIRST has, over the past 30+ years, generated interest in the science and technology fields in many students through its various programs, including FRC (FIRST Robotics Competition), FTC (FIRST Tech Challenge), and FLL (FIRST LEGO League).
     </p>
     <div class="flex-video widescreen">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/K_PuWjr7qcM" title="About FIRST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

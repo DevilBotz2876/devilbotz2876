@@ -1,12 +1,13 @@
 ---
 layout: post
-title: STEM Spectacular
+title: 2025 STEM Spectacular
 date: 2025-09-18
 category: 2025
 published: false
 ---
 By: Eleanor O'Neill
 
+<h1>2025 STEM Spectacular!</h1>
 <h2>SAVE THE DATE</h2>
 <h3>Nov 22 2025</h3>
 

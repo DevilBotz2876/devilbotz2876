@@ -3,7 +3,7 @@ layout: post
 title: 2025 STEM Spectacular
 date: 2025-09-18
 category: 2025
-published: false
+published: true
 ---
 By: Eleanor O'Neill
 

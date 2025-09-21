@@ -21,7 +21,6 @@ body {
     flex: 1 1 auto;
   }
 }
-
 .copyright-bar {
   background-color: #222;
   color: white;
@@ -30,7 +29,7 @@ body {
   margin-top: 2em;
 }
 
-.widget-area.sidebar {
+.right, .widget-area.sidebar {
   float: right;
   margin-left: 20px;
 }

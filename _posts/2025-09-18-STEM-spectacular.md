@@ -29,7 +29,7 @@ Event will be free to attend and open to the public.
 
 <h2>EXHIBITORS WANTED</h2>
 
-<div style="border: 1px solid red; padding: 6px;">
+<div style="border: 1px solid red; padding: 6px; max-width: 60%; margin: 0 auto;">
   <h3>Benefits:</h3>
 
   - Designated table with company name at event

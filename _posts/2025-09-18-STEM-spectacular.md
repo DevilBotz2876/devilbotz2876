@@ -29,18 +29,19 @@ Event will be free to attend and open to the public.
 
 <h2>EXHIBITORS WANTED</h2>
 
-<div style="border: 1px solid red; padding: 6px; max-width: 60%; margin: 0 auto;">
+<div style="border: 1px solid red; padding: 6px; max-width: 60%; margin: 0 auto; overflow: hidden;">
   <h3>Benefits:</h3>
-
-  - Designated table with company name at event
-  - Included on event communications and our website
-  - Showcase your company, products and how you use STEM to make the world better
-  - Highlight careers in STEM (and job openings)
-  - Invite employees, families, customers and suppliers to attend
-  - Distribute general information or promotional items
+  <ul>
+    <li>Designated table with company name at event</li>
+    <li>Included on event communications and our website</li>
+    <li>Showcase your company, products and how you use STEM to make the world better</li>
+    <li>Highlight careers in STEM (and job openings)</li>
+    <li>Invite employees, families, customers and suppliers to attend</li>
+    <li>Distribute general information or promotional items</li>
+  </ul>
 
   **Consider donating item(s) to be used as door or raffle prizes**
 </div>
 
 **FREE Exhibitor registration now open:**  
-https://www.signupgenius.com/go/60B044DA5A82C7-57664319-stem
+<a href="https://www.signupgenius.com/go/60B044DA5A82C7-57664319-stem">Sign up HERE</a>

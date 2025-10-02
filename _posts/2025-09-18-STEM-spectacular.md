@@ -9,7 +9,9 @@ By: Eleanor O'Neill
 
 <h1>2025 STEM Spectacular!</h1>
 <h2>SAVE THE DATE</h2>
-<h3>Nov 22 2025</h3>
+<h3>Nov 22 2025, 10:00 AM</h3>
+
+<h4>[*Tickets:* Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)</h4>
 
 Burlington High School<br />
 10 AM to 3 PM

@@ -42,7 +42,7 @@ Event will be free to attend and open to the public.
     <li>Distribute general information or promotional items</li>
   </ul>
 
-  **Consider donating item(s) to be used as door or raffle prizes**
+  <strong>Consider donating item(s) to be used as door or raffle prizes</strong>
 </div>
 
 **FREE Exhibitor registration now open:**  

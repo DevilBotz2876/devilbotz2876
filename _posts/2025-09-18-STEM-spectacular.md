@@ -11,7 +11,7 @@ By: Eleanor O'Neill
 <h2>SAVE THE DATE</h2>
 <h3>Nov 22 2025, 10:00 AM</h3>
 
-#### [Get tickets at Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
+### [Get tickets at Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
 
 Burlington High School<br />
 10 AM to 3 PM

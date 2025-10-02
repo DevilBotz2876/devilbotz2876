@@ -11,12 +11,13 @@ By: Eleanor O'Neill
 <h2>SAVE THE DATE</h2>
 <h3>Nov 22 2025, 10:00 AM</h3>
 
-### [Get tickets at Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
+Event will be **free to attend and open to the public**.
+### [Get Raffle and materials tickets at Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
 
 Burlington High School<br />
 10 AM to 3 PM
 
-Celebrate all things science, technology, engineering, math and of course, ROBOTS!
+### Celebrate all things science, technology, engineering, math and of course, ROBOTS!
 
 - Arts & crafts*
 - Games
@@ -25,7 +26,6 @@ Celebrate all things science, technology, engineering, math and of course, ROBOT
 - 2024 team sponsors
 - Door and raffle prizes*
 
-Event will be free to attend and open to the public.
 
 *cost applies
 

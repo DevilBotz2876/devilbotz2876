@@ -12,7 +12,7 @@ By: Eleanor O'Neill
 <h3>Nov 22 2025, 10:00 AM</h3>
 
 Event will be **free to attend and open to the public**.
-### [Get Raffle and materials tickets at Eventbrite](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
+### [Register Here](https://www.eventbrite.com/e/stem-spectatcular-tickets-1762949723079?aff=oddtdtcreator)
 
 Burlington High School<br />
 10 AM to 3 PM

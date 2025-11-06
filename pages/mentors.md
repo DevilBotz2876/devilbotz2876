@@ -7,7 +7,7 @@ permalink: /pages/about/mentors/
   <div class="row row-ruled">
     <div class="col-md-3"><img class="img-responsive" src="{{ site.baseurl }}/images/mentor_khan.png" data-fancybox alt="Arshad Kahn" width="300" /></div>
     <div>
-      <strong>Arshad Khan</strong> serves not only as 2876's Head Mentor, but also as a math teacher here at <em>Burlington High School</em>. When he's not busy posing for the camera or creating lesson plans for his motley calculus, geometry, and algebra classes, Arshad facilitates the club's business endeavors, creates regular meeting agendas, and assists the mechanical team with their daily tasks. Arshad also takes care of buying new parts and re-supplying our team's limited stocks whenever necessary. Zealous about Robotics and even more enthusiastic about instructing, Arshad taught an "Introduction to Robotics" course for the first time in 2015-16. This course, offered as an elective to all grades, serves to inspire the next generation of robot-enthusiasts.
+      <strong>Arshad Khan (on temporary leave)</strong> serves not only as 2876's Head Mentor, but also as a math teacher here at <em>Burlington High School</em>. When he's not busy posing for the camera or creating lesson plans for his motley calculus, geometry, and algebra classes, Arshad facilitates the club's business endeavors, creates regular meeting agendas, and assists the mechanical team with their daily tasks. Arshad also takes care of buying new parts and re-supplying our team's limited stocks whenever necessary. Zealous about Robotics and even more enthusiastic about instructing, Arshad taught an "Introduction to Robotics" course for the first time in 2015-16. This course, offered as an elective to all grades, serves to inspire the next generation of robot-enthusiasts.
     </div>
   </div>
 
@@ -26,7 +26,7 @@ permalink: /pages/about/mentors/
 
   <div class="row row-ruled">
     <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/uploads/2014/01/rsz_dsc_0167-300x300.jpg" data-fancybox alt="Mentor Eleanor O'Neill" width="300" /></div>
-    <div><strong>Eleanor O'Neill</strong> is a retired software engineer (<em>CyberGrants</em>). She has been mentoring the DevilBotz since 2013. She previously mentored with BERT 133 in Maine from 2007-2011. Eleanor particularly likes the competition because "it's a team sport, but for nerds like me." Ms O'Neill has a varied background including Editorial Assistant; Graphic Design and Prepress; teaching graphic software to designers and art students; administering computer networks; and then transitioned into a web-based (SASS) software career using a variety of languages: perl, PHP, Java, Python, React and more; as well as an affinity for databases. She also has a passion for space exploration and cookie baking.</div>
+    <div><strong>Eleanor O'Neill</strong>, occasional website mentor, is a retired software engineer (<em>CyberGrants</em>). She has been mentoring the DevilBotz since 2013. She previously mentored with BERT 133 in Maine from 2007-2011. Eleanor particularly likes the competition because "it's a team sport, but for nerds like me." Ms O'Neill has a varied background including Editorial Assistant; Graphic Design and Prepress; teaching graphic software to designers and art students; administering computer networks; and then transitioned into a web-based (SASS) software career using a variety of languages: perl, PHP, Java, Python, React and more; as well as an affinity for databases. She also has a passion for space exploration and cookie baking.</div>
   </div>
 
   <div class="row row-ruled">
@@ -41,11 +41,6 @@ permalink: /pages/about/mentors/
     <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-chris.jpg" data-fancybox alt="Chris Morse" width="300" /></div>
     <div><strong>Chris Morse</strong> joined the team when his son expressed interest. He has been a robotics engineer for over two decades and helps with electrical and mechanical subsystems. Mr. Morse consults and maintains his own machining, woodworking, and welding workshops. When not in the shop, He skis and climbs rocks.</div>
   </div>
-
-  <div class="row row-ruled">
-    <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
-    <div><strong>Margarita Prajapati</strong> is a mother of three and a small business owner. She got her start in 2021 when her eldest son joined the club during his freshman year of high school. She works with club members interested in fundraising, applying for grants, securing sponsors, community engagement, creating team building activities, and all other "support" activities before, during, and after FIRST Robotics competitions. She hopes to promote, create awareness of, and encourage more STEM programs in the Burlington Community.</div>
-  </div>
   
   <div class="row row-ruled">
     <div class="col-md-3"><a href="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/BHSRobotix_ProfilePic_Nilesh-600x600.jpg" alt="Mentor Nilesh Agarwalla" width="300" class="img-responsive bordered" /></a></div>
@@ -56,8 +51,6 @@ permalink: /pages/about/mentors/
     <div class="col-md-3" style="overflow: hidden; height: 300px;"><a href="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-e1642807127792.jpg" data-fancybox><img src="{{site.baseurl}}/images/uploads/2022/01/Sandhiya_Picture-369x600.jpg" alt="Mentor Sandhiya Krishnan" width="300" class="img-responsive bordered" /></a></div>
     <div><strong>Sandhiya Krishnan</strong> is currently working as an Agile Practitioner at <em>Sanofi Genzyme Pharmaceuticals</em>. She has 20+ years experience in the software industry working in various roles and 10+ years as an Agile Practitioner. She loves to work with organizations to change their working culture and mindset. She is a public speaking enthusiast and mentor to a youth group. She works with the DevilBotz team to teach them to work efficiently by visualizing travel around the world.</div>
   </div>
-
-  <h1 class="entry-title">New Mentors</h1>
 
   <!-- Barbara -->
   <div class="row row-ruled">
@@ -79,7 +72,12 @@ permalink: /pages/about/mentors/
     <div><strong>Eric Wojtaszek</strong> is a strong mentor for the software team, but not only is he a whiz in this department he also works with project management and is willing to help all who may be in need. He joined the DevilBotz in the fall of 2023 when Neil recruited him. Before his time as a robotics mentor, Mr. Wojtaszek worked hard at <em>Raytheon</em> for 27 years. In his free time, he is a family guy who also enjoys staying active. To keep his activity up, Eric partakes in some pleasurable outdoorsy adventures, such as skiing, cycling, and sailing!
     </div>
   </div>
+
+  <h1 class="entry-title">New Mentors</h1>
+
   
+<!-- STORAGE -->
+
   <!-- Neil
   <div class="row row-ruled">
     <div class="col-md-3"><img src="https://drive.google.com/thumbnail?id=1PJUlAEbXOaY3vge0ZQFMggAOGnpkDIx2&sz=w300" class="img-responsive bordered" /></div>
@@ -112,5 +110,11 @@ permalink: /pages/about/mentors/
     <div><p><strong>Kay Roth</strong> works at <em>Anduril</em> in Lexington as an R&D technician, specializing in soldering and custom cable harness design and builds for prototype cameras. She has also started designing small PCBs. Mentor Chris Morse recruited her after they both worked at a drone company. Ms Roth previously worked on Stretch at <em>Boston Dynamics</em> and a medical robot at <em>Vicarious Surgical</em>. She enjoys R&D because she gets to help engineers work through prototypes and iterations until there is a final product to toss over the fence to manufacturing/production -- then she gets to start on something new again!</p>
     <p><a href="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w450" style="float: right; margin-left: 10px;" data-fancybox><img src="https://drive.google.com/thumbnail?id=1Bq8uBU0T2mvYtfqdZcTdjADq8moDRXbL&sz=w160" /></a>Ms Roth was on <strong>MORT team 11</strong> in NJ from 2002-2006, and started her school's Lego League team. FIRST helped her a lot in high school with social anxiety and she formed some of her best friendships to this day from being on <strong>team 11</strong>. Outside of work, she is a Stephen King junkie and an animal lover, spending most of her free time tending to a personal zoo. She has a dog, two cats, a hamster, a chameleon, 11 frogs, three jumping spiders, a day gecko, a spiny flower mantis (see image), five blue death feigning beetles, and lots of terrariums filled with isopods (fancy roly-polies) and garden snails.</p></div>
   </div> -->
-  
+
+  <!-- Margarita
+   <div class="row row-ruled">
+    <div class="col-md-3"><img class="img-responsive bordered" src="{{site.baseurl}}/images/mentor-margarita-cropped.jpg" data-fancybox alt="Margarita Prajapati" width="300" /></div>
+    <div><strong>Margarita Prajapati</strong> is a mother of three and a small business owner. She got her start in 2021 when her eldest son joined the club during his freshman year of high school. She works with club members interested in fundraising, applying for grants, securing sponsors, community engagement, creating team building activities, and all other "support" activities before, during, and after FIRST Robotics competitions. She hopes to promote, create awareness of, and encourage more STEM programs in the Burlington Community.</div>
+  </div> -->
+
 </div>

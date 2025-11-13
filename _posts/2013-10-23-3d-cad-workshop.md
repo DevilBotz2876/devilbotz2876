@@ -9,7 +9,7 @@ By: Eleanor O'Neill - Mentor
 
 <img data-fancybox class="alignright size-medium" alt="Picture1" src="{{site.baseurl}}/images/uploads/2013/10/Picture1-300x215.png" width="300" height="215" />
 
-On November 16th, Team 2876 will be hosting a PTC Workshop, hosted by one of our very own mentors, and PTC employee, Scott Morris. This event is free, and will be hosted in the Lower Library of Burlington High School from 8:30am to 2:00pm. The workshop will, in Scott’s words, “help your team improve their overall design process and shorten the time required to make ‘smart’ design decisions.” It’ll also be “fun!”
+On November 16th, Team 2876 will be hosting a PTC Workshop, hosted by one of our very own mentors, and PTC employee, Scott Morris. This free event will be hosted in the Lower Library of Burlington High School from 8:30am to 2:00pm. The workshop will, in Scott’s words, “help your team improve their overall design process and shorten the time required to make ‘smart’ design decisions.” It’ll also be “fun!”
 
 This event is open to all members of a FRC or FTC team who would like to attend.
 
